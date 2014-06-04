@@ -1,0 +1,66 @@
+buying contexts
+
+physical
+	- user accessing a physical object like road, a community pool...
+	
+virtual
+	- accessing info sources like news articles or a database on-line
+	
+	
+1. buyer is a participant in NEO. It means has on-line account to allow access to virtual goods and one of the following to access physical goods:
+
+	a. an ID card 
+	b. a smartphone that would allow him to log into NEO account and authenticate funds withdrawal that way.
+	c. recorded biometric ID that can be used for authentication
+	
+2. buyer is not a NEO participant.
+
+In the transition phase between capitalism and NEO it is envisioned that also non-registered users should be able to gain access to NEO assets. In this scenario NEO asset creator would implement a mechanism for counting users of his/her asset. These data would be collected and merits corresponding to those users attributed to the asset creators as "virtual buyers". Virtual buyers would not pay (with grooves) directly, but via distribution payments from the community (government or donors) into NEO.
+
+Use cases:
+
+1. an individual or a group builds a passageway for some mode of transportation (car, bicycle, x-country ski)
+
+In this case the builder - before starting actual work on the project - would create a project profile and submit it into rovas. This record would contain ID of the project and it's description, including the estimated life span of the asset created by the project and estimated number of people expected to use it. 
+
+On the passageway a device would be installed to count people. Data from that counter would be collected and submitted into rovas where it could be accessible to anybody to provide analysis and verification that work has indeed been performed. Users of the passageways would be counted as buyers for the purpose of allocating merits to the project builders. This should serve as an incentive to the project builders to install and maintain the device in a working order.
+
+Finally, the usage data collected would be used to prove to donors or governments, that a socially useful work was performed. Money these organizations would donate would flow into the "forein currency" reserves of the NEO and would be used to buy products and services that NEO is not creating.
+
+
+Workers participating on building a project would be compensated by NEO in grooves the moment they submit their work reports. To ensure that workers will "bill" NEO only for socially useful work, 
+
+
+
+
+-------------
+
+QUESTION 1. implement controls to ensure only socially useful projects are (materially) rewarded?
+
+ANSWER 1
+
+In the transitory period, before NEO attracts enough asset producers of desirable assets available in the current economy, it might be necessary to buy them there and offer for sale in NEO. Funds to buy such assets will be during this phase mainly provided by donors and governments (redistribution). It is possible, that if NEO participants are allowed to create projects freely, they might create ones that are not immediately beneficial to the society (they will not find buyers). It would be possible to implement mechanism that would reward with grooves only assets that find buyers. However, such a constrain would destroy one of the basic principles of NEO - to reward ANY work a worker decides to work on materially, regardless of it's usefulness to the society. This principle is based on empirical evidence, that most people want to work on useful projects. A small percentage of individuals will choose to report fake work or produce assets that will not find buyers, but such individuals exist in the current economic systems as well and the society is taking care of them materially (homeless people, theoretical scientists...). Another reason is, that society might not find produced asset useful at the moment of it's creation, but in the future it will turn out to be of great value (scientific theories, works of art...). Therefore the answer to the question should be NO.
+
+
+QUESTION 2. How to fund expensive (multibuyer) projects?
+
+ANSWER 2
+• In funding big projects used by more than one buyer (roads, computer applications...), crowdfunding model can be used. Investors would pay price of their choosing into escrow. Once sum of these contributions reaches the cost to make the asset, worker would get the funds, create the asset and release it to the public. If any new buyers besides the investors start buying the asset, price for everybody will go down, beginning with the investors who contributed the most getting paid first.
+• a worker-inventor can incentivize buyers with allocating a share of merits for early investors. He/she can offer his/her existing ones, allocate a fixed amount of the sales proceeds, or set a percentage of the received merit gains rewarded over the asset lifetime. Investors contributing the most would receive a share of merits proportional to their investment.
+
+
+QUESTION 3. How to determine price of an asset?
+
+ANSWER 3
+• Price (grooves) of an asset is determined by the number of hours spent to create it.
+
+• single buyer - price equals the number of hours at the most. Examples: personal computer, house, car...
+
+• multiple buyers - each buyer determining his/her own price. If asset development is too expensive for a worker to finance himself/herself, the crowdfunding mechanism can be used described in Q2. The price is thus dynamic and all buyers will see it decreasing with increasing number of buyers.
+Examples: roads, school classes, blogs, applications...
+
+QUESTION 4. Should outside money be allowed to buy grooves?
+
+ANSWER 4
+
+• 
