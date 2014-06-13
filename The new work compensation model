@@ -49,29 +49,24 @@ The cost the buyer pays for a product is generally equal to the sum of the effor
 
 To clarify the proposal, we will illustrate it on couple of scenarios.
 
-The following nomenclature will be used for the two kinds of rewards: The engagement reward is granted in a currency we will call "grove" and impact of the effort is rewarded in "merits". One grove represents one hour of the performed work and the merit reward is calculated by the formula given above.
+The following nomenclature will be used for the two kinds of rewards: The engagement reward is granted in a currency we will call "equal" and impact of the effort is rewarded in "merits". One equal represents one hour of the performed work and the merit reward is calculated by the formula given above.
 
 Scenario A (one to one). In the simplest scenario, a worker works for x hours, producing product which is subsequently bought by a single customer. To make the product, worker uses some tools, energy and has other expenses, which are added to the product price. No markup is charged. Here it is necessary to mention that all extra expenses in fact represent human labor that was invested by "upstream" workers into manufacture of tools and services "our" worker is using. A system 
 
-Therefore, worker receives x groves for the time spent making product + any expenses.  1 merit M = (x/x)*1 = 1. Artisan jobs like pottery or furniture making are typical examples of this scenario.
+Therefore, worker receives x equals for the time spent making product + any expenses.  1 merit M = (x/x)*1 = 1. Artisan jobs like pottery or furniture making are typical examples of this scenario.
 
-Scenario B (many to one). In this scenario, multiple workers participate on production of a single product, which is "consumed" by one buyer. Each worker receives as many groves as is the number of hours they put into the project. The number of merits is again calculated using the formula given above. For example, if 30 workers together worked on production of a telephone for 8 hours and one of them worked on it for 3 minutes, his/her merit reward would be:
+Scenario B (many to one). In this scenario, multiple workers participate on production of a single product, which is "consumed" by one buyer. Each worker receives as many equals as is the number of hours they put into the project. The number of merits is again calculated using the formula given above. For example, if 30 workers together worked on production of a telephone for 8 hours and one of them worked on it for 3 minutes, his/her merit reward would be:
 
 M = (3/480)*1 = 0,00625
 
-During an 8 hour shift this worker would earn 8 groves and 1 merit. Total number of telephones manufactured in that period would be (8 * 60)/3 = 160. The telephone would cost 30 groves for direct human work plus the cost of human labor "embedded" in the tools our 30 workers used to make the product.
-
+During an 8 hour shift this worker would earn 8 equals and 1 merit. Total number of telephones manufactured in that period would be (8 * 60)/3 = 160. The telephone would cost 30 equals for direct human work plus the appropriate part of the cost of human labor "embedded" in the tools our 30 workers used to make the product. Here it should be noted that tools are embodiments of human labor and this in NEO will be recorded in rovas.
 
 Next, the number of customers is divided by the individual contributions of each worker. The resulting number will determine the number of merits earned by each worker. The sum of equals paid by all the customers for the products will be equal to the sum of hours of all workers participating on manufacture of the product. In some cases the community (maybe represented by a government) will set a minimum price for the product or service to extract value for community-beneficial projects.
-
-Such records will be stored in a distributed, redundant database. If the work performed by a single worker produces a product bought from the worker by a single customer, the price of the product will be equal to the number of hours that the work took. The impact 
-
-* "normal" money received from governemnts, donors and own economic output will the NEO economy use to buy equals from "normal" businesses (merchants). NEO should guarantee that all equals will be possible to exchange for a "classical" currency. The amount of equals circulating in the NEO and available for exchange should be at least initially controlled to make sure that they are possible to exchange for real currency.
 
 
 Conclusion
 
-* NEO allows people to earn money for work on projects the current economy can not monetize.
+* NEO allows people to earn money for work on projects the current economy can not pay for.
 
 [1] i.e. counted is only time during which the worker was working with full intensity 
 [2] Picketty

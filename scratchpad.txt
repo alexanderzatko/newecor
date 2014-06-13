@@ -1,29 +1,52 @@
-buying contexts
+> terminology
 
-physical
-	- user accessing a physical object like road, a community pool...
-	
-virtual
-	- accessing software applications, info sources like news articles or databases on-line
-	
-	
-1. buyer is a participant in NEO. It means has on-line account that provides access to digital goods and one of the following to access physical goods:
+NEO - Economy built around the model described in this proposal
 
-	a. an ID card 
-	b. a smartphone that would allow him to log into NEO account and authenticate funds transfer that way.
-	c. recorded biometric ID that can be used for authentication
+equal - an unit of material reward. It has value of 1 hour of work.
+
+merit - an unit of social impact reward. It is calculated from the number of hours spent to make an asset and the number of it's consumers.
+
+rovas - the distributed database/application responsible for storing work reports, calculating rewards and implementing other NEO algorithms.
+
+asset - a physical or virtual product, or service
+
+consumer - a buyer or user of assets.
+
+basic income - an amount of equals automatically granted (once per defined period) into each NEO participant's account, if during defined period the balance should fall below a given limit. The exact amount will be calculated by rovas algorithm and depend on the strenght of NEO. Initially it will be low, but should grow with increasing strenght of NEO and the value of equal.
+
+
+> buying contexts
+
+• physical
+	- user accessing physical objects like road, a community pool...
+	
+• virtual
+	- accessing software applications, info sources like news articles or data in on-line databases...
+	
+> consumer types
+
+1. consumer is a participant in NEO. It means that he/she has an on-line account, which provides access to digital assets. To access physical assets, this consumer type needs one of the following:
+
+	a. a NEO ID card (not sure yet who, or how would issue it and what it would contain)
+	b. a smartphone with a special application used to transfer consumer's ID
+	c. a recorded biometric ID associated with consumer's NEO profile, that can be used for authentication.
 	
 2. buyer is not a NEO participant.
 
-In the transition phase between capitalism and NEO it is envisioned that also non-registered buyers could - at the asset creator's discretion - be allowed to gain access to NEO assets. In this scenario the mechanism responsible for counting buyers that each NEO project should implement would count also non-NEO buyers. These data would be collected and merits corresponding to those users attributed to the asset creators as "virtual buyers". Virtual buyers would not pay (with eqals) directly, but via distribution payments from the community (government or donors) into NEO.
+In the transition phase between current economy and NEO it is envisioned that also non-NEO-registered (anonymous) consumers could - at the asset creator's discretion - be allowed to gain access to NEO assets. In this scenario, a mechanism responsible for counting consumers that each NEO project should implement would count also anonymous consumers.
 
 Use cases:
 
-1. an individual or a group builds a passageway for some mode of transportation (car, bicycle, x-country ski)
+1. an individual or a group builds a passageway for some mode of transportation (car, bicycle, x-country ski). They use tools and machinery that other NEO workers produced. They acquired these in one of these ways:
+	a. paid for them with loan from a bank-like institution
+	b. received the tools without any payment because the the tool manufacturer decided to offer them using "dynamic payment pricing" when proceeds from sales of assets produced with the tools are shared between the tool and the asset creators.
+	c. raised money to purchase the tools in an crowd-funding event.
 
-On the passageway a device would be installed to count people. Data from the counter would be collected and submitted into rovas (where it could be accessible to anybody to provide analysis and verification). Project creators would have a strong motive to install counter of asset users because that would be the only way to earn merits and in the transitory phase also eqals. Once the transitory phase is over, community might decide to pay eqals for any work, regardless of it's immediate impact.
+The asset creators - knowing that they get rewarded only if it is known how many people use it, install device for counting consumers using the asset. Data from the counter is collected and submitted into rovas.
 
-Workers participating on building a project would be compensated in eqals when they are assigned to their project by rovas. It means that they would not be rewarded for their work fully immediately, but the complete compensation in eqals should come over time with the growing number of their project-generated asset buyers.
+Workers working on the project would be compensated in eqals when the asset they produced is consumed. It means that they would not be rewarded for their work fully immediately, but the complete compensation in eqals should come over time with growing number of consumers.
+
+The workers might decide to allow access to their asset to all types of consumers, or restrict it only to some types. 
 
 • allow unrestricted access to asset and regularly send access log to NEO participants showing:
 	• their current eqal and merit balances
@@ -31,13 +54,13 @@ Workers participating on building a project would be compensated in eqals when t
 	• the current total cost for accessing all assets
 	• a form control alowing user to adjust the amount of eqals he/she is willing to pay. Next to the set number of eqals could be shown the number of merits the buyer would get for paying - the more of the ballance is paid, the more merits buyer would earn.
 
-After a (partial) payment is submitted, rovas would allocate the funds received to all of the listed projects using some function (each receives the same percentage, or the projects with the greatest unpaid ballances get paid more, e.t.c...). This would lower the outstanding ballance on all projects. The rovas adjustment function can be constructed in such a way, as to present outstanding balance for popular projects even after they are fully paid to: 
+After a (partial) payment is submitted, rovas would allocate funds received to all of the listed projects using some function (each receives the same percentage, or the projects with the greatest unpaid ballances get paid more, e.t.c...). This would lower the outstanding ballance on all projects. The rovas adjustment function can be constructed in such a way, as to present outstanding balance for popular projects even after they are fully paid to: 
 	1. help pay for projects not fully paid yet
 	2. return money to accounts of the earlier buyers who paid too much.
 	
 This way, eqals would be returned to the early buyers as more buyers would pay for the assets.
 
-In the transitory stage when not enough eqals is collected from buyers to pay all asset-producing workers, the unpaid work can be paid by outside money donated to NEO by governemnts and donors. Once all workers' effort is covered by the sum of eqals or outside money, projects would be marked as fully paid for.
+In the transitory stage when not enough eqals is collected from buyers to pay all asset-producing workers, the unpaid work can be paid by outside money donated to NEO by governemnts and donors.
 
 -------------
 
@@ -45,31 +68,34 @@ QUESTION 1. implement controls to ensure only socially useful projects are (mate
 
 ANSWER 1
 
-In the transitory period, before NEO attracts enough asset producers of desirable assets available in the current economy, it might be necessary to buy them there and offer for sale in NEO. Funds to buy such assets will be during this phase mainly provided by donors and governments (redistribution). It is possible, that if NEO participants are allowed to create projects freely, they might create ones that are not immediately beneficial to the society (they will not find buyers). It would be possible to implement mechanism that would reward with eqals only assets that find buyers. However, such a constrain would destroy one of the basic principles of NEO - to reward ANY work a worker decides to work on materially, regardless of it's usefulness to the society. This principle is based on empirical evidence, that most people want to work on useful projects. A small percentage of individuals will choose to report fake work or produce assets that will not find buyers, but such individuals exist in the current economic systems as well and the society is taking care of them materially (homeless people, theoretical scientists...). Another reason is, that society might not find produced asset useful at the moment of it's creation, but in the future it will turn out to be of great value (scientific theories, works of art...). Therefore the answer to the question should be NO.
+• In NEO, projects that do not find consumers at the time of their introduction are not immediately rewarded. However, their creators will get paid for producing such assets in the future - once society finds them useful. In this respect rewarding in NEO is more fair, as inventors, scientists and artists whose work is often appreciated only after long time, will receive full reward eventually. In the current economy it is often the case that creative people are not the ones benefiting from their work, because once sold, they loose ability to benefit from the asset's rising value.
 
+• Each NEO participant will receive basic income, which should - once equal acquires sufficient value - provide enough means to allow individuals lead decent life even if the assets they produce do not immediately find buyers.
 
 QUESTION 2. How to fund expensive (multibuyer) projects?
 
 ANSWER 2
-• In funding big projects used by more than one buyer (roads, computer applications...), crowdfunding model can be used. Investors would pay price of their choosing into escrow. Once sum of these contributions reaches the cost to make the asset, worker would get the funds, create the asset and release it to the public. If any new buyers besides the investors start buying the asset, price for everybody will go down, beginning with the investors who contributed the most getting paid first.
-• a worker-inventor can incentivize buyers with allocating a share of merits for early investors. He/she can offer his/her existing ones, allocate a fixed amount of the sales proceeds, or set a percentage of the received merit gains rewarded over the asset lifetime. Investors contributing the most would receive a share of merits proportional to their investment.
+
+• In funding big projects used by more than one buyer (roads, computer applications...), crowdfunding model can be used. A worker-enterpreneur would publish a crowdfunding project containing description and the amount of money sought to raise. Investors willing to support the project would pay price of their choosing into escrow account. Once sum of these contributions reaches the cost to make the asset, worker would receive the funds, create the asset and start selling it to the public. If any new buyers buy the asset, price for everybody will go down, beginning with the investors who contributed the most, getting paid first.
+
+• a worker-enterpreneur can incentivize buyers with allocating a share of merits for early investors. He/she can offer his/her existing ones, allocate a fixed amount of the sales proceeds, or set a percentage of the received merit gains rewarded over the asset lifetime. Investors contributing the most would receive a share of merits proportional to their investment.
 
 
 QUESTION 3. How to determine price of an asset?
 
 ANSWER 3
-• Price (eqals) of an asset is determined by the number of hours spent to create it.
 
-• single buyer - price equals the number of hours at the most. Examples: personal computer, house, car...
+• Price (eqals) of an asset is determined by the number of hours spent to create it. It is also a function of the number of consumers who buy it. In general the creator will have ability to set a minimum price for created asset. The price can range from 0 equals, to the number of hours it took to create the asset (including hours of "upstream" workers who produced the tools used).
 
-• multiple buyers - each buyer determining his/her own price. If asset development is too expensive for a worker to finance himself/herself, the crowdfunding mechanism can be used described in Q2. The price is thus dynamic and all buyers will see it decreasing with increasing number of buyers.
-Examples: roads, school classes, blogs, applications...
+• single buyer - the asset creator will most often set the price to the number of hours needed to create the asset. Examples: personal computer, house, car...
+
+• multiple buyers - the asset creator can set minimum price and let consumers determine their own price. In this scenario the asset creator will not receive complete reward immediately, but will receive partial payments from individual buyers as they purchase the asset. Once the full price is paid, sale of the asset continues and the extra payments are distributed to accounts of all previous buyers to lower their previously-made payments. Thus, the cost of assets like roads, school classes, blogs or computer applications will decrease with the growing number of consumers buying (access to) them.
 
 QUESTION 4. Should outside-NEO money be allowed to buy eqals?
 
 ANSWER 4
 
-• In general, NEO should be closed to outside money. This rule will probably slow NEO ascend to self-sufficiency, but it should prevent transfer of wealth inequality, which is in the long term the desirable outcome. However, there should be a way to reward NEO participants with outside money for work done in NEO during the transition phase. In this scenario, a worker producing an asset would allow access to it also to non-paying, consumers. There would have to be a mechanism implemented by the worker, capable of counting unique consumers. Those numbers would be used as a proof of work to the donors or governments who should thus be more inclined to pay workers with outside money. In a way, the non-paying consumers would pay indirectly through their governments or donor-provided distributions.
+• In general, NEO should be closed to outside money. This rule will probably slow NEO ascend to self-sufficiency, but it should prevent transfer of wealth inequality, which is in the long term the desirable outcome. However, there should be a way to reward NEO participants with outside money for work done in NEO during the transition phase. In this scenario, a worker producing an asset would allow access to it also to non-paying, consumers. There would have to be a mechanism implemented by the worker, capable of counting unique consumers. Those data would be used as a proof of work to the donors or governments who should thus be more inclined to pay workers with outside money. In a way, the non-paying consumers would pay indirectly through their governments or donor-provided distributions.
 
 • There is a danger that workers might focus on growing the proportion of users who do not pay with eqals, in order to get paid in outside money. However, there are at least two mechanism how to steer workers toward prefering payments in NEO currencies. First - merits could be granted only for asset usage by consumers paying with equals and second, the payments in eqals should have greater purchasing power than reward paid in the outside currency.
 
@@ -79,26 +105,49 @@ QUESTION 5. How should lending/giving money be handled?
 
 ANSWER 5
 
-• Transfering equals between individuals' accounts for reasons other than transfering payments for performed work should be prohibited in NEO. Money credited to an individual's account can be only earned, which means also that any form of inheritance is not allowed. After an individual dies, the remaining account balance will either be destroyed, or transfered to the collective NEO account. The reason for this constrain is, that from social point of view it is desirable that each individual earns money for his/her livelihood.
+• Equals can be transfered between individuals' accounts freely.
 
-• Support for people who for various reasons can not earn money themselves, should be handled by unconditional distribution (a.k.a. basic income).
+• Support for people who for various reasons can not earn money themselves should be handled by unconditional distribution (a.k.a. basic income).
 
-• Money lending should be possible using bank-like institutions and there should be few limitations to qualify for a loan. The amount an individual might be able to borrow will be determined by rules established at a later time. These will be similar to the rules used in the current economy - trustworthiness of the borrower (using the merit score), history of previous loan repayments, etc.. 
+• Money lending should be possible using bank-like institutions and lonas should be granted liberally. The amount an individual will be able to borrow should be determined by rules similar to the ones used in the current economy - trustworthiness of the borrower (using the merit score), history of previous loan repayments, etc...
 
-• No interest should be charged on loans (NEO is not supporting concept of profit).
+• No interest should be charged on loans as concept of profit does not exist in NEO.
 
-• to make monitoring of no gifts policy easier, a rule in the rovas algorithm should refuse crediting an account if the recipient could not possibly have earned credited money by work. There is only 24 hours in a day and people need to sleep at least 5 hours. The concrete upper deposit limits will be determined later.
 
 QUESTION 6. How to prevent abuse of the system?
 
 ANSWER 6
 
-• workers will be able to work on existing projects only if project owner accepts their application. This practice is similar to a concept of hiring of the current economic system.
+• workers will be able to work on existing projects only if project owner accepts their application and it is in their interest to make sure workers produce value, because allowing workers who do not produce value dilutes their rewards. This practice is similar to the concept of hiring in the current economic system.
+Of course it is possible that people could create projects and claim work that they did not perform, but this strategy will fail, as they will receive only as many equals as consumers pay for them.
+
+• sybil attacks can be avoided by implementing approvals in the following way: A person interested in joining NEO will either want to work on an existing project, or create a new project. They can create accounts, but these will be in a pending status - where they will not qualify to receive basic income - until one of these options occurs:
+a. the new user asks a project owner to join a project and that request is granted
+b. the new user creates a project and hires (say) 3 registered user to work on it
+c. (say) 5 users confirm validity and uniquenes of the request.
+
 
 QUESTION 7. What are the incentives for participating in NEO?
 
 ANSWER 7
 
-• All participants will receive basic income. In transitory period this will be a more-less symbolic amount of equals. The exact number will be calculated by rovas. The controlling parameter will be the performance (state) of NEO.
-• Anybody will be free to create new projects with the prospect of earning more equals that they would get from the basic income part. If a new project attracts enough buyers or non-paying users (during the transition stage), all worker's working hours will be rewarded in equals or in outside currency. Worker in this case earns also merits.
+• All participants will receive basic income. In transitory period this will be a more-less symbolic amount of equals. The exact number will be calculated by rovas and the controlling parameter will be performance (state) of NEO.
 
+• In NEO - unlike in the current economy - workers are not rewarded once - at the time their product is offered on the market, but they continue receiving equals and merits as the consumer interest grows. That should result in a situation where sometimes workers will receive the bulk of reward for work that might be initially unpopular long after it was completed.
+
+• In the transitory period workers who produce and sell an asset, but do not find enough NEO-registered consumers to cover the total asset cost, will be paid the difference in the currency of the existing economic system. That money will originate from governemnts and donors and will be deposited into workers' non-NEO bank accounts. A condition for receiving such payments is solid usage data that asset creator will gather by implementing usage measuring device. 
+
+
+QUESTION 8. How to import tools, technologies and materials into NEO?
+
+ANSWER 8
+
+Initially, NEO will not be producing many tools needed to create assets and these will have to be "imported". The means for buying them will need to come from the governments and donors - the sources commonly used today to finance non-profit projects in the current economy. However, over time NEO will start producing it's own assets and among them will be also intelectual property and tools.
+
+QUESTION 9. Should rewards trickle up the production chain?
+
+ANSWER 9
+
+• workers need tools to make assets. Their cost represents the amount of human labor invested to making them (cost of materials they are made of is negligible). The tool creators can be therefore considered collaborators in the process of asset creation and should be rewarded adequately in equals as well as in merits.
+
+• accurate record keeping of tool purchases and asset sales are necessary for proper allocation of rewards. Businesses and individuals of the current economy are tracking these movements in order to file tax and other types of reports. Situation in NEO should not be very different in the data collecting aspect. It might be easier for calculations of rewards (and possible taxes if society decides to raise money that way) because those are performed by rovas automatically.
