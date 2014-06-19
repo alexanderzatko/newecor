@@ -25,15 +25,15 @@ basic income - an amount of equals automatically granted (once per defined perio
 	
 > consumer types
 
-1. consumer is a participant in NEO. It means that he/she has an on-line account, which provides access to digital assets. To access physical assets, this consumer type needs one of the following:
+1. has an account in NEO. It means that he/she has an on-line account, which provides access to digital assets. To access physical assets, this consumer type needs one of the following:
 
 	a. a NEO ID card (not sure yet who, or how would issue it and what it would contain)
 	b. a smartphone with a special application used to transfer consumer's ID
 	c. a recorded biometric ID associated with consumer's NEO profile, that can be used for authentication.
 	
-2. buyer is not a NEO participant.
+2. does not have a NEO account.
 
-In the transition phase between current economy and NEO it is envisioned that also non-NEO-registered (anonymous) consumers could - at the asset creator's discretion - be allowed to gain access to NEO assets. In this scenario, a mechanism responsible for counting consumers that each NEO project should implement would count also anonymous consumers.
+In the transition phase between current economy and NEO it is envisioned that also non-NEO-registered (anonymous) consumers could - at the asset creator's discretion - be allowed to gain access to NEO assets. In this scenario, a mechanism for counting consumers would count also the anonymous ones.
 
 Use cases:
 

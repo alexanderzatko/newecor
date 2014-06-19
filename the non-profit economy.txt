@@ -1,0 +1,90 @@
+The non-profit economy
+
+"Without a class dependent on wages, the moment individuals confront each other as free persons, there can be no production of surplus value; without the production of surplus-value there can be no capitalist production, and hence no capital and no capitalist![1]"
+
+Introduction
+
+This paper describes a new economic model, designed to eliminate income inequality and restart economic growth, while preserving competitive aspect and dynamic qualities of capitalist economic system. It is built upon findings about relationship between income and happiness, globally growing presence of non-profit volunteer work and last but not least on technological advances that make this proposal practically realisable.
+
+There are two observations in particular that served as inspiration for the proposed model:
+
+1. Recent behavioral economics studies show, that happiness rises with increasing income only up to a certain amount ($75,000 in the USA). Any further increases beyond fail to "buy" more happiness[2].
+
+2. Every year, about one billion people from around the world work for free to produce socially useful work. In the process, they generate value that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[3].
+
+From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. These conclusions lead to revision of one of the most important aspects of any economic system - the remuneration mechanism. The one proposed here explicitly rewards pro-social aspect of work, while establishing a natural limit on the size of material compensation a worker can receive. In the proposed model, in contrast to the reward mechanism of capitalist economic system (wage), the proposed model introduces two separate types of rewards:
+
+1. for the number of work hours a particular job takes to complete (effort),
+
+2. for the number of people benefiting from the product or service rendered by the effort (impact).
+
+The proposed model further postulates:
+a. workers are materially compensated only for effort and not for impact,
+b. the size of  material compensation received is independent of the work type (equality of effort),
+c. workers are rewarded for impact of their work by a new measure reflecting the number of people benefiting from performed work.
+d. people, who in a given time period for various reasons do not produce economic value, receive unconditional basic income.
+
+
+Discussion
+
+Anemic economic growth, high unemployment, decreases in real incomes and other problems that currently plaque the world economy are to a growing number of economists signs that the capitalist system is ready for a revision. Expanding gap in incomes between the poorest and the most affluent especially has been singled out as a threat to the world economy[4]. The solutions offered include increasing regulation, investemnts in education of workforce, increasing taxation, and other. However, all of them are either costly, or politically unacceptable to a signifficant segment of policy makers to guarantee a quick resolution.
+
+The solution to the problem ofered by the model proposed here does not require any regulatory measures or reaching a political consensus. It can be implemented as a social enterprise taking advantage of technological advances, ideas of open source movement and the growing number of volunteers that have been gaining importance over the past several decades.
+
+The basic idea the new model is built upon is a revision of the way workers are rewarded for their work by acknowledging that there are two aspects of work and therefore there should be also two types of corresponding rewards. One - the "effort" kind - for the number of hours needed to complete a job. Because this reward can be exchanged for goods or services, it is similar to wage of the capitalist economic system. There is an important difference however. In the (new) "effort" reward type, the value of compensation a worker can earn in an hour does not depend on the type of work performed. This means for example, that an hour of computer programmer's work is rewarded materially the same as one hour of a farm worker's manual labor. There are several reasons to introduce this constrain, but the main one is a reflection of the observed fact, that once material income sufficient for providing reasonably comfortable life is reached, additional material compensation is becoming ineffective as an instrument to increase happiness. Instead of increasing material compensation for more important work - understood as work benefiting more people - the "impact" reward is granted.
+
+A natural question is, whether people in occupations that require long years of studying would feel less motivated to work in their fields if they did not receive more material compensation than people working in less intellectually demanding fields. To judge an impact of (more-less) equal wages on motivation we can analyze situation of socialist economies. It is tempting to attribute their ultimate failure to the wage equality, but closer scrutiny reveals a more complicated picture. For one, these were planned economies, where freedoms of all kinds were suppressed and among them also freedom to create enterprises - the engines of economic growth. Furthermore, remuneration does not only provide workers with means to buy material goods or services. It is also an indicator of value that performed work delivers to the society. This explains a fact, that even though doctors and engineers educated in socialist contries received more-less the same wages as less educated workers, interest to study in universities always exceeded the education systems' capacity. It turns out that most people chose to study for higher social status associated with owning an university degree and a smaller group of individuals chose to study to satisfy their desire to know. Apparently, earning a bigger wage is not in general the main motivator causing an individual to study.
+
+As can be seen, social aspect of work is an important factor, that in the proposed model acquires form of a new kind of reward. This "impact" aspect of work is commensurable with the number of people who benefit from an individual's work. 
+
+The postulate "d" is introduced to provide material means to lead a normal life to people who during some time period do not produce socially-valuable economic output. Among them are children or people with health problems. Creative workers like artists, inventors or scientists might also for a period of time be producing output that does not find in a given period consumers, but will so in the future. The amount of unconditional basic income or the mechanism of it's alocation will be discussed further down in this paper.
+
+
+Implementation
+
+Software engineer providing services in the digital domain.
+
+A volunteer building bridge over a creek.
+
+In the proposed model, the size of rewards granted for performed work is derived from a simple record, containing ID of a worker, ID of the project the work relates to and the number of hours worked. The effort reward then equals number of hours worked. Impact reward is calculated from the number of hours work took and the number of customers who bought it, using the following formula:
+
+M = (h/H)*C  where:
+
+M is size of the impact reward a worker receives
+h is number of hours a worker invested into making the product
+H is sum of hours invested by all workers who participated on making the product
+C is the number of consumers who bought the product
+
+In most situations the final size of impact reward is not granted immediately after the work is completed, because at that time it might not be known if or how many people will buy the product. Instead it is constantly recalculated over time. The calculation will be performed by a software application called "rovas"[3] running on a cloud computing platform like MadeSafe. The application's purpose is to record, recalculate and dynamically allocate work rewards between participants in the economy by following principles described further down in this document.
+
+....
+
+The cost the buyer pays for a product is generally equal to the sum of the effort rewards paid to the workers who directly, or indirectly participated in the process of making the product. The indirect labor is "hidden" in the tools the worker uses or expenses he/she has to pay to make the product.
+
+To clarify the proposal, we will illustrate it on couple of scenarios.
+
+The following nomenclature will be used for the two kinds of rewards: The engagement reward is granted in a currency we will call "equal" and impact of the effort is rewarded in "merits". One equal represents one hour of the performed work and the merit reward is calculated by the formula given above.
+
+Scenario A (one to one). In the simplest scenario, a worker works for x hours, producing product which is subsequently bought by a single customer. To make the product, worker uses some tools, energy and has other expenses, which are added to the product price. No markup is charged. Here it is necessary to mention that all extra expenses in fact represent human labor that was invested by "upstream" workers into manufacture of tools and services "our" worker is using. A system 
+
+Therefore, worker receives x equals for the time spent making product + any expenses.  1 merit M = (x/x)*1 = 1. Artisan jobs like pottery or furniture making are typical examples of this scenario.
+
+Scenario B (many to one). In this scenario, multiple workers participate on production of a single product, which is "consumed" by one buyer. Each worker receives as many equals as is the number of hours they put into the project. The number of merits is again calculated using the formula given above. For example, if 30 workers together worked on production of a telephone for 8 hours and one of them worked on it for 3 minutes, his/her merit reward would be:
+
+M = (3/480)*1 = 0,00625
+
+During an 8 hour shift this worker would earn 8 equals and 1 merit. Total number of telephones manufactured in that period would be (8 * 60)/3 = 160. The telephone would cost 30 equals for direct human work plus the appropriate part of the cost of human labor "embedded" in the tools our 30 workers used to make the product. Here it should be noted that tools are embodiments of human labor and this in NEO will be recorded in rovas.
+
+Next, the number of customers is divided by the individual contributions of each worker. The resulting number will determine the number of merits earned by each worker. The sum of equals paid by all the customers for the products will be equal to the sum of hours of all workers participating on manufacture of the product. In some cases the community (maybe represented by a government) will set a minimum price for the product or service to extract value for community-beneficial projects.
+
+
+Conclusion
+
+* NEO allows people to earn money for work on projects the current economy can not pay for.
+
+[1] Marx, Karl, Capital
+[2] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being
+[3] Lester M. Salamon, S. Wojciech Sokolowski, Megan A. Haddock: Measuring the economic value of volunteer work globally: concepts, estimates, and a roadmap to the future
+[4] Piketty, Capital in the Twenty-First Century
+
+[xxx] Slovak word "rováš" stands for a physical object like a plank of wood, or animal antler where grooves are made for each unit of value one trading party owes to another.
