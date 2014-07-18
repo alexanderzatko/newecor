@@ -2,7 +2,7 @@ The non-profit economy
 
 Introduction
 
-This paper describes framework for a new economic model, built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of capitalist remuneration mechanism, which takes into account pro-social aspect of work, has the potential, to solve some of the most pressing problems of the current world economy.
+This paper describes framework for a new economic model, built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of capitalist remuneration mechanism, which takes into account pro-social aspect of work has potential to solve some of the most pressing problems of the current world economy like anemic economic growth, income inequality and others.
 
 There are two observations in particular that served as inspiration for the new model:
 
@@ -12,34 +12,40 @@ There are two observations in particular that served as inspiration for the new 
 
 From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from the society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing natural limit on the size of material compensation a worker can receive. Thus - in contrast to the reward mechanism of capitalist economic system (wage) - in the proposed model, work reward consists of two separate types:
 
-1. for the number of work hours a particular job takes to complete (effort),
-2. for the lenght of time the product or service rendered by the effort is used (impact).
+1. effort - for the number of work hours a particular job takes to complete,
+2. impact - for the lenght of time the product or service rendered by the effort is used.
 
 The proposed model further postulates:
 a. workers are materially compensated only for effort and not for impact,
 b. size of  material compensation received is independent of the work type (equality of effort),
-c. workers are rewarded for impact of their work by a new measure equal to the lenght of time a product or service rendered is used.
-d. people, who in a given time period for any reason do not produce economic value, receive unconditional, basic income.
+c. people, who in a given time period for any reason do not produce economic value, receive unconditional, basic income.
 
 Discussion
 
-Focus of this section is to provide an explanation of the individual postulates the proposed model is built upon.
-
 1. two types of rewards for performed work.
 
-The evidence, that social impact of work is important comes not only from already mentioned behavioral studies performed by scientists in controlled settings, but also from a relatively new phenomenon - internet social networks, that have emerged during the past decade. Many of them introduced functionality, which allows their users to rate content created by others, in efect creating a measure of social value of an individual's contribution. It would be an understatement to say that this functionality is merely popular, as it is common for members of these networks to spend substantial amounts of time and money to create new content just to increase their rating. Another example of motivational power of social impact of work is the amount of value, created worldwide by volunteers, addressing market needs the capitalist system is incapable of rewarding. 
+The basic premise of this paper is a belief, that problems caused by the work reward mechanism of capitalist economic system (unemployment, declining real wages, income inequality, questionable connection between reward amount and performance..) can be solved by adopting a new one, that takes into account social impact of work. This belief stands on a growing body of evidence:
 
-An explicit reward for social aspect of work is therefore an integral part of the proposed economic model. It is calculated from the cummulative lenght of time, during which product or service has been used. The amount of this reward type is different for different types of work, reflecting it's usefulness, and therefore it's value. Unlike wage of the capitalist economic system this reward can not be traded for material goods or services, but like wage serves as the motivation mechanism in the new model.
+1. people worldwide are willing to work for free on socially beneficial projects, 
+2. behavioral economic studies revealed a relationship between the amount of material work reward and happiness that defies expectations of the capitalist economic model,
+3. millions of people are daily creating content on internet social networks only to increase their social standing, measured with newly-invented instruments like Facebook "likes", or Youtube ratings.
 
-The second reward type - "effort" - is in the new model calculated from the number of hours needed to complete a job. This reward can be exchanged for goods or services, which makes it similar to wage of the capitalist economic system. 
+In the proposed model, social impact of work is a reflection of it's value to society, calculated from the cummulative lenght of time, during which product or service has been used. The size of this reward is different for different types of work, reflecting it's usefulness and therefore it's value. Unlike wage of the capitalist economic system this reward can not be traded for material goods or services, but like wage acts as motivation mechanism in the new model.
+
+The second reward type is given for "effort" and it is calculated from the number of hours needed to complete a job. This reward can be exchanged for goods or services, which makes it similar to the existing time based community currencies[*] like Time Dollar. 
 
 2. Equality of effort.
 
-In the capitalist economy, determining the amount of wage is the result of negotiation between worker and employer and is affected by various factors. The inexact nature of the process is cause of many problems. For example, workers might receive for the same type and amount of work different wage at different times, or at different companies. Another problem is, that the wage amount varies wildly across the pay spectrum, often with excessive compensation received by upper management on one end and low pay - insufficient to cover basic living needs - on the other. 
+In the capitalist economy, multiple factors are a context of negotiations between worker and employer that determine wage amount. The inexact nature of the process is cause of many problems. For example, workers might receive different wage for the same type and amount of work at different times, or at different companies. Another problem is, that wage amount varies wildly across pay spectrum, often with excessive amount of compensation received by upper management at one end and low pay - insufficient to cover basic living needs - at the other. 
 
-In the "effort" reward type of the proposed model, value of compensation a worker can earn in an hour does not depend on the type of work. A direct consequence is, that for example an hour of computer programmer's work is rewarded materially the same as one hour of a farm worker's manual labor. The main reason for existence of this constrain is, that the carrier of value in the new model is not "effort" but "impact" reward, as explained above. Correctness of this choice is implied also by the observed fact, that once a certain amount of wage income is reached, additional increases are ineffective as an instrument to increase happiness (and thus motivation to increase productivity).
+In the "effort" reward type of the proposed model, value of compensation a worker can earn in an hour does not depend on the type of work. For example, an hour of computer programmer's work is rewarded materially the same as one hour of a farm worker's manual labor.
 
-It can be expected that this proposal will be met with opposition and one of the stronger arguments against the equality of effort postulate is, that people in occupations requiring long years of studying would feel less motivated to work in their fields if they did not receive more material compensation than people working in less intellectually demanding fields. To judge an impact of (more-less) equal wages on motivation we can analyze situation of socialist economies. It is tempting to attribute their ultimate failure to the wage equality, but closer scrutiny reveals a more complicated picture. For one, these were planned economies, where freedoms of all kinds were suppressed and among them also freedom to create enterprises - the engines of economic growth. Furthermore, remuneration does not only provide workers with means to buy material goods or services. It is also an indicator of value that work delivers to the society. This explains the fact, that even though doctors and engineers educated in socialist contries received more-less the same wages as less educated workers, interest to study in universities always exceeded the education systems' capacity. It turns out that most people chose to study to achieve a higher social status, associated with owning an university degree. A smaller group of individuals chose to study to satisfy their desire to know. A conclusion can be drawn, that prospect of more material compensation does not have to be the main motivator, causing an individual to study.
+The reasons for existence of this postulate come from results of behavioral economics research:
+
+1. Paying people more than a certain country-specific amount of money does not lead to more happiness[1].
+2. Increasing (monetary) reward does not increase preformance of creative workers - in fact it has the opposite effect[6].
+
+Another example illustrates independence of motivation to study on the amount of material compensation. In socialist economic system, where despite the fact that people with university diplomas like doctors and engineers received more-less the same wages as less educated workers, interest to study in universities always exceeded the education systems' capacity. It turns out that most people chose to study to achieve higher social status associated with owning an university degree.
 
 3. Basic income.
 
@@ -149,5 +155,6 @@ However, donors and governments will be able to give money to NEO's "foreign cur
 [1] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being
 [2] Lester M. Salamon, S. Wojciech Sokolowski, Megan A. Haddock: Measuring the economic value of volunteer work globally: concepts, estimates, and a roadmap to the future
 [3] Piketty, Capital in the Twenty-First Century
-[4] Work benefiting more people
+[4] Thomas B. Edsall - Just Right Inequality http://www.nytimes.com/2014/03/05/opinion/edsall-just-right-inequality.html?_r=0
 [5] Slovak word "rováš" stands means "tally stick" in english. See http://en.wikipedia.org/wiki/Tally_stick
+[6] Dan Ariely, Uri Gneezy, George Loewenstein, and Nina Mazar "Large Stakes and Big Mistakes" - http://www.bostonfed.org/economic/wp/wp2005/wp0511.pdf
