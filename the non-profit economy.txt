@@ -38,7 +38,7 @@ The second reward type is given for "effort" and is equal to the number of hours
 
 In the capitalist economy, multiple factors set the context of negotiations between worker and employer and together, these determine the wage amount. The inexact nature of the process is cause of many problems. For example, workers might get paid differently for the same type and amount of work at different times, or at different companies. Another problem is, that wage amount varies wildly across pay spectrum, often with excessive amount of compensation received by upper management at one end and low pay - insufficient to cover basic living needs - at the other. 
 
-In the proposed model, the amount of material reward a worker can earn in an hour does not depend on type of work. For example, an hour of computer programmer's work is rewarded materially the same as one hour of a farm worker's manual labor. The reasons for existence of this postulate come from results of behavioral economics research:
+In the proposed model, the amount of material reward a worker can earn in an hour does not depend on type of work. For example, an hour of computer programmer's work is rewarded materially the same as one hour of farm worker's manual labor. The reasons for existence of this postulate come from results of behavioral economics research:
 
 1. Paying people more than a certain (country-specific) amount does not lead to more happiness[1].
 2. Increasing (monetary) reward does not increase preformance of creative workers - in fact it has the opposite effect[6].
@@ -47,17 +47,17 @@ Lastly, the capitalist remuneration mechanism leads to concentration of material
 
 3. Basic income.
 
-There are periods in every human's life, when he or she does not produce (socially useful) work. For example during childhood, when incapacitated by illness, or at times when one's work output does not provide immediately appreciated value (inventors, philosophers, theoretical scientists). Additionally, technological advances (IT technologies, automation, robotics) are rapidly eliminating the need for human work in a growing segment of economy, causing unemployment, or forcing people to work in low wage occupations. Given the limited effectiveness of even the most advanced educational methods, an argument that people can (en masse) through education increase their employability in the remaining well paid industries is unrealistic. Finally, it is not out of the question that mankind will soon develop technology that will solve all it's material needs. After all, nobody questions today the fact that essentials like air or water are free (or close to being free). Our technology has been developed over millenia by generations of thikers who no longer hold any ownership claims on the fruits of that effort, therefore most of the value the current technology provides must be shared by all.
+There are periods in every human's life, when person does not produce work. For example during childhood, when incapacitated by illness, or at times when a worker's output does not provide immediately appreciated value (inventors, philosophers, theoretical scientists). Additionally, accelerating technological advances (IT technologies, automation, robotics) are rapidly eliminating the need for human work in an ever growing segment of economy, making the John Maynard Keynes' prophecy suddenly imaginable[9]. 
 
-The mechanism of unconditional basic income has been studied extensively in the context of capitalist economy and it can be expected that it's implementation in the proposed economic model should be easier. The size of distribution will be calculated algorithmically and most likely will be a reflection of the average earnings of the new economic system's participants.
+The well-studied unconditional basic income can provide this function[10] Concrete mechanism of it's implementation will be determined in separate document.
 
 4. Profit.
 
-Profit generation is one of the defining characteristics of capitalist economic system. It is made possible by non existence of any restrictions that could provide a natural limit to the products or services prices and is fueled by desire to increase the only measure of success the material reward offers - it's amount. In contrast, it is expected that prices in the proposed model will be close to the actual number of hours needed to create a product or service, for the following reasons:
+Profit generation is one of the defining characteristics of capitalist economic system. It is made possible by absence of any restrictions that could provide natural limits to prices of products or services and is fueled by desire to increase the only measure of success wage offers - it's amount. In contrast, it is expected that prices in the proposed model will be close to the actual number of hours needed to create a product or service, considering the following reasons:
 
 a. A physiological limit exists for the number of hours during which an individual can sustainably perform work and the algorithm (described further down in this document) "running" the proposed economy will not allow workers to claim more than this limit,
 b. market pressures are present also in the proposed economy, as many workers can in most cases (intellectual property limiting) create the same products,
-c. most importantly, it is expected that "success" in the proposed model will be measured by impact and not effort and therefore generating material profit will not be interesting to workers.
+c. most importantly, it is expected that "success" in the proposed model will be measured by impact and not by effort and therefore generating material profit will not be interesting to workers.
 
 Nomenclature
 
@@ -155,6 +155,8 @@ Not only chrons can't be directly exchanged for "foreign currencies", but chrons
 
 However, donors and governments will be able to give money to NEO's "foreign currencies" bank accounts.
 
+Strategies for 
+
 [1] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being
 [2] Lester M. Salamon, S. Wojciech Sokolowski, Megan A. Haddock: Measuring the economic value of volunteer work globally: concepts, estimates, and a roadmap to the future
 [3] Piketty, Capital in the Twenty-First Century
@@ -164,3 +166,5 @@ However, donors and governments will be able to give money to NEO's "foreign cur
 
 [7] Time-based currency in wikipedia: http://en.wikipedia.org/wiki/Time-based_currency
 [8] Andrew N. Christopher, Barry R. Schlenker - "The impact of perceived material wealth and perceiver personality on first impressions"
+[9] John Maynard Keynes, "Economic Possibilities for our Grandchildren" http://www.econ.yale.edu/smith/econ116a/keynes1.pdf
+[10] http://en.wikipedia.org/wiki/Basic_income
