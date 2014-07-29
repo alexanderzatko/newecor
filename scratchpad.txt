@@ -76,9 +76,9 @@ QUESTION 2. How to fund expensive (multibuyer) projects?
 
 ANSWER 2
 
-• In funding big projects used by more than one buyer (roads, computer applications...), crowdfunding model can be used. A worker-enterpreneur would publish a crowdfunding project containing description and the amount of money sought to raise. Investors willing to support the project would pay price of their choosing into escrow account. Once sum of these contributions reaches the cost to make the asset, worker would receive the funds, create the asset and start selling it to the public. If any new buyers buy the asset, price for everybody will go down, beginning with the investors who contributed the most, getting paid first.
+• In funding big projects used by more than one buyer (roads, computer applications...), crowdfunding model can be used. A worker-entrepreneur would publish a crowdfunding project containing description and the amount of money sought to raise. Investors willing to support the project would pay price of their choosing into escrow account. Once sum of these contributions reaches the cost to make the asset, worker would receive the funds, create the asset and start selling it to the public. If any new buyers buy the asset, price for everybody will go down, beginning with the investors who contributed the most, getting paid first.
 
-• a worker-enterpreneur can incentivize buyers with allocating a share of merits for early investors. He/she can offer his/her existing ones, allocate a fixed amount of the sales proceeds, or set a percentage of the received merit gains rewarded over the asset lifetime. Investors contributing the most would receive a share of merits proportional to their investment.
+• a worker-entrepreneur can incentivize buyers with allocating a share of merits for early investors. He/she can offer his/her existing ones, allocate a fixed amount of the sales proceeds, or set a percentage of the received merit gains rewarded over the asset lifetime. Investors contributing the most would receive a share of merits proportional to their investment.
 
 
 QUESTION 3. How to determine price of an asset?
@@ -97,7 +97,7 @@ ANSWER 4
 
 • In general, NEO should be closed to outside money. This rule will probably slow NEO ascend to self-sufficiency, but it should prevent transfer of wealth inequality, which is in the long term the desirable outcome. However, there should be a way to reward NEO participants with outside money for work done in NEO during the transition phase. In this scenario, a worker producing an asset would allow access to it also to non-paying, consumers. There would have to be a mechanism implemented by the worker, capable of counting unique consumers. Those data would be used as a proof of work to the donors or governments who should thus be more inclined to pay workers with outside money. In a way, the non-paying consumers would pay indirectly through their governments or donor-provided distributions.
 
-• There is a danger that workers might focus on growing the proportion of users who do not pay with eqals, in order to get paid in outside money. However, there are at least two mechanism how to steer workers toward prefering payments in NEO currencies. First - merits could be granted only for asset usage by consumers paying with equals and second, the payments in eqals should have greater purchasing power than reward paid in the outside currency.
+• There is a danger that workers might focus on growing the proportion of users who do not pay with eqals, in order to get paid in outside money. However, there are at least two mechanism how to steer workers toward preferring payments in NEO currencies. First - merits could be granted only for asset usage by consumers paying with equals and second, the payments in eqals should have greater purchasing power than reward paid in the outside currency.
 
 • To provide an incentive to the outside donors merits might be paid for donated outside money and their amount should be proportional to the amount of hours on all accounts in NEO that were not paid with equals. This means that in the transitory stage donors would get more merits than at later times, because it is expected that with time, NEO economy will provide more diverse and more abundant services. That in turn will attract buyers into NEO and therefore also more of the NEO-generated assets will be purchased with equals. Eventually NEO will be self-sufficient and outside money will not be needed.
 
@@ -105,11 +105,11 @@ QUESTION 5. How should lending/giving money be handled?
 
 ANSWER 5
 
-• Equals can be transfered between individuals' accounts freely.
+• Equals can be transferred between individuals' accounts freely.
 
 • Support for people who for various reasons can not earn money themselves should be handled by unconditional distribution (a.k.a. basic income).
 
-• Money lending should be possible using bank-like institutions and lonas should be granted liberally. The amount an individual will be able to borrow should be determined by rules similar to the ones used in the current economy - trustworthiness of the borrower (using the merit score), history of previous loan repayments, etc...
+• Money lending should be possible using bank-like institutions and loans should be granted liberally. The amount an individual will be able to borrow should be determined by rules similar to the ones used in the current economy - trustworthiness of the borrower (using the merit score), history of previous loan repayments, etc...
 
 • No interest should be charged on loans as concept of profit does not exist in NEO.
 
@@ -124,7 +124,7 @@ Of course it is possible that people could create projects and claim work that t
 • sybil attacks can be avoided by implementing approvals in the following way: A person interested in joining NEO will either want to work on an existing project, or create a new project. They can create accounts, but these will be in a pending status - where they will not qualify to receive basic income - until one of these options occurs:
 a. the new user asks a project owner to join a project and that request is granted
 b. the new user creates a project and hires (say) 3 registered user to work on it
-c. (say) 5 users confirm validity and uniquenes of the request.
+c. (say) 5 users confirm validity and uniqueness of the request.
 
 
 QUESTION 7. What are the incentives for participating in NEO?
@@ -133,16 +133,16 @@ ANSWER 7
 
 • All participants will receive basic income. In transitory period this will be a more-less symbolic amount of equals. The exact number will be calculated by rovas and the controlling parameter will be performance (state) of NEO.
 
-• In NEO - unlike in the current economy - workers are not rewarded once - at the time their product is offered on the market, but they continue receiving equals and merits as the consumer interest grows. That should result in a situation where sometimes workers will receive the bulk of reward for work that might be initially unpopular long after it was completed.
+• In NEO - unlike in the current economy - workers are not rewarded once - at the time their product is offered on the market, but they continue receiving equals and merits as the consumer interest grows. That should result in a situation where sometimes workers will receive reward for work that might be initially unpopular long after it was completed.
 
-• In the transitory period workers who produce and sell an asset, but do not find enough NEO-registered consumers to cover the total asset cost, will be paid the difference in the currency of the existing economic system. That money will originate from governemnts and donors and will be deposited into workers' non-NEO bank accounts. A condition for receiving such payments is solid usage data that asset creator will gather by implementing usage measuring device. 
+• In the transitory period workers who produce and sell an asset, but do not find enough NEO-registered consumers to cover the total asset cost, will be paid the difference in the currency of the existing economic system. That money will originate from governments and donors and will be deposited into workers' non-NEO bank accounts. A condition for receiving such payments is solid usage data that asset creator will gather by implementing usage measuring device. 
 
 
 QUESTION 8. How to import tools, technologies and materials into NEO?
 
 ANSWER 8
 
-Initially, NEO will not be producing many tools needed to create assets and these will have to be "imported". The means for buying them will need to come from the governments and donors - the sources commonly used today to finance non-profit projects in the current economy. However, over time NEO will start producing it's own assets and among them will be also intelectual property and tools.
+Initially, NEO will not be producing many tools needed to create assets and these will have to be "imported". The means for buying them will need to come from the governments and donors - the sources commonly used today to finance non-profit projects in the current economy. However, over time NEO will start producing it's own assets and among them will be also intellectual property and tools.
 
 QUESTION 9. Should rewards trickle up the production chain?
 
