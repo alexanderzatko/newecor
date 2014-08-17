@@ -10,9 +10,9 @@ There are two observations in particular that served as inspiration for the new 
 
 2. Every year, about one billion people from around the world work for free to produce socially useful work. In the process, they generate value that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
 
-From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from the society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing natural limit on the size of material compensation a worker can receive. Thus - in contrast to the reward mechanism of capitalist economic system (wage) - in the proposed model, work reward consists of two separate types:
+From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from the society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in the proposed model, work reward consists of two separate types:
 
-1. effort - for the number of work hours a particular job takes to complete,
+1. effort - for the number of hours a worker works to complete a particular job,
 2. impact - for the lenght of time the product or service rendered by the effort is used.
 
 The proposed model further postulates:
@@ -26,7 +26,7 @@ Discussion
 
 1. two types of rewards for performed work.
 
-The basic premise of this paper is a belief, that problems caused by the work reward mechanism of capitalist economic system (unemployment, declining real wages, income inequality, questionable connection between reward amount and performance..) can be solved by adopting a new reward model, that takes into account social impact of work. This notion is based on a growing body of evidence:
+The basic premise of this paper is a belief, that problems caused by the work reward mechanism of capitalist economic system (unemployment, declining real wages, income inequality..) can be solved by adopting a new reward model, that takes into account social impact of work. This notion is based on a growing body of evidence:
 
 1. people worldwide are willing to work for free on socially beneficial projects, 
 2. behavioral economics studies revealed, that increases in material reward for performed work cease to make workers happier after reaching certain limit,
@@ -38,7 +38,7 @@ The second reward type is given for "effort" and is equal to the number of hours
 
 2. Equality of effort.
 
-In the capitalist economy, multiple factors set the context of negotiations between worker and employer that determine wage amount and opaque nature of the process is cause of many problems. For example, workers might get paid differently for the same type and amount of work at different times, or at different companies. Another problem is, that wage amount varies wildly across pay spectrum, often with excessive amount of compensation received by upper management at one end and low pay - often insufficient to cover basic living needs - at the other.
+In the capitalist economy, multiple factors set the context of negotiations between worker and employer that determine wage amount and the opaque nature of the process is cause of many problems. For example, workers might get paid differently for the same type and amount of work at different times, or at different companies. Another problem is, that wage amount varies wildly across pay spectrum, often with excessive amount of compensation received by upper management at one end and low pay - often insufficient to cover basic living needs - at the other.
 
 In the proposed model, the amount of material reward a worker can earn in an hour does not depend on type of work. For example, an hour of computer programmer's work is rewarded materially the same as one hour of farm worker's manual labor. The reasons for existence of this postulate come from results of behavioral economics research:
 
@@ -47,69 +47,33 @@ b. Increasing (monetary) reward does not increase preformance of creative worker
 
 Lastly, the capitalist remuneration mechanism leads to concentration of material wealth into hands of a small group of people and that in turns leads to deformations in economy (declining purchasing power by the majority of market participants), political life (the role of big money in representative domocracies) and other areas (charity).
 
-3. Profit
+3. Price
 
-Profit generation is one of the defining characteristics of capitalist economic system. It has likeley evolved to provide means for survival during economical downturns, but other important factors (serving as a measure of success) contribute to its existence and amount. In the proposed model, workers are materially rewarded only for the number of work hours spent on creating assets. Generating profit - while not explicitly prohibited - is incompatible with several aspects of the proposed model:
+In order to allow buying and selling, a measure must be established representing exchange value (price) of assets. In capitalism, prices are set primarily by  market conditions and manufacturing constrains. In the proposed model, they are derived from the number of work hours performed by human labor and the amount of labor performed by machines (includes use of tools, robots and software programs). In particular, 
+
+Workers are materially compensated only for the time they invest into creating assets and any productivity gains made possible by use of tools or machines are distributed equally to all people. This distribution has twofold effect - it lowers asset prices for their buyers and contributes to automatic payments received by all economy participants in form of basic income.
+
+In practice, a buyer will see one of two types of prices:
+a. a fixed number, determined by the asset creator. This pricing strategy will be mostly used for assets containing large proportion of human labor (artisan products).
+b. "pay as much as you wish". In this scenario asset consumers will be presented with a list of assets they consumed over a given period (monthly) with suggested prices, calculated by the algorithm from sales data gathered over that period. The buyer will have a choice to pay the presented amount in full, or in part.
+
+ will set either the minimum acceptable price, or minimal number of buyers, which together with known production costs allows the minimum acceptable price to be calculated.
+
+4. Profit
+
+Profit generation is one of the defining characteristics of capitalist economic system. It has likeley evolved to provide means for survival during economical downturns, but other important factors (serving as a measure of success) contribute to its existence and amount. In the proposed model, workers are materially rewarded only for the number of work hours spent on creating assets. Generating profit, while not explicitly prohibited, is incompatible with several aspects of the proposed model:
 
 a. A physiological limit exists for the number of hours during which an individual can sustainably perform work and the algorithm "running" the proposed economy will not allow workers to report more worked hours than this limit.
-b. Market pressures are a profit-attenuating force also in the proposed economy. Workers can in most cases (intellectual property possibly limiting) create lower-priced products, aiming for goals different than material gains (see "c" below).
+b. Market pressures are a profit-attenuating force also in the proposed economy. Workers can in most cases create lower-priced products, aiming for goals different than material gains (see "c" below).
 c. Most importantly, it is expected that workers will be motivated to increase the size of impact and not the effort rewards, therefore generating material profit will not be interesting to them.
 
-It should be noted that similar to the capitalist system, even in the proposed model, workers are paid only if the assets they produce find consumers. However, unlike the capitalist system, participants in the proposed economic system receive basic income (see below), removing existencial pressure as well as a need to manipulate prices to gain profit.
-
-4. Price
-
-In the proposed model, price is defined as the amount of effort exerted, to create an asset. Effort is measured in units of time -  Any asset is produced by a combination of human labor unaided by tools and by "non-human labor", performed or enabled by use of tools, animals, machines of various complexity and software programs. Therefore to determine asset price, we need to know how much of each kind of labor was invested into making it. The amount of human labor is known, because workers record the time they spent working on asset production, but determining contribution of non-human labor is not trivial.
-
-To illustrate the role of non-human labor in asset creation, a simple scenario can be presented. We can count the number of holes of set dimensions a worker can dig during a given lenght of time. In one case, the worker digs with bare hands and in another, he uses a tool (a stick, showel, or an excavator). From the number of holes dug in both cases, productivity can be calculated and therefore also the number of human labor hours replaced (saved) by using tools. This number is the non-human labor contribution.
-
-Non-human labor = Human labor x (number of holes with tool / number of holes without tool) - Human labor
-
-Of course it is impractical or outright impossible to run such a test every time an asset is priced.
-
-A more practical way is to use the lenght of time an asset is used as the upper limit of total effort invested into its creation. More valuable assets have longer service life
-
-hours asset consumed = hours asset produced
-
-assets that are used longer are well made and useful. Assets that are not well made break down soon and less useful assets are either not used often, or are replaced with more useful assets as soon as possible.
-
-"well made" asset is created by a selection process, which out of an infinite number of possible assemblies of atoms picked one that is:
-
-1. more "stable" 
-2. ...and "better suited" to the task at hand 
-...than others.
-
- The lenght of such a selection process - if only systematic searches are considered - is a function of time (just like search in a data structure like a tree). The longer the time, the higher the possibility of selecting a stable structure.
-
-It is imaginable that a selection process will create a stable structure that will not be well suited to the task.
-
-Therefore price must reflect contribution of both types of labor. Furthermore, the proportion of human and non-human labor varies for different kinds of assets
-
-In capitalist economy, formulating an explicit relationship between this ratio and price is difficult, as price is affected by other factors (demand level, competition, markup...). In the proposed model, the proportion of human labor is known, because the workers record time spent working on asset production. The proportion of non-human labor is not known directly, but an estimate can be made of its contribution to the overal value of an asset. 
-
-prices are calculated by an algorithm from measured data - the number of hours needed to make an asset, number of consumers and for a large class of assets also the total lenght of time an asset has been used.
-
-However, in general, by virtue of non-human labor use in the production process, most assets have prices lower than production costs. For example, hand-made assets made for individual consumption (artizan products...) will have prices equal to the production costs, while assets created with high proportion of non-human labor like easily-cloned software applications will have much lower prices.
-
-Setting prices in practice  asset creator will set either the minimum acceptable price, or minimal number of buyers, which together with known production costs allows the minimu acceptable price to be calculated. Thus . Rapidly advancing technological progress is creating an ever-growing class of assets that can be cloned with virtually no human labor. Considering that in the proposed economy only human labor can be priced, cloned products are price-less.
-
-
- while assets that can be cloned will be priced by the total number of hours they have been used.
-
-Value of an asset is wholy determined by the total number of hours it had been (or is expected to be) in use. In general, it consists of two parts; the value generated by human labor unaided by any tools, and the other created by robots, automata and computer programs, including value created by tool-enabled human labor. The ratio of human and non-human generated shares has been changing over time - by use of power-enhancing tools, animal power, machines, automata and robots. These developments point to a not too distant future, where most human labor will disappear and therefore also price of products made under such circumstances will be (close to) zero. On the other end of the spectrum are products and services produced purely by human labor. Their price equals to the lenght of time needed to create them.
-
-
-asset creator indicates the minimum number of consumers or the minimum price accepted for an asset (these numbers are related, given that the asset
-
-Prices for products and services (assets for short) in the proposed model are set by an algorithm, designed to implement the model's basic principles.
-
-
+It should be noted, that similar to the capitalist system, also in the proposed model, workers are paid only if the assets they produce find consumers. However, unlike the capitalist system, participants in the proposed economic system receive basic income (see below), removing existencial pressure as well as a need to manipulate prices to gain profit.
 
 5. Basic income.
 
 Most world economies today provide a varying degree of material support to people, who during certain time periods and for various reasons do not engage in activities producing tradeable goods or services. For example, to parents of small children, individuals incapacitated by illness, or to inventors, philosophers and theoretical scientists at times, when their work does not provide immediately appreciated value. Additionally, it can be expected, that accelerating technological advances (IT, automation, robotics) will have negative impact on ability of people to either find work, or to earn wages above poverty level.
 
-To address these issues, various schemes were suggested[9][10], some even experimentally tested for periods of time, but none have been permanently adopted. The proposed model derives mechanism for distribution of wealth from an idea, that value produced by non-human labor should belong to all people. We see this idea play out every day already, in decreasing pricese of most products, especially the mass-produced ones. However, capitalist system "implements" this idea through untractable mechanisms, allowing signifficant amount of non-human-labor-generated value (NHLGV) to be appropriated by a small group of individuals[11]. An important factor contributing to the current state of affairs is non-existence of a reliable measure of NHLGV contained in products. The proposed mechanism can measure amount of human labor invested into product creation, as well as value of a particular product, measured by the total lenght of time during which it was in use. Substracting the amout of human labor from value of a product gives the amount of NHLGV. This is the source of basic income in the proposed model.
+To address these issues, various schemes were suggested[9][10], some even experimentally tested for periods of time, but none have been permanently adopted. The proposed model derives mechanism for distribution of wealth from an idea, that value produced by non-human labor should belong to all people. We see this idea play out every day already in decreasing pricese of most products, especially the mass-produced ones. However, capitalist system "implements" this idea through untractable mechanisms, allowing signifficant amount of non-human-labor-generated value (NHLGV) to be appropriated by a small group of individuals[11]. An important factor contributing to the current state of affairs is non-existence of a reliable measure of NHLGV, contained in products. The proposed mechanism can measure amount of human labor invested into product creation, as well as value of a particular product, measured by the total lenght of time during which it was in use. Substracting the amout of human labor from value of a product gives the amount of NHLGV. This is the source of basic income in the proposed model.
 
 Nomenclature
 
@@ -232,3 +196,4 @@ Strategies for
 [9] Basic income - http://en.wikipedia.org/wiki/List_of_basic_income_models
 [10] Guaranteed minimum income - http://en.wikipedia.org/wiki/Guaranteed_minimum_income
 [11] 178 oxfam briefing paper 20 january 2014 - "WORKING FOR THE FEW; Political capture and economic inequality" http://www.oxfam.org/sites/www.oxfam.org/files/bp-working-for-few-political-capture-economic-inequality-200114-en.pdf
+[12] Karl Marx - Das Kapital, Kritik der politischen Ökonomie
