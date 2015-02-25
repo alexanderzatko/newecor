@@ -2,39 +2,202 @@ The non-profit economy
 
 Introduction
 
-This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of capitalist remuneration mechanism, which takes into account pro-social aspect of work has potential to solve some of the most pressing problems of the current world economy.
+This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of capitalist remuneration mechanism, which takes into account pro-social aspect of work has potential to solve some of the world's most pressing economic problems. 
 
 There are two observations in particular that served as inspiration for the new model:
 
-1. Recent behavioral economics studies show, that happiness rises with increasing income only up to a certain level ($75,000 in the USA)[1].
+1. Behavioral economics studies show, that happiness rises with increasing income only to a certain level ($75,000 in the USA)[1].
 
-2. Every year, about one billion people from around the world work for free to produce socially useful work. In the process, they generate value that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
+2. Every year, about one billion people from around the world work for free to produce socially beneficial work. In the process, they generate value that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
 
 From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in NEO, work reward consists of two separate types:
 
-1. effort - for the number of hours a worker works to complete a particular job,
-2. impact - for the lenght of time the product or service rendered by the effort is used.
+1. effort - for the number of hours spent by a worker to create an asset.
+2. impact - for the (positive) difference between price of an asset and the effort needed to create it.
 
 The proposed model further postulates:
 a. workers are materially rewarded only for effort and not for impact,
 b. size of  material reward received is independent of the work type (equality of effort),
-c. machine labor is source of Universal dividend distributed to all NEO participants.
+c. Positive difference between cost of asset and its price is distributed equally to all NEO participants as a Universal dividend.
 
-It is envisioned that NEO rules will be implemented as a set of algorithms, running on a global, decentralized computing platform. Its implementation does not depend on approval or cooperation from any government institution.
+NEO rules will be implemented as a set of algorithms, running on global, decentralized, computing platform.
+
+Discussion
+
+In the approaching era of post-scarcity world, the effort to provide support for our physical needs will be eliminated and with that also the need for (material) remuneration. Arrival of this new era presents two problems.
+
+1. Value of work and peer effects
+
+In capitalism, varying size of hourly wage is a common way of rewarding differences in the utility of work performed by different workers. Such income differences lead to emergence of a consumption visibility gradient, that other members of society subconsciously use to modify their behavior, in order to improve their material and social standing. Most often, such change leads to learning new skills, which in turn increases social capital. It is therefore reasonable to expect, that loss of such a mechanism could reduce motivation for self-improvement in a large segment of population.
+
+Posting free content on the internet social networks provides a good case study for modeling post-scarcity economy. Individuals there are represented by avatars, or strings of text of their choosing. If they are also free to change the look of these surrogates of personhood cost-free, their presentation style could not be used as a meaningful expression of value. To create an equivalent to the consumption visibility gradient of capitalist economy a different method will be needed. It will be shown, that a suitable replacement already exists in the form of various kinds of crowdsourced reputation ratings (facebook likes, popularity points, badges...), expressing popularity of the rated property.
+
+2. Transition from capitalist to the post-scarcity economy.
+
+In the capitalist economies, higher rewards are granted to workers who are more productive, especially if increased productivity is caused by inventing more efficient value-creating processes. As was mentioned above, this leads to evolution of a socially beneficial consumption visibility gradient.
+
+From philosophical point of view however, granting different workers rewards of different sizes for the same worked amount of time is problematic. Correctness of this mechanism has not been proven - it has been built into the capitalist economic model, because experience leads os to believe that humans are able to control own destiny by applying free will. As existence of free will is necessary condition for creativity of any kind, having no free will would make rewarding "creative" people a mistake. 
+
+The presented model assumes that free will is a bad modeling artefact (an illusion), due to the argument that being creative is a consequence of either genetic and cultural predispositions a gifted individual evolved in or random processes that no one controls. One of the most important consequence of this choice is that benefits that creativity an individual generates do not belong to him/her and need to be distributed among all members of population equally.
+
+
+• inapropriate assignemnt of reward for created value - instead of the humanity as a whole, we reward the individuals who have been randomly endowed by the ability to produce an output stable enough to survive pressures of market forces
+• rewarding new stable structures materially - which leads to deformations of individual lives as well as causing deformations in the management of public affairs (superPACs, corruption...)
+
+
+
+How do people justify that one person should be paid more for their work than another person? The arguments heard most often are:
+
+1. Some jobs are "more important" than other, 
+2. well-paid jobs require specialized knowledge, that one can acquire only through years of education,
+3. well-paid people work "harder" and therefore deserve more reward.
+4. some occupations are more dangerous, tham other
+
+Job importance is hard to define, but one can detect a correlation between importance and the degree to which a particular work is beneficial to individual people or society as a whole. Unfortunately there is no correlation between job importance and pay amount in any major economic system
+
+The last one mentioned can be dismissed outright, as there are many hard working individuals who produce output that ultimately does not succeed in the marketplace.
+
+The second argument deserves a closer scrutiny. Most people feel that there is a difference between the work of scientist and a cabbage picker. To perform scientific work, a worker must first acquire sufficient understanding of the subject matter
+
+former  is in the differences between the complexity of the mental models these two workers need to perform their particular jobs.
+
+
+The question is, whether  makes one person smarter than another. The usual suspects here are:
+a. genetic predispositions,
+b. "nun-mutable environmental" circumstances in which an individual grows up (for example the kind of parents or economic circumstances),
+c. lastly, there is a category of factors that an individual can affect like the type of schoole he or she attends, or how diligent/lazy person is.
+
+
+Because people do not choose their own genetic make-up or parents, we can speculate 
+
+...based on a belief that laziness is a character blemish, which can be dealt with by applying will. Most people believe that humans possess free will. If that was the case, there would be no lazy people, smokers or overweight people, because they could just decide (will) not to be lazy. An argument that there are degrees of will (weak will, strong will) does not help here either, because if there are degrees of will, then there must be something, that has the power to endow different individuals with will of a varying strength. And that contradicts the idea of free will. The conclusion is that free will is an illusion. 
+
+The practical consequences of this conclusion are enormous. In the field of economy that is the topic of this paper, lack of free will means, that the capitalist system rewarding some 
+
+Apparently that means, that some personal characteristics are beyond individual's control, as he or she might not possess will strong enough to shape his or her life.
+
+
+
+The source of the most pressing problems of the capitalist economic system, like income inequality, unemployment or boom and bust cycles can be traced to certain incorrect beliefs, shared by the majority of economy participants. For example:
+1. workers should receive reward proportional to their contribution to use value of an asset they produced, 
+2. to motivate workers, the reward must be material,
+
+Starting with the second one, it will be shown, that both of them are problematic upon closer inspection.
+
+A growing amount of evidence is pointing toward a more complicated model of human motivation. For one, millions of people across the globe volunteer their time to create products and services with total value that rivals GDP of the most developed countries. 
+
+
+
+While it is not the objective of this paper to analyse the true motives of volunteers, it can be said with certainity that they are not affected by material reward. Second line of evidence comes from research in the field of behavioral economics concerning relationship between worker happiness and their income amount. Going against intuition, happiness reaches a plateau at a certain country-specific income level. 
+
+
+
+• material and reputation rewards have been inseparable throughout history
+• humans building their internal models need some measure to provide a feedback about their progress toward perfection.
+
+
+
+Natural selection - the basic concept of Darwin's evolutionary theory - can be applied to ideas leading to 
+
+The proof of this claim can be found in the amount of global effort spent to create assets that do not find success in the marketplace. The exact numbers are hard to come by[16], but given the rarity of genius, it likely exceeds by several orders of magnitude the amount of effort leading to creation of successful assets. Therefore more effort does not lead to inventiveness and as a consequence, effort leading to production of successful assets should not receive larger material rewards than the same amount of effort invested into production of less successful assets.
+
+However, there are several arguments pointing to a need for existence of a measurement that people can use to put a value on quality of their mental world models.
+
+inability of various time based complementary currencies to gain traction point to an important observation that more inventive asset creators should 
+
+Claim 2: Behavioral economics studies show that people loose motivation to earn more material reward 
+
+If it was possible for anybody to achieve greater inventivness by effort, there would not be so much failed enterprises and wasted human effort in the world.
+
+the efforts of two workers (the more and less inventive ones) is not so due to his or her own effort and therefore does not "deserve" more 
+
+
+
+
+The established practice, reflecting a prevailing popular opinion is, that succesful inovators should receive larger material reward for an unit of effort than non-creative workers. Two reasons are cited most for innovators deserving to be paid more:
+1. 
+2. they need to be paid more because they work harder than others
+
+Yet research shows a different picture. For example, in some cases increasing reward not only does not raise worker motivation and performance, but in fact lowers it [6]. Other studies show, that happiness - a closely related concept to motivation - does not rise with rising material reward proportionaly, but reaches a plateau at certain country-specific level [1]. Finally, the fact that people are willing to work for free on projects whose results are appreciated by others indicate, that it is the immaterial reward from society that people are seeking, while material reward is secondary, once their basic existential needs are satisfied.
+
+The second common belief, that innovative people work harder and therefore an unit of their work needs to be rewarded higher than the same unit of non-creative work unit is also highly questionable under close scrutiny.
+
+One argument tries to relate worker characteristics leading to innovative work to the effort they had to exert to reach state where they are able to perform above normal. For example, in case of innovators long hours spent looking for solutions to problems, or years-lasting experimentation are linked to achieving exceptional insights. 
+
+vvvvvvvvvv
+
+Every human society is associated with a specific set of beliefs, held by the majority of its members, about the rules that control things like behavior of other people, animals, or the inanimate objects of the physical world. Commonly refered to as culture, this set of beliefs provides a blueprint for survival to individuals and the societies they belong to.
+
+For example, until the time of Renaissance, few individuals questioned the prevailing opinion that Earth is in the centre of the universe and in the sphere of beliefs concerning society, the idea of gender and racial equality in questions like the right to vote have not been 
+
+
+
+
+anthropologists call "culture". "...An integrated system of learned behavior patterns which are characteristic of the members of a society and which are not a result of biological inheritance.[15]..." it also concerns prevailing beliefs about human behavior that relates to economic exchanges.
+
+A product of the intersection of individual people's beliefs, it ch, as these are tested and confronted with reality, in order to maintain, improve and prolong their lives. 
+
+A common belief about rewarding is that we are rewarding inovators more because they had to work harder than others to achieve their exceptional output. Yet a case by case analysis reveals, that this is only true on the surface. There are scores of hard working people trying to deliver useful and desired products, but their effort rarely leads to groundbreaking inventions.  do not keep record of the amount of effort and resources wasted on failed project, but circumstatial evidence indicates, that the amount of wasted effort is massive.
+Only a small percentage of people ever succeed and they do so for reasons that have nothing to do with their effort, but everything with the circumstances they were born into. 
+
+Creativity though is rare and should be celebrated and studied, because its application keeps improving human life. A value should also be assigned to creative output, to provide other humans with a kind of value gradient, which can server as a measure of their own abilities. Materially rewarding creative output is wrong though, because:
+1. material reward should be granted only for work that a person clearly exerted and not for a phantom "effort" a person received only by a sheer play of chance.
+2. material reward is wasted on creative people because most of the time it does not induce them to deliver more innovative work.
+
+
+
+
+
+The way we interact in economic transactions is also affected by our beliefs about concepts like the role of effort in value production, or what constitutes a fair amout of material reward for a unit of work. The premise of the new economic system proposed here is that some long held beliefs that form the foundations of the capitalist economic system are wrong.
+
+
+In particular, the assumptions that:
+1. it is sufficient to reward workers only materially,
+2. workers are rewarded only for the use value of the assets they produce,
+3. the size of (material) reward is determined by market forces.
+
+It will be argued, that equal amounts of work, performed by workers of different occupations have the same value, yet they differ in their impact. 
+Pointing to the known fact, that there is no connection between effort and impact it is wrong to reward impact materially, as its presence in a work output is purely accidental. 
+
+ huge number of human effort is being invested into (business) activities that do not end up delivering assets the market needs.
+
+
+
+
+
+ The outcome of this effort is often a failure, if asset creator's idea does not resonate with the intended recipient's needs. However, in some rare cases, a good, service or a theoretical work is created, that is needed by many. Succesful individuals who happen to find themselves
+
+In order to increase the proportion of success-ending efforts, but despite concentrated effort of generations of people, a sure formula for success remains elusive. A popular belief, that effort and hard work inevitably lead to success, is undermined by the number of failed attempts that cost humanity immense amounts of resources. A more likely answer to the question of whether a particular person will produce useful output lies in the genetic code of the individual and the environment he or she has been growing up in. Therefore even the concept of "strong vill" can be traced to these factors.
+
+
+The most signifficant difference between NEO and the capitalist economic model is that material reward for work is at the most equal to asset cost - the number of hours invested by workers into making it available to consumers (by creating, packing, transporting and ultimately selling it). The difference between asset sale price and its cost is distributed equally between all NEO participants and amount of impact reward numerically equal to that difference is distributed between asset makers according to their "impact contribution".
+
 
 Discussion
 
 1. two types of rewards for performed work.
 
-The basic premise of this paper is a belief, that problems caused by the work reward mechanism of capitalist economic system (unemployment, declining real wages, income inequality..) can be solved by adopting a new reward model, which includes a measure of usefulness of work - its  social impact. This notion is based on a growing body of evidence:
+The "effort" reward type has been studied extensively in  ....  and is equal to the number of hours needed to create assets. This reward can be exchanged for goods or services, which makes it similar to time based community currencies[7] like Time Dollar.
+
+
+
+In order to understand the rationalle for two rewards for work instead of one as it is known from the capitalist remuneration, 
+
+The basic premise of this paper is a belief, that problems caused by the work reward mechanism of capitalist economic system (unemployment, declining real wages, income inequality..) can be solved by adopting a new reward model, which includes a measure of work usefulness - its impact. As 
+
+
+This notion is based on a growing body of evidence:
 
 a. people worldwide are willing to work for free on socially beneficial projects, 
 b. behavioral economics studies revealed, that increases in material reward for performed work ceases to make workers happier after reaching certain limit,
 c. millions of people are daily creating content on internet social networks only to increase their social standing, expressed in measures like Facebook "likes", or Youtube ratings.
 
-In NEO, usefullness of work is reflected in "impact" reward, calculated from the cummulative lenght of time during which a particular product or service (asset) has been used. The size of this reward is different for different types of work, reflecting its usefulness and therefore its value. Unlike wage of the capitalist economic system, this reward can not be directly traded for material goods or services, but like wage, acts as work motivation mechanism in the new model.
+In NEO, usefullness of work is reflected in "impact" reward, calculated from the difference between asset price and its value. Size of this reward is different for different types of work, reflecting its usefulness and therefore its value. Unlike wage of the capitalist economic system, impact reward can not be directly traded for material goods or services, but like wage, acts as work motivation mechanism in the new model.
 
-The second reward type is given for "effort" and is equal to the number of hours needed to create assets. This reward can be exchanged for goods or services, which makes it similar to time based community currencies[7] like Time Dollar.
+---
+reward for impact allocation - project creator must negotiate with collaborators on the impact reward share ratio during all stages of asset creation.
+---
+
 
 2. Equality of effort.
 
@@ -47,19 +210,30 @@ b. Increasing (monetary) reward does not increase preformance of creative worker
 
 Lastly, the capitalist remuneration mechanism leads to concentration of material wealth into hands of a small group of people, which in turns leads to deformations in economy (market manipulations, declining purchasing power by the majority of market participants...), political life (the role of big money in representative domocracies) and other areas (charity).
 
-3. Price
+3. Cost of assets and price
 
-To make buying and selling possible, a measure is needed representing asset  exchange value (price). In NEO, it equals the number of hours of all workers, who participated on the asset creation directly, or indirectly:
+All goods and services traded today in the world economies are made by human labor, augmented by varying amount of machine labor. The ratio of the two kinds of labor places assets on a scale, where on the one end are artisan products made largerly with human labor, and on the other are mass-produced assets, like individual instances of digital media made by electronic copying. The position a particular asset occupies on this imaginary scale is important, as everyday experience suggests, that assets made with large portions of machine labor have lower prices, than similar assets created by unaided human work. The cause of this phenomenon can be traced to the role machine labor plays in the cost structure of assets.
+
+<picture assetCostStrucrure>
+
+The picture above shows the lenghts of time - indicated by the bars width - needed to create two assets. The one labeled "1", is an asset created without use of machines. The graphics No. 2 below shows the same kind of asset, made with the use of machine labor. It can be seen, that making it requires roughly a quarter of human labor used to make asset 1 and the total number of hours to make it is also shorter - about 50% of the time needed to create asset No. 1. Considering, that producing any two assets of the same kind requires the same amount of unaided human labor, allows us to claim, that machine labor is equivalent to a certain amount of human labor:
+
+Mhl = HL1 - HL2
+
+Mhl - human equivalent of machine labor
+HL1 - human labor needed to create an asset without use of machines
+HL2 - human labor needed to create an asset with use of machines
+
+To make buying and selling possible, a measure is needed, representing asset  exchange value (price). In NEO, it equals the sum of hours of all workers who participated on asset creation - directly, or virtually:
 
 a. direct labor - the time, the workers spend making parts for, or performing final assembly of an asset,
-b. indirect labor - represented by the "amortized cost" of tools. It is that portion of a tool's cost, which corresponds to the part of its service life used to make an asset. For example, a hammer might have service life of 50 000 hits. If the hammer was used 500 times to make an asset, then 0.01 of the hammer price will be added to the asset price. Finally, given that cost is an expression of the amount of labor, amortized cost then represents the indirect labor.
+b. virtual labor - labor performed by machines. Machines are a class of assets that can make workers' labor more efficient, or perform work on their behalf. Examples of machines are tools, automata and robots[13] and their inseparable complement - the information (operating instructions, programs, know-how) guiding machine operation.
 
-The tools like the above-mentioned hammer are examples of an important class of assets, that can make workers' labor more efficient, or perform work on their behalf. Members of this class are various machines[13] and their inseparable companions - the information (instructions, programs, know-how) guiding their operation. Assets of this class will be called "machines". In the capitalist economy, work performed by machines provides room for the market forces to drive down prices. In NEO, labor performed by machines is not directly used to lower asset prices. Instead, value they produce is distributed to all people through mechanism of Universal Dividend (see below). This is a consequence of the fact, that the actors in a trade are exchanging value of their own labor in accordance with the equality of effort postulate:
+A question of critical importance is - who owns the machine labor? In the capitalist economy, machine labor belongs to the machine owner, who uses it to set asset prices, in order to generate profit for her/himself. In NEO, the machine owner is rewarded only for the actual number of work hours he or she performs and therefore can not individually materially benefit from machine labor. The ultimate reason why workers in NEO buy machines is to gain impact reward.
 
-1. the sellers can be rewarded only for the number of their own work hours, not for value generated by machines. If this was not the case and sellers could add machine time to the prices of the assets they sell, they would receive more reward for their own work hours and the equality of effort principle would be violated.
-2. the buyers always pay the full cost of assets, because they can not be the recipients of the value created by a machine. Otherwise the equality of effort principle would be violated.
+These considerations are also reflected in the prices of assets, made widh machine labor. They are set to the cost of human labor, plus the cost of virtual human labor performed by machines. It can be shown, that the sum of these costs equals the total amount of labor human workers would have to perform, if they did not use any machines. The machine labor must be passed into an asset price in full, as throwing any portion of it away (lowering price) would unfairly benefit the asset buyer.
 
-Therefore, the only rightful beneficiary of machine labor is mankind as a whole, reflecting the fact that value-generating capabilities of machines have been built by generations of people, building successively on each other's effort.
+The portion of sales they generate is distributed to all people through mechanism of Universal Dividend (see below), and that indirectly lowers asset prices. The end effect is that in NEO, beneficiary of machine labor is mankind as a whole, reflecting the fact that machines have been built using knowledge of generations of our ancestors, building successively on each other's effort.
 
 In practice, various pricing schemes can be imagined, that are conformant with the NEO postulates. For example:
 a. a fixed price, determined by the asset creator. This pricing strategy will be mostly used for assets containing large proportion of human labor (artisan products). 
@@ -127,7 +301,7 @@ Implementation
 
 Rules of the proposed model will be implemented as a set of computer algorithms deployed into a distributed computing platform (Rovas). Security, privacy and technical details regarding policies governing instalation of new algorithms or new versions of old algorithms, will be described in a different document.
 
-It is envisioned, that both new reward measueres will exist only virtually, Chrons as digital currency stored in private accounts and Merits as numerical score, visible to the pubic. There will be no material objects (coins, bills) representing these measures that NEO participants could pass from one to another, but there might be technical solutions allowing physical representation of the Merit score, for example using augmented reality techniques within wearable devices, allowing users to see each other's Merit score.
+It is envisioned, that both new reward measures will exist only virtually, Chrons as digital currency stored in private accounts and Merits as numerical score, visible to the pubic. There will be no material objects (coins, bills) representing these measures that NEO participants could pass from one to another, but there might be technical solutions allowing physical representation of the Merit score, for example using augmented reality techniques within wearable devices, allowing users to see each other's Merit score.
 
 The following example illustrates basic concepts of the model.
 
@@ -194,7 +368,6 @@ Not only chrons can't be directly exchanged for "foreign currencies", but chrons
 
 However, donors and governments will be able to give money to NEO's "foreign currencies" bank accounts.
 
-Strategies for 
 
 [1] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being
 [2] Lester M. Salamon, S. Wojciech Sokolowski, Megan A. Haddock: Measuring the economic value of volunteer work globally: concepts, estimates, and a roadmap to the future
@@ -202,7 +375,6 @@ Strategies for
 [4] Thomas B. Edsall - Just Right Inequality http://www.nytimes.com/2014/03/05/opinion/edsall-just-right-inequality.html?_r=0
 [5] Slovak word "rováš" stands means "tally stick" in english. See http://en.wikipedia.org/wiki/Tally_stick
 [6] Dan Ariely, Uri Gneezy, George Loewenstein, and Nina Mazar "Large Stakes and Big Mistakes" - http://www.bostonfed.org/economic/wp/wp2005/wp0511.pdf
-
 [7] Time-based currency in wikipedia: http://en.wikipedia.org/wiki/Time-based_currency
 [8] Andrew N. Christopher, Barry R. Schlenker - "The impact of perceived material wealth and perceiver personality on first impressions"
 [9] Basic income - http://en.wikipedia.org/wiki/List_of_basic_income_models
@@ -210,3 +382,6 @@ Strategies for
 [11] 178 oxfam briefing paper 20 january 2014 - "WORKING FOR THE FEW; Political capture and economic inequality" http://www.oxfam.org/sites/www.oxfam.org/files/bp-working-for-few-political-capture-economic-inequality-200114-en.pdf
 [12] Karl Marx - Das Kapital, Kritik der politischen Ökonomie
 [13] Machines - http://en.wikipedia.org/wiki/Machine
+[14] The Outlook on the Global Agenda 2015 - http://reports.weforum.org/outlook-global-agenda-2015/
+[15] Culture - wikipedia entry - http://en.wikipedia.org/wiki/Culture
+[16] possibly because our civilization does not value failure and therefore does not find useful to measure it in the same way it finds useful to measure success.
