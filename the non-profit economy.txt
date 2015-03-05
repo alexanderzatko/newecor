@@ -17,106 +17,49 @@ From these findings an inference can be made, that once their basic material nee
 
 The proposed model further postulates:
 a. workers are materially rewarded only for effort and not for impact,
-b. size of  material reward received is independent of the work type (equality of effort),
+b. the amount of  material reward received is independent of the work type (equality of effort),
 c. Positive difference between cost of asset and its price is distributed equally to all NEO participants as a Universal dividend.
 
 NEO rules will be implemented as a set of algorithms, running on global, decentralized, computing platform.
 
 Discussion
 
-In the approaching era of post-scarcity world, the effort to provide support for our physical needs will be eliminated and with that also the need for (material) remuneration. Arrival of this new era presents two problems.
+In the approaching era of post-scarcity world, the effort to provide support for our physical needs will be eliminated and with it also the need for (material) remuneration. Arrival of this new era presents several problems.
 
 1. Value of work and peer effects
 
-In capitalism, varying size of hourly wage is a common way of rewarding differences in the utility of work performed by different workers. Such income differences lead to emergence of a consumption visibility gradient, that other members of society subconsciously use to modify their behavior, in order to improve their material and social standing. Most often, such change leads to learning new skills, which in turn increases social capital. It is therefore reasonable to expect, that loss of such a mechanism could reduce motivation for self-improvement in a large segment of population.
+Research shows that peer effects, combined with wage amount differences result in emergence of differentiated consumption visibility (consumption visibility gradient), that members of society use as a guide, to improve their own social standing [18]. Most often, the improvement effort has form of learning new skills, which brings along overall improvements in social capital. Loss of such a motivation-enhancing mechanism caused by elimination of work by machines would therefore be detrimental to the individuals, as well as society in general.
 
-Posting free content on the internet social networks provides a good case study for modeling post-scarcity economy. Individuals there are represented by avatars, or strings of text of their choosing. If they are also free to change the look of these surrogates of personhood cost-free, their presentation style could not be used as a meaningful expression of value. To create an equivalent to the consumption visibility gradient of capitalist economy a different method will be needed. It will be shown, that a suitable replacement already exists in the form of various kinds of crowdsourced reputation ratings (facebook likes, popularity points, badges...), expressing popularity of the rated property.
+Coincidentally, the same technological advances responsible for transition to the post-scarcity era also enabled creation of the internet and on-line social networks. Once their membership reached a certain critical size, new value scales emerged, for expressing various characteristics of network members. For example, reputation score crowdsourced from ratings by network members is an expression of expertise level on the stackexchange.com. Services like youtube.com and quora.com measure the number of subscribers the content authors have, karma of reddit.com is an expression of the popularity of posts made by the reddit members, etc... These measures serve as a new signaling mechanism, guiding network members' behavior in the on-line domain (for example managing access to private information, expressing trust in economic transactions, e.t.c.). It can be expected, that wearable technology and augmented reality applications will soon make these virtual ratings available in the physical world as well, for example by allowing their wearers/users to check various ratings of other individuals in real time.
 
-2. Transition from capitalist to the post-scarcity economy.
+2. Psychological challenges
 
-In the capitalist economies, higher rewards are granted to workers who are more productive, especially if increased productivity is caused by inventing more efficient value-creating processes. As was mentioned above, this leads to evolution of a socially beneficial consumption visibility gradient.
+The most difficult obstacle to overcome on the path to the post-scarcity world is likely going to be finding a solution to the origin of income and wealth inequalities. The reason is, that material differences between people is contradicting to the basic premise of the approaching era - material equality. This contradiction must be resolved and the solution lies in a change of our beliefs about the role of creativity.
 
-From philosophical point of view however, granting different workers rewards of different sizes for the same worked amount of time is problematic. Correctness of this mechanism has not been proven - it has been built into the capitalist economic model, because experience leads os to believe that humans are able to control own destiny by applying free will. As existence of free will is necessary condition for creativity of any kind, having no free will would make rewarding "creative" people a mistake. 
+In capitalism, granting different workers material rewards of different sizes for the same worked amount of time (or effort, as measured by energy expediture) is considered to be fair, if then better rewarded workers are more productive. The intuitive reason is, that people who through their work increase productivity, have been able to do so only because they are more creative than others. Considering, that creativity is an act of free will[17], differences in remuneration then are correct only if free will actually exist. If the opposite is true, then the capitalist model is flawed.
 
-The presented model assumes that free will is a bad modeling artefact (an illusion), due to the argument that being creative is a consequence of either genetic and cultural predispositions a gifted individual evolved in or random processes that no one controls. One of the most important consequence of this choice is that benefits that creativity an individual generates do not belong to him/her and need to be distributed among all members of population equally.
+The presented model assumes that free will is indeed an artefact of incorrect modeling  (an illusion) [ex. dennet]. The most important consequence of this assumption is, that the workers receive material reward only for the number of work hours and material profit generated by their work is distributed to all members of population equally. The reason is simple - if there is no free will, then individual creativity is a quality individuals do not control and therefore can't be rewarded for.
 
-
-• inapropriate assignemnt of reward for created value - instead of the humanity as a whole, we reward the individuals who have been randomly endowed by the ability to produce an output stable enough to survive pressures of market forces
-• rewarding new stable structures materially - which leads to deformations of individual lives as well as causing deformations in the management of public affairs (superPACs, corruption...)
+This modeling decision offers new solutions to the problems of capitalism.
 
 
-
-How do people justify that one person should be paid more for their work than another person? The arguments heard most often are:
-
-1. Some jobs are "more important" than other, 
-2. well-paid jobs require specialized knowledge, that one can acquire only through years of education,
-3. well-paid people work "harder" and therefore deserve more reward.
-4. some occupations are more dangerous, tham other
-
-Job importance is hard to define, but one can detect a correlation between importance and the degree to which a particular work is beneficial to individual people or society as a whole. Unfortunately there is no correlation between job importance and pay amount in any major economic system
-
-The last one mentioned can be dismissed outright, as there are many hard working individuals who produce output that ultimately does not succeed in the marketplace.
-
-The second argument deserves a closer scrutiny. Most people feel that there is a difference between the work of scientist and a cabbage picker. To perform scientific work, a worker must first acquire sufficient understanding of the subject matter
-
-former  is in the differences between the complexity of the mental models these two workers need to perform their particular jobs.
+This modeling artefact solves several problems of the capitalist economic model:
 
 
-The question is, whether  makes one person smarter than another. The usual suspects here are:
-a. genetic predispositions,
-b. "nun-mutable environmental" circumstances in which an individual grows up (for example the kind of parents or economic circumstances),
-c. lastly, there is a category of factors that an individual can affect like the type of schoole he or she attends, or how diligent/lazy person is.
+3. Transition from capitalist to the post-scarcity economy.
+
+As mentioned above, in capitalism, income inequalities lead to evolution of a socially beneficial consumption visibility gradient. For practical reasons, it had to have material form, as only material objects could be made visible in the context of physical social networks. However, due to the shortcommings of the capitalist economic model[3], inequalities in income lead to concentration of wealth into a small fraction of population. The threat of wealth inequality has prompted 
 
 
-Because people do not choose their own genetic make-up or parents, we can speculate 
+...leads to depletion of disposable resources for the rest of population and their purchasing power. This has a dampening effect on progress in all spheres of human activities. Science, education and culture are not funded, manufacturing and construction is stalling... 
+
+
+
+
+-----------
 
 ...based on a belief that laziness is a character blemish, which can be dealt with by applying will. Most people believe that humans possess free will. If that was the case, there would be no lazy people, smokers or overweight people, because they could just decide (will) not to be lazy. An argument that there are degrees of will (weak will, strong will) does not help here either, because if there are degrees of will, then there must be something, that has the power to endow different individuals with will of a varying strength. And that contradicts the idea of free will. The conclusion is that free will is an illusion. 
 
-The practical consequences of this conclusion are enormous. In the field of economy that is the topic of this paper, lack of free will means, that the capitalist system rewarding some 
-
-Apparently that means, that some personal characteristics are beyond individual's control, as he or she might not possess will strong enough to shape his or her life.
-
-
-
-The source of the most pressing problems of the capitalist economic system, like income inequality, unemployment or boom and bust cycles can be traced to certain incorrect beliefs, shared by the majority of economy participants. For example:
-1. workers should receive reward proportional to their contribution to use value of an asset they produced, 
-2. to motivate workers, the reward must be material,
-
-Starting with the second one, it will be shown, that both of them are problematic upon closer inspection.
-
-A growing amount of evidence is pointing toward a more complicated model of human motivation. For one, millions of people across the globe volunteer their time to create products and services with total value that rivals GDP of the most developed countries. 
-
-
-
-While it is not the objective of this paper to analyse the true motives of volunteers, it can be said with certainity that they are not affected by material reward. Second line of evidence comes from research in the field of behavioral economics concerning relationship between worker happiness and their income amount. Going against intuition, happiness reaches a plateau at a certain country-specific income level. 
-
-
-
-• material and reputation rewards have been inseparable throughout history
-• humans building their internal models need some measure to provide a feedback about their progress toward perfection.
-
-
-
-Natural selection - the basic concept of Darwin's evolutionary theory - can be applied to ideas leading to 
-
-The proof of this claim can be found in the amount of global effort spent to create assets that do not find success in the marketplace. The exact numbers are hard to come by[16], but given the rarity of genius, it likely exceeds by several orders of magnitude the amount of effort leading to creation of successful assets. Therefore more effort does not lead to inventiveness and as a consequence, effort leading to production of successful assets should not receive larger material rewards than the same amount of effort invested into production of less successful assets.
-
-However, there are several arguments pointing to a need for existence of a measurement that people can use to put a value on quality of their mental world models.
-
-inability of various time based complementary currencies to gain traction point to an important observation that more inventive asset creators should 
-
-Claim 2: Behavioral economics studies show that people loose motivation to earn more material reward 
-
-If it was possible for anybody to achieve greater inventivness by effort, there would not be so much failed enterprises and wasted human effort in the world.
-
-the efforts of two workers (the more and less inventive ones) is not so due to his or her own effort and therefore does not "deserve" more 
-
-
-
-
-The established practice, reflecting a prevailing popular opinion is, that succesful inovators should receive larger material reward for an unit of effort than non-creative workers. Two reasons are cited most for innovators deserving to be paid more:
-1. 
-2. they need to be paid more because they work harder than others
 
 Yet research shows a different picture. For example, in some cases increasing reward not only does not raise worker motivation and performance, but in fact lowers it [6]. Other studies show, that happiness - a closely related concept to motivation - does not rise with rising material reward proportionaly, but reaches a plateau at certain country-specific level [1]. Finally, the fact that people are willing to work for free on projects whose results are appreciated by others indicate, that it is the immaterial reward from society that people are seeking, while material reward is secondary, once their basic existential needs are satisfied.
 
@@ -385,3 +328,7 @@ However, donors and governments will be able to give money to NEO's "foreign cur
 [14] The Outlook on the Global Agenda 2015 - http://reports.weforum.org/outlook-global-agenda-2015/
 [15] Culture - wikipedia entry - http://en.wikipedia.org/wiki/Culture
 [16] possibly because our civilization does not value failure and therefore does not find useful to measure it in the same way it finds useful to measure success.
+[17] Creative thoughts as acts of free will: A two-stage formal integration.  Simonton, Dean Keith
+Review of General Psychology, Vol 17(4), Dec 2013, 374-383.
+[18] Conspicuous Consumption and Peer Effects among the Poor: Evidence From a Field Experiment - http://tinyurl.com/kcatt6c
+[19] Alison Hearn: Structuring feeling: Web 2.0, online ranking and rating, and the digital ‘reputation’ economy - http://tinyurl.com/k6889cn
