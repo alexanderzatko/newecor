@@ -24,109 +24,44 @@ NEO rules will be implemented as a set of algorithms, running on global, decentr
 
 Discussion
 
-In the approaching era of post-scarcity world, the effort to provide support for our physical needs will be eliminated and with it also the need for (material) remuneration. Arrival of this new era presents several problems.
+Increasingly disappearing decently-paid jobs, together with technology-triggered decline in prices of most products signal arrival of a new phase in the evolution of mankind, commonly known as post-scarcity world. In this era, the effort to provide support for our physical needs will be eliminated and with it also the need for (material) remuneration. This change will present several problems.
 
 1. Value of work and peer effects
 
-Research shows that peer effects, combined with wage amount differences result in emergence of differentiated consumption visibility (consumption visibility gradient), that members of society use as a guide, to improve their own social standing [18]. Most often, the improvement effort has form of learning new skills, which brings along overall improvements in social capital. Loss of such a motivation-enhancing mechanism caused by elimination of work by machines would therefore be detrimental to the individuals, as well as society in general.
+Research shows that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide, to improve their own social standing [18]. Most often, the improvement effort has the form of learning new skills, which brings along overall improvements in social capital. Loss of such a motivation-enhancing mechanism caused by elimination of work by machines would therefore be detrimental to the individuals, as well as society in general.
 
-Coincidentally, the same technological advances responsible for transition to the post-scarcity era also enabled creation of the internet and on-line social networks. Once their membership reached a certain critical size, new value scales emerged, for expressing various characteristics of network members. For example, reputation score crowdsourced from ratings by network members is an expression of expertise level on the stackexchange.com. Services like youtube.com and quora.com measure the number of subscribers the content authors have, karma of reddit.com is an expression of the popularity of posts made by the reddit members, etc... These measures serve as a new signaling mechanism, guiding network members' behavior in the on-line domain (for example managing access to private information, expressing trust in economic transactions, e.t.c.). It can be expected, that wearable technology and augmented reality applications will soon make these virtual ratings available in the physical world as well, for example by allowing their wearers/users to check various ratings of other individuals in real time.
+Coincidentally, the same technological advances responsible for transition to the post-scarcity world also enabled creation of the internet and on-line social networks. Once their membership reached certain critical size, new value scales emerged, for expressing various characteristics of network members. For example, reputation score crowdsourced from ratings from users is an expression of expertise level on the stackexchange.com. Services like youtube.com and quora.com measure the number of subscribers the content authors have, karma of reddit.com is an expression of popularity of posts made by the reddit members, etc... These measures serve as a new signaling mechanism, guiding network members' behavior in the on-line domain (for example managing access to private information, expressing trust in economic transactions, e.t.c.). It can be expected, that wearable technology and augmented reality applications will soon make these virtual ratings available in the physical world as well, for example by allowing their wearers/users to check various ratings of other individuals as they are observed.
 
 2. Psychological challenges
 
-The most difficult obstacle to overcome on the path to the post-scarcity world is likely going to be finding a solution to the origin of income and wealth inequalities. The reason is, that material differences between people is contradicting to the basic premise of the approaching era - material equality. This contradiction must be resolved and the solution lies in a change of our beliefs about the role of creativity.
+The most difficult obstacle to overcome on the path to the post-scarcity world is likely going to be finding a solution to the origin of income and wealth inequality. The reason is, that existence of material wealth differences between people is contradicting the basic premise of the approaching era - material equality.
 
-In capitalism, granting different workers material rewards of different sizes for the same worked amount of time (or effort, as measured by energy expediture) is considered to be fair, if then better rewarded workers are more productive. The intuitive reason is, that people who through their work increase productivity, have been able to do so only because they are more creative than others. Considering, that creativity is an act of free will[17], differences in remuneration then are correct only if free will actually exist. If the opposite is true, then the capitalist model is flawed.
+In capitalism, granting different workers material rewards of inequal size for the same worked amount of time (or effort, as measured by energy expediture) is considered to be fair, if the better rewarded workers are more productive. The intuitive reason is, that people who through their work increase productivity, have been able to do so, because they are more creative than others. However, as creativity is an act of free will[17], the differences in remuneration make sense only if freee will actually exist. If the opposite is true, then the capitalist model is flawed. 
 
-The presented model assumes that free will is indeed an artefact of incorrect modeling  (an illusion) [ex. dennet]. The most important consequence of this assumption is, that the workers receive material reward only for the number of work hours and material profit generated by their work is distributed to all members of population equally. The reason is simple - if there is no free will, then individual creativity is a quality individuals do not control and therefore can't be rewarded for.
+The presented model assumes that free will is indeed an artefact of incorrect modeling  (an illusion) [ex. dennet]. From this assumption follows, that profit from a product or service does not belong to the worker who created it, as the creative abilities needed to make/market and sell it are not created by the worker. The correct way to understand creativity is as an emergent statistical quality of social networks. From that follows, profit belongs to the mankind as a whole.
 
-This modeling decision offers new solutions to the problems of capitalism.
-
-
-This modeling artefact solves several problems of the capitalist economic model:
-
-
-3. Transition from capitalist to the post-scarcity economy.
-
-As mentioned above, in capitalism, income inequalities lead to evolution of a socially beneficial consumption visibility gradient. For practical reasons, it had to have material form, as only material objects could be made visible in the context of physical social networks. However, due to the shortcommings of the capitalist economic model[3], inequalities in income lead to concentration of wealth into a small fraction of population. The threat of wealth inequality has prompted 
-
-
-...leads to depletion of disposable resources for the rest of population and their purchasing power. This has a dampening effect on progress in all spheres of human activities. Science, education and culture are not funded, manufacturing and construction is stalling... 
+These inferences lead to several consequences:
+1. profits are the natural basis for an universal distribution (basic income),
+2. workers should be materially rewarded only for their time and energy exerted, not for utility of their work manifested as profit,
+3. profit is a measure of a successful world model that creative people posess and therefore can serve as a basis for construction of a new motivation gradient, replacing the consumption visibility gradient of the capitalist economic system.
 
 
 
 
 -----------
+Most people believe that humans possess free will. If that was the case, there would be no lazy people, smokers or overweight people, because they could just decide (will) not to be lazy. An argument that there are degrees of will (weak will, strong will) does not help here either, because if there are degrees of will, then there must be something, that has the power to endow different individuals with will of a varying strength. And that contradicts the idea of free will. The conclusion is that free will is an illusion. 
+-----------
 
-...based on a belief that laziness is a character blemish, which can be dealt with by applying will. Most people believe that humans possess free will. If that was the case, there would be no lazy people, smokers or overweight people, because they could just decide (will) not to be lazy. An argument that there are degrees of will (weak will, strong will) does not help here either, because if there are degrees of will, then there must be something, that has the power to endow different individuals with will of a varying strength. And that contradicts the idea of free will. The conclusion is that free will is an illusion. 
-
-
-Yet research shows a different picture. For example, in some cases increasing reward not only does not raise worker motivation and performance, but in fact lowers it [6]. Other studies show, that happiness - a closely related concept to motivation - does not rise with rising material reward proportionaly, but reaches a plateau at certain country-specific level [1]. Finally, the fact that people are willing to work for free on projects whose results are appreciated by others indicate, that it is the immaterial reward from society that people are seeking, while material reward is secondary, once their basic existential needs are satisfied.
-
-The second common belief, that innovative people work harder and therefore an unit of their work needs to be rewarded higher than the same unit of non-creative work unit is also highly questionable under close scrutiny.
-
-One argument tries to relate worker characteristics leading to innovative work to the effort they had to exert to reach state where they are able to perform above normal. For example, in case of innovators long hours spent looking for solutions to problems, or years-lasting experimentation are linked to achieving exceptional insights. 
-
-vvvvvvvvvv
-
-Every human society is associated with a specific set of beliefs, held by the majority of its members, about the rules that control things like behavior of other people, animals, or the inanimate objects of the physical world. Commonly refered to as culture, this set of beliefs provides a blueprint for survival to individuals and the societies they belong to.
-
-For example, until the time of Renaissance, few individuals questioned the prevailing opinion that Earth is in the centre of the universe and in the sphere of beliefs concerning society, the idea of gender and racial equality in questions like the right to vote have not been 
-
-
-
-
-anthropologists call "culture". "...An integrated system of learned behavior patterns which are characteristic of the members of a society and which are not a result of biological inheritance.[15]..." it also concerns prevailing beliefs about human behavior that relates to economic exchanges.
-
-A product of the intersection of individual people's beliefs, it ch, as these are tested and confronted with reality, in order to maintain, improve and prolong their lives. 
 
 A common belief about rewarding is that we are rewarding inovators more because they had to work harder than others to achieve their exceptional output. Yet a case by case analysis reveals, that this is only true on the surface. There are scores of hard working people trying to deliver useful and desired products, but their effort rarely leads to groundbreaking inventions.  do not keep record of the amount of effort and resources wasted on failed project, but circumstatial evidence indicates, that the amount of wasted effort is massive.
 Only a small percentage of people ever succeed and they do so for reasons that have nothing to do with their effort, but everything with the circumstances they were born into. 
 
-Creativity though is rare and should be celebrated and studied, because its application keeps improving human life. A value should also be assigned to creative output, to provide other humans with a kind of value gradient, which can server as a measure of their own abilities. Materially rewarding creative output is wrong though, because:
-1. material reward should be granted only for work that a person clearly exerted and not for a phantom "effort" a person received only by a sheer play of chance.
-2. material reward is wasted on creative people because most of the time it does not induce them to deliver more innovative work.
 
-
-
-
-
-The way we interact in economic transactions is also affected by our beliefs about concepts like the role of effort in value production, or what constitutes a fair amout of material reward for a unit of work. The premise of the new economic system proposed here is that some long held beliefs that form the foundations of the capitalist economic system are wrong.
-
-
-In particular, the assumptions that:
-1. it is sufficient to reward workers only materially,
-2. workers are rewarded only for the use value of the assets they produce,
-3. the size of (material) reward is determined by market forces.
-
-It will be argued, that equal amounts of work, performed by workers of different occupations have the same value, yet they differ in their impact. 
-Pointing to the known fact, that there is no connection between effort and impact it is wrong to reward impact materially, as its presence in a work output is purely accidental. 
-
- huge number of human effort is being invested into (business) activities that do not end up delivering assets the market needs.
-
-
-
-
-
- The outcome of this effort is often a failure, if asset creator's idea does not resonate with the intended recipient's needs. However, in some rare cases, a good, service or a theoretical work is created, that is needed by many. Succesful individuals who happen to find themselves
-
-In order to increase the proportion of success-ending efforts, but despite concentrated effort of generations of people, a sure formula for success remains elusive. A popular belief, that effort and hard work inevitably lead to success, is undermined by the number of failed attempts that cost humanity immense amounts of resources. A more likely answer to the question of whether a particular person will produce useful output lies in the genetic code of the individual and the environment he or she has been growing up in. Therefore even the concept of "strong vill" can be traced to these factors.
-
-
-The most signifficant difference between NEO and the capitalist economic model is that material reward for work is at the most equal to asset cost - the number of hours invested by workers into making it available to consumers (by creating, packing, transporting and ultimately selling it). The difference between asset sale price and its cost is distributed equally between all NEO participants and amount of impact reward numerically equal to that difference is distributed between asset makers according to their "impact contribution".
-
-
-Discussion
+Description of NEO
 
 1. two types of rewards for performed work.
 
 The "effort" reward type has been studied extensively in  ....  and is equal to the number of hours needed to create assets. This reward can be exchanged for goods or services, which makes it similar to time based community currencies[7] like Time Dollar.
-
-
-
-In order to understand the rationalle for two rewards for work instead of one as it is known from the capitalist remuneration, 
-
-The basic premise of this paper is a belief, that problems caused by the work reward mechanism of capitalist economic system (unemployment, declining real wages, income inequality..) can be solved by adopting a new reward model, which includes a measure of work usefulness - its impact. As 
 
 
 This notion is based on a growing body of evidence:
