@@ -2,84 +2,115 @@ The non-profit economy
 
 Introduction
 
-This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of capitalist remuneration mechanism, which takes into account pro-social aspect of work has potential to solve some of the world's most pressing economic problems. 
+This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of the existing remuneration mechanism, that takes these finding into account, has potential to resolve some of the most difficult problems of the capitalist economic system.
 
 There are two observations in particular that served as inspiration for the new model:
 
 1. Behavioral economics studies show, that happiness rises with increasing income only to a certain level ($75,000 in the USA)[1].
 
-2. Every year, about one billion people from around the world work for free to produce socially beneficial work. In the process, they generate value that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
+2. Every year, about one billion people from around the world work for free to produce socially beneficial output. In the process, they generate value that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
 
 From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in NEO, work reward consists of two separate types:
 
-1. effort - for the number of hours spent by a worker to create an asset.
-2. impact - for the (positive) difference between price of an asset and the effort needed to create it.
+1. effort - for the number of hours spent by a worker to create an economic good.
+2. impact - for the (positive) difference between price of a good and effort needed to create it.
 
 The proposed model further postulates:
 a. workers are materially rewarded only for effort and not for impact,
 b. the amount of  material reward received is independent of the work type (equality of effort),
-c. Positive difference between cost of asset and its price is distributed equally to all NEO participants as a Universal dividend.
+c. Positive difference between cost of good and its price is distributed equally to all NEO participants as a Universal distribution.
 
-NEO rules will be implemented as a set of algorithms, running on global, decentralized, computing platform.
+It is envisioned that NEO rules will be implemented as a set of algorithms, running on global, decentralized computing platform.
 
 Discussion
 
-Increasingly disappearing decently-paid jobs, together with technology-triggered decline in prices of most products signal arrival of a new phase in the evolution of mankind, commonly known as post-scarcity world. In this era, the effort to provide support for our physical needs will be eliminated and with it also the need for (material) remuneration. This change will present several problems.
+The increasing pace of elimination of human labor by advances in technology, signal arrival of new phase in the history of mankind, commonly known as post-scarcity world. In this era, the effort to provide support for our physical needs will be eliminated and with it also the need for (material) remuneration. The transition presents several challenges.
 
-1. Value of work and peer effects
+1. Peer effects
 
-Research shows that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide, to improve their own social standing [18]. Most often, the improvement effort has the form of learning new skills, which brings along overall improvements in social capital. Loss of such a motivation-enhancing mechanism caused by elimination of work by machines would therefore be detrimental to the individuals, as well as society in general.
+Research shows that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide for improving their own social standing [18]. Most often, such effort is manifested by learning new skills, which brings along overall improvements in social capital. Loss of this motivation mechanism would therefore be detrimental to cultural progress of individuals and therefore also the human society in general.
 
-Coincidentally, the same technological advances responsible for transition to the post-scarcity world also enabled creation of the internet and on-line social networks. Once their membership reached certain critical size, new value scales emerged, for expressing various characteristics of network members. For example, reputation score crowdsourced from ratings from users is an expression of expertise level on the stackexchange.com. Services like youtube.com and quora.com measure the number of subscribers the content authors have, karma of reddit.com is an expression of popularity of posts made by the reddit members, etc... These measures serve as a new signaling mechanism, guiding network members' behavior in the on-line domain (for example managing access to private information, expressing trust in economic transactions, e.t.c.). It can be expected, that wearable technology and augmented reality applications will soon make these virtual ratings available in the physical world as well, for example by allowing their wearers/users to check various ratings of other individuals as they are observed.
+Coincidentally, the same technological advances making transition to the post-scarcity world possible, also lead to creation of the internet and on-line social networks. Once they reached certain size, new value scales emerged, used to express various characteristics of network members. For example, reputation score generated by users is an expression of expertise level on the stackexchange.com and karma of reddit.com is an expression of popularity of posts made by the service users. In the on-line world, these measures serve as new signaling mechanism, functionally equivalent to the consumption visibility gradient. Wearable technology and augmented reality applications will likely make these virtual ratings visible in the physical world as well, for example by allowing their wearers/users to check various ratings of other individuals as they are observed.
 
-2. Psychological challenges
+2. Rewarding creativity
 
-The most difficult obstacle to overcome on the path to the post-scarcity world is likely going to be finding a solution to the origin of income and wealth inequality. The reason is, that existence of material wealth differences between people is contradicting the basic premise of the approaching era - material equality.
+A major obstacle to overcome on the path to post-scarcity economy will be  finding a solution for the problem of income and wealth inequality [14]. The reason is, that existence of material wealth differences between people is contradicting the basic premise of the approaching era - material equality.
 
-In capitalism, granting different workers material rewards of inequal size for the same worked amount of time (or effort, as measured by energy expediture) is considered to be fair, if the better rewarded workers are more productive. The intuitive reason is, that people who through their work increase productivity, have been able to do so, because they are more creative than others. However, as creativity is an act of free will[17], the differences in remuneration make sense only if freee will actually exist. If the opposite is true, then the capitalist model is flawed. 
+In capitalism, granting different workers material rewards of inequal size for the same worked amount of time (or effort, as measured by energy expediture) is considered to be fair, if the better rewarded workers are more productive. The intuitive reason is, that people who through their work increase productivity are more creative than others. However, as creativity is an act of free will[17], the differences in remuneration make sense only if freee will actually exists. If the opposite is true, one of the most fundamental beliefs of capitalism - that innovators need to be rewarded - must be reconsidered.
 
-The presented model assumes that free will is indeed an artefact of incorrect modeling  (an illusion) [ex. dennet]. From this assumption follows, that profit from a product or service does not belong to the worker who created it, as the creative abilities needed to make/market and sell it are not created by the worker. The correct way to understand creativity is as an emergent statistical quality of social networks. From that follows, profit belongs to the mankind as a whole.
+The presented model assumes, that free will is an artefact of incorrect modeling  (an illusion) [ex. dennet]. From this assumption follows, that profit gained from selling a good does not belong to the worker who created it, as the creative abilities needed to make/market and sell it are not a product of the worker's effort. In NEO, creativity is assumed to be an emergent statistical quality of social networks with profit belonging to the network - the mankind as a whole.
 
-These inferences lead to several consequences:
-1. profits are the natural basis for an universal distribution (basic income),
-2. workers should be materially rewarded only for their time and energy exerted, not for utility of their work manifested as profit,
-3. profit is a measure of a successful world model that creative people posess and therefore can serve as a basis for construction of a new motivation gradient, replacing the consumption visibility gradient of the capitalist economic system.
-
-
-
-
------------
-Most people believe that humans possess free will. If that was the case, there would be no lazy people, smokers or overweight people, because they could just decide (will) not to be lazy. An argument that there are degrees of will (weak will, strong will) does not help here either, because if there are degrees of will, then there must be something, that has the power to endow different individuals with will of a varying strength. And that contradicts the idea of free will. The conclusion is that free will is an illusion. 
------------
-
-
-A common belief about rewarding is that we are rewarding inovators more because they had to work harder than others to achieve their exceptional output. Yet a case by case analysis reveals, that this is only true on the surface. There are scores of hard working people trying to deliver useful and desired products, but their effort rarely leads to groundbreaking inventions.  do not keep record of the amount of effort and resources wasted on failed project, but circumstatial evidence indicates, that the amount of wasted effort is massive.
-Only a small percentage of people ever succeed and they do so for reasons that have nothing to do with their effort, but everything with the circumstances they were born into. 
-
+These inferences lead to several outcomes:
+1. profits are the natural source for an Universal distribution (basic income),
+2. workers should be materially rewarded only for their time/energy exerted, not for utility of their work manifested as profit,
+3. A worker who created profit-generating good, should receive non-material reward, equivalent in size to the profit amount. As has been shown in the Peer effects section, such "virtual" ratings can be used to construct replacement for the socially useful consumption visibility gradient.
 
 Description of NEO
 
-1. two types of rewards for performed work.
+Overcomming the prevailing belief that material reward proportional to the profit amount should be granted to the worker who created the profit-generating good presents a challenge. The solution proposed here is based on evidence, that workers can be motivated by non-material means, if these reflect utility of their work [volunteering, studies about intrinsic motivation]. 
 
-The "effort" reward type has been studied extensively in  ....  and is equal to the number of hours needed to create assets. This reward can be exchanged for goods or services, which makes it similar to time based community currencies[7] like Time Dollar.
+NEO therefore introduces a non-material reward type called "Merit," granted to workers as a compensation for profit, generated by selling goods they create. For the actual time spent working, NEO workers are paid with digital currency called "Chron". Both rewards are calculated and granted by algorithm ("Rovas"), from data provided by the workers and sales information from users of the produced goods. The following example illustrates the basic concepts and functions of the model.
+
+Example: An entrepreneur creating a web application.
+
+An entrepreneur starts work by creating a new project in Rovas, providing information like name of the project, its description and NACE classification, e.t.c.. Upon submitting, Rovas will generate unique project ID and assign it to the entrepreneur using her ID.
+
+As she works on the project, the entrepreneur keeps recording her work time. If third party tools are needed to complete the project, she will purchase them and record their Rovas asset IDs (a kind of project ID). Tools without ID do not have to be recorded - they have either been purchased outside of NEO and therefore are not paid with Chrons or the entrepreneur decided not to report such asset use.
+
+In order to measure utility, the entrepreneur will embed a special Rovas-connecting code into the web application, to process payments received from users, or record information about their usage. Lastly, the entrepreneur or another worker charged with selling the web application will have to choose a suitable monetizing strategy. In this example the strategy where access is allowed only to authenticated users who pay a set price will be described.
+
+In that scenario, web application user authenticates into Rovas[20] and confirms the payment. A transaction, containing ID of the user, is sent into Rovas, together with project ID. The Chrons from user's account (managed by Rovas) are transferred into NEO common account and user is granted access into application. 
+Rovas will add together all payments received from all buyers and substract them from all costs. If the result is positive (profit was reached), our entrepreneur as well as all other workers involved in the production are rewarded with Merits for portion of the generated profits. The workers participating on making, marketing and selling the web application must negotiate ahead of time, how Merits will be allocated between them and submit this information into Rovas.
+The entrepreneur and all workers who participated on production will start receive (Chron) payments as soon as first web application users (buyers) start paying for access. After all production costs are paid, profit is stored in NEO common account and earmarked for Universal distribution.
+
+The way tangible goods or services are sold and rewards distributed are variants of the strategies familiar from capitalist economy, modified to conform with the basic rules of NEO.
+
+Expected benefits
+...
+
+Strategies to spread 
+...
+
+Appendix
+
+The second scenario is similar to the first one, if the buyer pays some amount according to his/her choosing. Buyers who make choice not to pay anything will be penalized either materially by having some portion of their Universal distribution withdrawn, and/or 
+
+but this choice will lower the amount of Universal distribution the buyer will receive from NEO (mecahnism to be described later). A score derived from the average price paid by buyers of pay-as-you-wish goods and the price paid by a particular buyer will be visible to all users in order to promote pro-social behavior.
+
+The third scenario, where anonymous users are allowed access to goods will likely be used only during transition period from capitalist to the NEO economy. It is envisioned, that in this case goods creators will not receive any Merits, but will be paid for at least a portion of their costs from funds received from sources like government subsidies wishing to promote employment and from charitable donations who accummuated wealth in the capitalist economies. Rules for these transactions will have to be developed.
 
 
-This notion is based on a growing body of evidence:
 
-a. people worldwide are willing to work for free on socially beneficial projects, 
-b. behavioral economics studies revealed, that increases in material reward for performed work ceases to make workers happier after reaching certain limit,
-c. millions of people are daily creating content on internet social networks only to increase their social standing, expressed in measures like Facebook "likes", or Youtube ratings.
 
-In NEO, usefullness of work is reflected in "impact" reward, calculated from the difference between asset price and its value. Size of this reward is different for different types of work, reflecting its usefulness and therefore its value. Unlike wage of the capitalist economic system, impact reward can not be directly traded for material goods or services, but like wage, acts as work motivation mechanism in the new model.
+Suppose the entrepreneur invested 1000 hours into creating the web application (asset 1) and paid 10 chrons to acquire asset 2 (for example a program with specific functionality, that is needed in the web application). The total cost of web application is then 1010 chrons. Let's further assume, that the consumers collectively paid 2000 chrons for accessing the web application.
 
----
-reward for impact allocation - project creator must negotiate with collaborators on the impact reward share ratio during all stages of asset creation.
----
+The rewards will be shared between the asset 1 and asset 2 creators in the following way:
+
+• Asset 1 creator (our entrepreneur) will receive 1000 chrons
+• Asset 2 creator will receive 10 chrons
+• Contribution to the Neo common account will be 990 chrons
+
+• Asset 1 creator will receive (1000/1010)*990 = 980 merits
+• Asset 2 creator will receive (10/1010)*990 = 10 merits
+
+
+The amount of merits the asset creator receives will be calculated dynamically, as it depends on the number of purchases. Our entrepreneur would see her merit score grow with each new paying consumer. An important feaure of NEO is propagation of merit, which means that also creators of the assets used to create the web application would receive portion of merits - as shown above.
+
+From the consumer point of view, upon arriving to the web application, they will be prompted to log in with their NEO account credentials. After successful login, one of these two scenarios would play out:
+
+1. the entrepreneur specified "pay as much as you want" option in the Minimum price field. The consumer could make the voluntary payment at the time when accessing the web application, or continue without paying. Once a month the consumer will receive a NEO usage statement, listing all assets the account holder consumed but not paid for yet, that were priced with "pay as much as you want" value in the Minimum price field. The consumer could choose to pay individually for every asset, or specify one amount for all unpaid items, leaving it up to Rovas to distribute the payments.
+
+2. The consumer would be prompted on the web application to pay for access by paying the Minimum price.
+
+The above is an example from the digital domain. In the physical domain, an asset creator would have to contend with issues like how to control access to an asset (a lecture, use of skating ring, entry into an event,), or how to register (identify and count) NEO consumers. Given the dramatic technological developments we see on a daily basis, associated with quickly decreasing costs of electronics of all kinds, it can be expected that inexpensive devices capable of scanning NEO consumer's IDs (biometric, wearable devices, e.t.c.) powered by ambient energy sources and connected to an ubiquitous network will soon make connection between the physical and digital domains possible and affordable.
+
+
+
 
 
 2. Equality of effort.
 
-In the capitalist economy, multiple factors set context of negotiations between worker and employer that determine wage amount, and the opaque nature of the process is cause of problems. For example, workers might get paid differently for the same type and amount of work at different times, or at different companies. Another problem is, that wage amount varies wildly across pay spectrum, with often hard to justify high reward size received by upper management at one end, and low pay - insufficient to cover basic living needs - at the other.
+In the capitalist economy, multiple factors set context of negotiations between worker and employer that determine wage amount. For example, workers might get paid differently for the same type and amount of work at different times, or at different companies. Another problem is, that wage amount varies wildly across pay spectrum, with often hard to justify high reward size received by upper management at one end, and low pay - insufficient to cover basic living needs - at the other.
 
 In NEO, the amount of material reward a worker can earn in an hour does not depend on type of work. For example, an hour of computer programmer's work is rewarded materially the same as one hour of farm worker's manual labor. The reasons for this postulate come from results of behavioral economics research:
 
@@ -90,7 +121,7 @@ Lastly, the capitalist remuneration mechanism leads to concentration of material
 
 3. Cost of assets and price
 
-All goods and services traded today in the world economies are made by human labor, augmented by varying amount of machine labor. The ratio of the two kinds of labor places assets on a scale, where on the one end are artisan products made largerly with human labor, and on the other are mass-produced assets, like individual instances of digital media made by electronic copying. The position a particular asset occupies on this imaginary scale is important, as everyday experience suggests, that assets made with large portions of machine labor have lower prices, than similar assets created by unaided human work. The cause of this phenomenon can be traced to the role machine labor plays in the cost structure of assets.
+All goods and services traded today in the world economies are made by human labor, augmented by varying amount of machine labor. The ratio of the two places assets on a scale, where on the one end are artisan products made largerly with human labor, and on the other are mass-produced assets, like individual instances of digital media made by electronic copying. The position a particular asset occupies on this imaginary scale is important, as everyday experience suggests, that assets made with large portions of machine labor have lower prices, than similar assets created by unaided human work. The cause of this phenomenon can be traced to the role machine labor plays in the cost structure of assets.
 
 <picture assetCostStrucrure>
 
@@ -102,42 +133,32 @@ Mhl - human equivalent of machine labor
 HL1 - human labor needed to create an asset without use of machines
 HL2 - human labor needed to create an asset with use of machines
 
-To make buying and selling possible, a measure is needed, representing asset  exchange value (price). In NEO, it equals the sum of hours of all workers who participated on asset creation - directly, or virtually:
+To make buying and selling possible, a measure is needed, representing asset  exchange value (price). In NEO, is equal to the sum of hours of all workers who participated on asset creation - directly, or virtually:
 
 a. direct labor - the time, the workers spend making parts for, or performing final assembly of an asset,
 b. virtual labor - labor performed by machines. Machines are a class of assets that can make workers' labor more efficient, or perform work on their behalf. Examples of machines are tools, automata and robots[13] and their inseparable complement - the information (operating instructions, programs, know-how) guiding machine operation.
 
-A question of critical importance is - who owns the machine labor? In the capitalist economy, machine labor belongs to the machine owner, who uses it to set asset prices, in order to generate profit for her/himself. In NEO, the machine owner is rewarded only for the actual number of work hours he or she performs and therefore can not individually materially benefit from machine labor. The ultimate reason why workers in NEO buy machines is to gain impact reward.
+A question of critical importance is - who owns the machine labor? In the capitalist economy, machine labor belongs to the machine owner, who uses it to set asset prices, in order to generate profit for her/himself. In NEO, the machine owner is rewarded only for the actual number of work hours he or she performs and therefore can not individually materially benefit from machine labor. The ultimate reason why workers in NEO buy machines is to gain not profit, but impact reward.
 
 These considerations are also reflected in the prices of assets, made widh machine labor. They are set to the cost of human labor, plus the cost of virtual human labor performed by machines. It can be shown, that the sum of these costs equals the total amount of labor human workers would have to perform, if they did not use any machines. The machine labor must be passed into an asset price in full, as throwing any portion of it away (lowering price) would unfairly benefit the asset buyer.
 
-The portion of sales they generate is distributed to all people through mechanism of Universal Dividend (see below), and that indirectly lowers asset prices. The end effect is that in NEO, beneficiary of machine labor is mankind as a whole, reflecting the fact that machines have been built using knowledge of generations of our ancestors, building successively on each other's effort.
+The portion of sales they generate is distributed to all people through mechanism of Universal Distribution (see below), and that indirectly lowers asset prices. The end effect is that in NEO, beneficiary of machine labor is mankind as a whole, reflecting the fact that machines have been built using knowledge of generations of our ancestors, extending successively each other's effort.
 
 In practice, various pricing schemes can be imagined, that are conformant with the NEO postulates. For example:
 a. a fixed price, determined by the asset creator. This pricing strategy will be mostly used for assets containing large proportion of human labor (artisan products). 
-b. "pay as much as you wish". This pricing strategy might be used to sell mass-produced assets like articles on the web. A suggested price would be automatically provided, calculated by NEO algorithm from asset cost and the number of impressions made to date. Buyers would have choice not to pay anything, but if they should choose to do so, they would be always charged only for the relevant and amortised cost of human and machine machine labor, necessary to produce the impression.
+b. "pay as much as you wish". This pricing strategy might be used to sell mass-produced assets like articles on the web. A suggested price would be automatically provided, calculated by NEO algorithm from asset cost and the number of impressions made to date. Buyers would have choice not to pay anything, but if they should choose to do so, they would be always charged only for the relevant and amortised cost of human and machine labor, necessary to produce the impression.
 
-In any scenario, buyers will be presented with a list of assets they consumed over a given period (monthly) with suggested prices, calculated by the algorithm from sales data gathered over that period. Shown will be also the amount of Universal Dividend granted to them, as a credit. The buyers will be able to choose to manually assign payments, or they could let NEO algorithm distribute a specified amount of money between the individual purchases. In any case, buyers will have no choice but to apply the Dividend grant first and completely to pay for the "pay as much as you wish" purchases. If they will not do so, NEO algorithm will distribute the grant automatically and only the (positive) difference would transfer to the regular buyer account.
+In any scenario, buyers will be presented with a list of assets they consumed over a given period (monthly) with suggested prices, calculated by the algorithm from sales data gathered over that period. Shown will be also the amount of Universal Distribution granted to them, as a credit. To pay, the buyers will be able to choose to manually assign payments, or they could let NEO algorithm distribute a specified amount of money between the individual purchases. In any case, buyers will have no choice but to apply the Distribution grant first and completely to pay for the "pay as much as you wish" purchases. If they will not do so, NEO algorithm will distribute the grant automatically and only the (positive) difference would transfer to the regular buyer account.
 
-NEO algorithm will use the proceeds of sales to pay the asset creators first for their work. The remaining part (for machine labor) will be transferred into Universal Dividend Fund. If sales should not cover the human labor portion of an asset cost, the workers would get paid for their work only partially.
+NEO algorithm will use the proceeds of sales to pay the asset creators first for their work. The remaining part (for machine labor) will be transferred into Universal Distribution Fund. If sales should not cover the human labor portion of an asset cost, the workers would get paid for their work only partially.
 
-4. Profit
-
-Profit generation is one of the defining characteristics of capitalist economic system. It has likely evolved to provide means for survival during economical downturns, but other important factors (serving as a measure of success) contribute to its existence. In NEO, workers are materially rewarded only for the number of work hours spent on creating assets. Generating profit, while not explicitly prohibited, is incompatible with several aspects of this proposal:
-
-a. A physiological limit exists for the number of hours during which an individual can sustainably perform work and the algorithm "running" NEO will not allow workers to report more worked hours than this limit.
-b. Market pressures are a profit-attenuating force in the capitalist system and the same applies also in NEO. Workers can in most cases create lower-priced products, aiming for goals different than material gains (see "c" below).
-c. Most importantly, it is expected that with growing proportion of machine labor, workers will be motivated to increase the size of impact and not the effort rewards, therefore generating material profit will not be interesting to them. As a consequence, it can be expected that over time, atavistic desire to generate material profit will dissapear.
-
-It should be noted, that similar to the capitalist system, also in the proposed model, workers are paid only if the assets they produce find consumers. However, unlike the capitalist system, participants in the proposed economic system receive universal dividend, removing existencial pressure as well as a need to manipulate prices to gain profit.
-
-5. Universal Dividend.
+4. Universal Distribution.
 
 Most world economies today provide a varying degree of material support to people, who during certain time periods and for various reasons do not engage in activities producing tradeable goods or services. For example, to parents of small children, individuals incapacitated by illness, or to inventors, philosophers and theoretical scientists at times, when their work does not provide immediately appreciated value. Additionally, it can be expected, that accelerating technological advances (IT, automation, robotics) will have negative impact on ability of growing number of people to either find work, or earn wages above poverty level.
 
 To address these issues, various schemes were suggested[9][10], some even experimentally tested for periods of time, but none have been permanently adopted. The proposed model derives mechanism for distribution of wealth from an idea, that value produced by machine labor belongs to all people. We see this idea play out every day already in decreasing pricese of most products, especially the mass-produced ones. However, capitalist system "implements" this idea through untractable mechanisms, allowing signifficant amount of machine labor-generated value to be appropriated by a small group of individuals[11]. 
 
-Practical implementation of Universal Dividend...
+Practical implementation of Universal Distribution...
 
 Nomenclature
 
@@ -155,21 +176,21 @@ consumer - a buyer or user of an asset.
 
 Chron -  measure of "effort"; is the "material" currency of NEO, generated by human labor and issued by Rovas algorithm. Represents one hour of work.
 
-Merit - measure for social "impact" of work. It is calculated from the total number of hours an asset was in use. Considering that assets are most of the time produced by multiple workers, the impact reward granted to each of them is calculated by the following formula:
+Merit - measure for social "impact" of work. Considering that assets are most of the time produced by multiple workers, the impact reward granted to each of them is calculated by the following formula:
 
-M = (h/H)*C  where:
+M = (h/H)*P  where:
 
 M is size of the impact reward a worker receives
-h is number of hours a worker invested into making an asset
-H is sum of hours invested by all workers who participated on making an asset
-C is the number of hours the asset was used
+h is the number of hours a worker invested into making an asset
+H is te sum of hours invested by all workers who participated on making an asset
+P is the profit gained from the sale of the good 
 
 NEO project - *****
 Project Form - *****
 Work Record Form - *****
 Rovas asset ID - ***** 
 
-Neo common account - an account holding Chrons that bellong to all members of NEO. These funds could be used to fund expensive projects (highways, starships...), serve as a source of universal dividend, e.t.c...
+Neo common account - an account holding Chrons that bellong to all members of NEO. These funds could be used to fund expensive projects (highways, starships...), serve as a source of universal distribution, e.t.c...
 
 Rovas[5] - the distributed database/application, responsible for storing work reports, calculating rewards and implementing other NEO algorithms.
 
@@ -181,70 +202,21 @@ Rules of the proposed model will be implemented as a set of computer algorithms 
 
 It is envisioned, that both new reward measures will exist only virtually, Chrons as digital currency stored in private accounts and Merits as numerical score, visible to the pubic. There will be no material objects (coins, bills) representing these measures that NEO participants could pass from one to another, but there might be technical solutions allowing physical representation of the Merit score, for example using augmented reality techniques within wearable devices, allowing users to see each other's Merit score.
 
-The following example illustrates basic concepts of the model.
 
-Example - An entrepreneur providing services in the digital domain.
-
-An entrepreneur decides to create a web application, for example an on-line forum for people with some common interest. She starts work by creating new NEO project, using the Project Form interface that is a part of Rovas application. The form will contain fields for name of the project, its description, NACE classification and type of the product, choosing from the following options:
-1. individually consumable asset - asset that can be consumed by a single consumer (smartphone, hammer, house...).
-2. group consumable asset - an asset that can be simultaneously consumed by a non-infinite number of consumers (a lecture)
-3. mass consumable asset - an asset that can be infinitely duplicated (article on a web portal, software..)
-
-This infrmation will be used by Rovas to set price of the asset.
-
-Upon submitting, Rovas will generate unique ID for the project and in addition to the entered data, will record also the author's ID.
-Next, every time she works on the project, the entrepreneur will fill-in a Work Record Form. If the work calls for use of any assets (tools, services), she will purchase them and record their Rovas asset ID into the Work Record Form, or another form (tbd) designated for tracking expenses. Assets without Rovas asset ID do not have to be recorded - they have either been purchased outside of NEO and therefore are not paid with Chrons or the entrepreneur decided not to report the asset use.
-In order to get rewarded, she will embed a special tracking code into the application she is developing. This code will record duration of every event when the web application is used, together with ID of the user and send these data into Rovas. Recording user ID assumes that the user is authenticated. This step will be made transparent to the user, as all applications running on the NEO network (economy) will share user's authenticated state, using an ubiquitous persistence layer provided by the network Rovas will run on.
-
-After completing the application, Rovas will sum up and record the time the entrepreneur invested into development. If any assets with Rovas asset ID were used, then Rovas will retrieve the sum the entrepreneur paid to acquire them and records that number separately.
-
-Suppose the entrepreneur invested 1000 hours into creating the web application (asset 1) and paid 10 chrons to acquire asset 2 (for example a program with specific functionality, that is needed in the web application). The total cost of web application is then 1010 chrons. Let's further assume, that
-
-1. the NEO tracking code embedded in the web application recorded 1 000 000 visits averaging 1 minute each.
-2. the consumers collectively paid 1010 chrons for accessing the web application.
-
-The rewards will be shared between the asset 1 and asset 2 creators in the following way:
-
-• Asset 1 creator (our entrepreneur) will receive 1000 chrons
-• Asset 2 creator will receive 10 chrons
-
-• Asset 1 creator will receive (1000/1010)*1000000 = 990100 merits
-• Asset 2 creator will receive (10/1010)*1000000 = 9900 merits
-
-An important feature of the proposed model is dynamic character of the rewards granted. In particular, it means that Rovas will deposit chrons into the entrepreneur's account only when the web application consumer(s) pay for it. If the asset 1 was of a type 1 (individually consumable asset), then this situation is similar to trading goods or services in capitalist economy. However, if the asset is consumable by more than one consumer (this is our case), cost of the asset is being repaid over time, as the consumers consuming it pay the minimum price specified by the asset creator on the Project Form. The minimum price might range from "pay as much as you want" to a specific, fixed amount.
-
-Refering to our example, let's assume that the entrepreneur set the minimum price to 1/1000th of a chron. Let's also assume that the assets needed to build the web application were paid in full by our entrepreneur, to keep the situation simple. In this case, the entrepreneur will receive payments as the consumers buy access to the web application. The first consumer will contribute 1/1000th of a chron and after the 100th purchase, the entrepreneur's Rovas account will show balance 0.1 of a chron. The entrepreneur will get fully reimbursed when the 1 000 000th consumer makes a purchase. At this point access to the web application could be made free to any further consumers. However, to motivate consumers to pay for assets, any additional payments could be used to reimburse the previous consumers. It means, that the cost of access would progressively drop not only for the new consumers, but also for all consumers who already paid. Thus, at some point not only the asset creator would be fully reimbursed, but the dynamic, crowdsourced price would become so small, that all consumers who ever made the purchase would end up having paid almost nothing. The NEO community could decide to program Rovas to stop lowering the price at some set level, with all new payments credited into the NEO common account.
-
-The amount of merits the asset creator receives would also be calculated dynamically, as it depends on the number of consumers. Our entrepreneur would see her merit score grow with each new paying consumer. An important feaure of NEO is propagation of merit, which means that also creators of the assets used to create the web application would receive portion of merits - as shown above.
-
-From the consumer point of view, upon arriving to the web application, they would be prompted to log in with their NEO account credentials. After successful login, one of these two scenarios would play out:
-
-1. the entrepreneur specified "pay as much as you want" option in the Minimum price field. The consumer could make the voluntary payment at the time when accessing the web application, or continue without paying. Once a month the consumer would receive a NEO usage statement, listing all assets the account holder consumed but not paid for yet, that were priced with "pay as much as you want" value in the Minimum price field. For each asset name the statement would show date consumed and the unpaid portion of the asset's development cost. The consumer would be encouraged to pay individually for every asset, or specify one amount for all unpaid items, leaving it up to Rovas to distribute the payment.
-
-2. The consumer would be prompted on the web application to pay for access by paying the Minimum price.
-
-Regardless of the scenario, on the consumer's "account" page of the Rovas application, he or she would notice first a drop of the balance indicating an asset(s) purchase. Over time however, affected by payments of other consumers buying the same asset(s), the account ballance would grow by the amounts automatically deposited by Rovas. It can be assumed that this effect will form consumers' behavior to pay for assets more and more often, as they will get used to see their Chrone balances recover with the passage of time.
-
-The above is an example from the digital domain. In the physical domain, an asset creator would have to contend with issues like how to control access to an asset (a lecture, use of skating ring, entry into an event,), or how to register (identify and count) NEO consumers. Given the dramatic technological developments we see on a daily basis, associated with quickly decreasing costs of electronics of all kinds, it can be expected that inexpensive devices capable of scanning NEO consumer's IDs (biometric, wearable devices, e.t.c.) powered by ambient energy sources and connected to an ubiquitous network will soon make connection between the physical and digital domains possible and affordable.
 
 NEO and the existing (outside) economy
 
-Considering, that the proposed economic model will coexist with the outside economy for some time, there are certain rules governing transfer of value between the outside economy and NEO.
+Considering, that the proposed economic model will coexist with the outside economy for some time, some rules will need to be implemented, governing transfer of value between the outside economy and NEO.
 
-One question in this context is, whether outside money (or assets) can be freely exchanged for chrons. There are pros and cons:
+1. At some point after NEO becomes operational, Chrons will be made available on currency markets to allow conversions to local currencies to allow NEO participants acquire goods from the "outside" economies and vice-versa, outside companies to buy goods traded in Chrons. It is hard to predict the exchange rate, but given that Chron is going to be always equal to one hour of human labor, its price should relatively quickly rise to at least the world average of minimum hourly wage. Due to the fact that world average price of human labor will be higher in NEO than the same amount of labor in local currencies of most of the world's poorest countries, consequences of this move will be dramatic. 
 
-Pro:
+2. Governments and individual donors will be encouraged to donate money to the Neo common account. Such money will likely be used to buy Chrons in exchanges and subsequently distribute them as Universal Distribution into NEO participants. Optionally, states could create their own banks and use Chrons they purchase to finance state projects.
 
-It is likely, that NEO will - in the transitore period before reaching self-sufficiency - not produce enough assets to satisfy its participant's needs. Therefore allowing unrestricted trade is desirable to satisfy this need.
+Notes:
 
-Con:
+1. It is possible that the character of large projects financing will change from the current centralised model to one based on ad-hoc crowdsourcing, where individuals themselves will be financing projects they like. This might be the preferred option as it gives more direct control over use of funds to the people who finance projects.
 
-Allowing free transfer of value might result in transfer of economic inequality, if large portion of outside individually owned wealth is transfered into NEO. However, given that chrons are generated by socially useful labor, there will likely never be enough of them to pay for the outside wealth, which will dictate an exchange rate unfavorable to massive Chron purchases with outside capital.
-
-
-Not only chrons can't be directly exchanged for "foreign currencies", but chrons will not be possible to use for paying for outside assets (assets without NEO ID).
-
-However, donors and governments will be able to give money to NEO's "foreign currencies" bank accounts.
+2. A physiological limit exists for the number of hours during which an individual can sustainably perform work and the algorithm "running" NEO will not allow workers to report more worked hours than this limit.
 
 
 [1] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being
@@ -267,3 +239,4 @@ However, donors and governments will be able to give money to NEO's "foreign cur
 Review of General Psychology, Vol 17(4), Dec 2013, 374-383.
 [18] Conspicuous Consumption and Peer Effects among the Poor: Evidence From a Field Experiment - http://tinyurl.com/kcatt6c
 [19] Alison Hearn: Structuring feeling: Web 2.0, online ranking and rating, and the digital ‘reputation’ economy - http://tinyurl.com/k6889cn
+[20] it is envisioned that once authenticated into one Rovas application, user will not have to authenticate into any other unless previous access expires or is terminated.
