@@ -2,96 +2,81 @@ The non-profit economy
 
 Introduction
 
-This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of the existing remuneration mechanism, that takes these finding into account, has potential to resolve some of the most difficult problems of the capitalist economic system.
+This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of the existing remuneration mechanism, that takes these finding into account, has potential to resolve some of the most pressing problems of the capitalist economic system.
 
 There are two observations in particular that served as inspiration for the new model:
 
-1. Behavioral economics studies show, that happiness rises with increasing income only to a certain level ($75,000 in the USA)[1].
+1. Behavioral economics research shows, that happiness rises with increasing income only to a certain level ($75,000 in the USA)[1].
 
-2. Every year, about one billion people from around the world work for free to produce socially beneficial output. In the process, they generate value that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
+2. Every year, about one billion people from around the world work for free, to produce socially beneficial output. In the process they generate value, that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
 
 From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in NEO, work reward consists of two separate types:
 
-1. effort - for the number of hours spent by a worker to create an economic good.
-2. impact - for the (positive) difference between price of a good and effort needed to create it.
+1. effort - for the number of hours spent by a worker to create a good or service (asset).
+2. impact - for the (positive) difference between price of an asset and effort exerted to create it.
 
 The proposed model further postulates:
 a. workers are materially rewarded only for effort and not for impact,
 b. the amount of  material reward received is independent of the work type (equality of effort),
-c. Profit from selling goods is distributed equally to all NEO participants as Universal distribution.
+c. Profit from selling assets is distributed equally to all NEO participants as Universal distribution.
 
-It is envisioned that NEO rules will be implemented as a set of algorithms, running on global, decentralized computing platform.
+It is envisioned, that NEO rules will be implemented as a set of algorithms, running on global, decentralized computing platform.
 
 Discussion
 
-Worldwide deflationary trends together with increasing pace of human labor elimination by advances in technology, signal arrival of new phase in the history of mankind, known as post-scarcity world. In this era, the effort to provide support for our physical needs will be eliminated and with it also the need for (material) remuneration. The transition presents several challenges.
+Deflationary tendencies in the most developed economies, together with increasing pace of human labor elimination by advances in technology, signal arrival of new phase in the history of mankind, known as post-scarcity world. In that era, the effort to provide support for our physical needs will be largerly eliminated and with it also the need for (material) remuneration. The transition from capitalism into post-scarcity era presents several challenges.
 
 1. Peer effects
 
-Research shows that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide for improving their own social standing [18]. Most often, such efforts take the form of learning new skills, which brings along overall improvements in social capital. Loss of this motivation mechanism would therefore be detrimental to cultural progress of individuals and the human society in general.
+Research shows, that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide for improving their own social standing [18]. Most often, such efforts take form of learning new skills, which brings along overall improvements in social capital. Loss of this motivation mechanism would therefore be detrimental to cultural progress of individuals and the society in general.
 
-Coincidentally, the same technological advances that make transition to the post-scarcity world possible, also lead to creation of the internet and on-line social networks. Once a sufficient number of members joined social networks, new value scales emerged, used to express various characteristics of network members. For example, reputation score generated by users is an expression of expertise level on the stackexchange.com and karma of reddit.com is expression of popularity of posts made by the service users. In the on-line world, these measures serve as new signaling mechanism, functionally equivalent to the consumption visibility gradient. Wearable technology and augmented reality applications will likely make these virtual ratings visible in the physical world as well, by allowing their wearers/users to access various characteristics of other individuals as they are observed. Thus technology has provided means, that allow creation of a new "motivation" scale for the post-scarcity world.
+Coincidentally, the same technological advances that make transition to the post-scarcity world possible, also lead to creation of the internet and on-line social networks. Soon after they reached certain size, new value scales emerged, used to express various characteristics of the network members. For example, reputation score generated by users is an expression of expertise level on the stackexchange.com and service reddit.com rewards users with karma points, that signify popularity of posts. In the on-line world, these measures serve as a new signaling mechanism. Such ratings can be made visible in the physical world using wearable technology and augmented reality applications, allowing their wearers/users to access ratings of various characteristics of other individuals as they are observed, creating a new kind of motivation scale, equivalent to the consumption visibility gradient.
 
 2. Economic inequality
 
-A major obstacle to overcome on the path to post-scarcity economy is finding solution for the problem of economic inequalities, as existence of material differences between people is contradicting the basic premise of the new era - material equality. In contrast to the ad-hoc schemas being currently considered (taxing the wealthy), NEO proposes solution based on a new remuneration model that takes into account results of behavioral science research and data about volunteering.
+A major obstacle to overcome on the path to post-scarcity economy is finding a solution for the problem of income inequality. Fore one, income inequality results in concentration of wealth, causing decrease of purchasing power for the majority of consumers. That leads to economic stagnation and other economic and social problems [14]. Additionally, existence of material differences between people is contradicting the basic premise of the new era - material equality.
 
-The available evidence [1][2][6] suggests, that workers expect to be rewarded for their work in two different ways.
+Solutions for addressing income inequality proposed to date are generally considered ineffective or politically unacceptable (for example raising taxtes on wealthy). The results of behavior science research and other related evidence [1][2][6] reveals, that a more systemic solution can be found, rooted in a revision of the capitalist remuneration. In particular, the evidence suggest, that workers expect to be rewarded for their work in two different ways:
 
-1. For "effort" - the time/energy they invest into work, in order to cover their "material" needs and wants like food, shelter, clothing as well as expenses for travelling and movie going. 
+A. For their "effort" - the time/energy invested into work. Similar to the wage of capitalist reward mechanism, "effort" reward can be used to satisfy the "material" needs and wants of workers (food, shelter, clothing, travel, entertainment...).
 
-2. Once their material needs are satiated, workers try to maximize "impact" reward, manifested in usefullness of the goods they (co)create. This measure has single purpose - it evolved to propagate skills, attitudes, knowledge and behavioral patterns (abilities) throughout society to maintain its stability in the evolving world. On the individual level, impact reward size provides the workers with feedback about quality of their abilities. On the society level, through a signalling mechanism of peer effects the society members communicate to each other their individual abilities. These signals have dual function:
-a. allow creation of "motivation" scale used by society members to compare their own abilities with abilities of others and through the peer effects mechanisms advance their own abilities,
-b. make people with the best set of abilities easy discernable, in order to ease abilities transfer among members of society.
+B. Once their material needs are addressed, workers try to maximize "impact" reward, reflected in desirability of assets they (co)create. Impact reward is the driving force behind the open source movement or volunteering in general. 
 
-Up until the emergence of the internet and social networks, the only available signalling medium suitable for communicating abilities have been real world objects, as they are readily visible in the physical world. This presents a problem however, because workers are materially rewarded not only for effort, but also for impact, where a simple numerical score would be sufficient, if a medium existed allowing such score to be made visible to society members. 
+The capitalist remuneration system does not distinguish between these two needs, and rewards workers with a single - material - reward. When impact reward far exceeds the effort reward - as is the case with remuneration of company executives, hedge fund managers, exceptionally good athletes or famous actors -  resources are wasted on rewards, that could be granted in non-material form. In capitalism, the way the visibility consumption gradient is constructed therefore inevitably leads to income inequalities. Introducing a new remuneration mechanism, where impact reward takes "non-material" form, offers the possibility of eliminating the primary cause of income inequality.
 
-Apparently, use of material rewards to construct evolutionary advantageous visibility consumption gradient by its very definition leads to income inequalities. Fortunately technological advances allow construction of a new reward mechanism where impact reward takes "non-material" form and that removes this fundamental block on the path to post-scarcity world.
+3. Profit and reward
 
+As was shown above, replacing the single-component remuneration mechanism of capitalist system with a new one, consisting of separate rewards for "effort" and "impact" could both - eliminate income inequality and at the same time maintain the useful "motivation" gradient. This brings up a problem of how the proceeds from sale of assets should be split between the two new rewards. In the capitalist economic model, the sale price of an asset, as well as workers' reward are determined by the market, making the task to construct a simple, general rule for allocating rewards difficult. To find a solution, simplified model can be studied, where work time is used as a carrier of value:
 
+In an imaginary tribe, berry picker "A" can pick 1 liter of berries in 1 hour with her bare hands. The value of 1 liter of berries, expressed in the currency of the tribe is 1 H (equal to 1 hour of labor). Another - a more inventive - member of the tribe "B" creates a wooden comb, that increases productivity 10-folds to 10 litres per hour. Now the worker B has a surpluss of berries and needs to sell them. If the market demand is high, she can charge 1H for 1 liter. If there are many sellers of berries, she can lower the price, and sell them faster. In either case, she will generate profit, attributable to the use of her harvesting invention. Profit is calculated by adding the time needed to make the comb to the one hour of actual harvesting and substracting the resulting number from the sales proceeds:
 
+P = R - (Ct + Ht)
 
-3. Profit (not sure we need this point here. Description of reasons why equality of efforts exists can be moved to the "Description of NEO" section)
+P	profit
+R	revenue
+Ct	time spend creating the comb
+Ht	time spent harvesting
 
-Eliminating the need for having "motivation gradient" to be material has potential to almost completely eliminate economic inequality. However, another problem of capitalist economic model could make transition difficult.
+In actual numbers, her profit is P = 10 - (3 + 1)  = 6H (if we assume it took 3 hours to create the comb). In the future, profit will be of course higher for selling the collected berries, because the cost of harvesting comb has been already paid when the first batch of berries was sold.
 
+In the capitalist system, any benefits resulting from talent and inventions of all types (including business processes) are considered a rightfull property of the gifted owner. This is one of the fundamental assumptions of the capitalist economic system. However, a strong evidence exists, that the most highly rewarded component of any novel or exceptional asset - creativity (and especially its extreme form - genius) - is a statistical phenomenon, occurring in human population randomly [23]. In other words, the unique insight that lead our inventor to create the invention is not the result of her effort and rewarding her materially for the profit it generates is therefore incorrect. This conclusion leads to a solution to the problem of how to divide reveunue among the two types of rewards:
 
-
-In capitalism, granting different workers material rewards of inequal size for the same worked time (or effort, as measured by energy expediture) is considered fair, if the better-rewarded workers produce more desirable goods.
-
-
-There are many types of goods produced by the capitalist economy today. Manufactured products - like cars, washing machines and baked goods, or services - translating foreign text, teaching, e.t.c... Examples of less typical economic goods are sports performance of an athlete, fashion modeling or paid product endorsements by celebrities. The last two mentioned examples are illustrating, that not all utility is created by worker effort, as the fashion model is monetizing his genetical make-up and the celebrity might have achieved her marketable status by marying a famous spouse. Thus one variable affecting (high) utility of a worker's output is predispositions, like unique genetic make-up, or coming from a favorable socio-economic situation. 
-
-Another factor is training volume - either physical - as in athletic training, or intellectual, for example the time spent studying to become a medical doctor. However, the amount of training a person can absorb and the ease with which new skills can be learned depend on factors from the first group (genetics, quality of schools, supportive parents...). If that influence is substracted, only the actual time spent training is what differentiates this factor from the first one.
-
-The last factor affecting ability of a worker to produce exceptional goods is his/her mental schema - a model of how the world functions. Such "world model" includes major components of individual productivity [21]: knowledge, skills, beliefs and attitudes. On the list is also "abilities", of which the most important is creativity - the ability to combine known facts or processes into a new economic good.
-
-Our three groups of factors distill into:
-* predispositions
-* length of training
-* creativity
-
-Rational choice theory 
-
-Traditionally, capitalist model assumes that its participants act rationally [22]. we should expect, that differences in remuneration correspond to the worker effort and not to the 
-
-
-However, as creativity is an act of free will[17], the differences in remuneration make sense only if freee will actually exists. If the opposite is true, one of the most fundamental beliefs of capitalism - that innovators need to be rewarded - must be revised.
-
-The presented model assumes, that free will is an artefact of incorrect modeling  (an illusion) [ex. dennet]. From this assumption follows, that profit gained from selling a good does not belong to the worker who created it, as the creative abilities needed to make/market and sell it are not a product of the worker's effort. In NEO, creativity is assumed to be a statistical quality of social networks. Material profit therefore belongs to the network - the mankind as a whole.
-
-These inferences lead to several outcomes:
-1. profits are the natural source for an Universal distribution (basic income),
-2. workers should be materially rewarded only for their time/energy exerted, not for utility of their work manifested as profit,
-3. A worker who created profit-generating good should receive non-material reward, equivalent in size to the profit amount. As has been shown in the Peer effects section, such "virtual" ratings can be used to construct replacement for the socially useful function of the consumption visibility gradient.
+1. workers should be materially rewarded only for their time/energy exerted, not for profit generated by their work,
+2. a worker who created profit-generating asset should receive non-material reward, equivalent in size to the profit amount.
 
 Description of NEO
 
-Overcoming the prevailing belief that material reward proportional to the profit amount should be granted to the worker who created the profit-generating good presents a signifficant challenge. The solution proposed here is based on evidence, that workers can be motivated by non-material means, if these reflect utility of their work [studies about volunteering, intrinsic motivation]. For this purpose, NEO introduces a non-material reward type called "Merit," granted to workers for profit generated by selling goods they create. The Merit score is calculated and maintained by a NEO-resident computer program "Rovas", running on every device used to manage economic transactions in NEO.
+The findings made in the discussion section indicate, that creation of a new economic model should be possible, that keeps the best features of the capitalist system, while eliminating most of its problems.
 
-Rovas in it's distributed database will also record the actual time workers spent working, information about the goods the workers produced, as well as details about sales. Material rewards workers earn are paid with digital currency called "Chron" with one Chron equal to one hour of work. 
 
-Both rewards are calculated and granted by algorithm ("Rovas"), from data provided by the workers and sales information from users of the produced goods. Value of one Chron is equal to one hour of labor
+It is envisioned, that both new reward measures will exist only virtually, Chrons as digital currency stored in private accounts and Merits as numerical score, visible to the pubic. There will be no material objects (coins, bills) representing these measures that NEO participants could pass from one to another, but there might be technical solutions allowing physical representation of the Merit score, for example using augmented reality techniques within wearable devices, allowing users to see each other's Merit score.
+
+
+For this purpose, NEO introduces a non-material reward type called "Merit," granted to workers for profit generated by selling assets they create. The Merit score is calculated and maintained by a NEO-resident computer program "Rovas", running on every device used to manage economic transactions in NEO.
+
+Rovas in it's distributed database will also record the actual time workers spent working, information about the assets the workers produced, as well as details about sales. Material rewards workers earn are paid with digital currency called "Chron" with one Chron equal to one hour of work. 
+
+Both rewards are calculated and granted by algorithm ("Rovas"), from data provided by the workers and sales information from users of the produced assets. Value of one Chron is equal to one hour of labor
 
 The following example illustrates the basic concepts and functions of the model.
 
@@ -114,16 +99,24 @@ Expected benefits
 Strategies to spread 
 ...
 
-NEO and outside economies
-...
+
+NEO and the existing (outside) economy
+
+Considering, that the proposed economic model will coexist with the outside economy for some time, some rules will need to be implemented, governing transfer of value between the outside economy and NEO.
+
+1. At some point after NEO becomes operational, Chrons will be made available on currency markets to allow conversions to local currencies to allow NEO participants acquire goods from the "outside" economies and vice-versa, outside companies to buy goods traded in Chrons. It is hard to predict the exchange rate, but given that Chron is going to be always equal to one hour of human labor, its price should relatively quickly rise to at least the world average of minimum hourly wage. Due to the fact that price of human labor will be higher in NEO than the same amount of labor in local currencies of most of the world's poorest countries, consequences of this move will be dramatic. 
+
+2. Governments and individual donors will be encouraged to donate money to the Neo common account. Such money will likely be used to buy Chrons in exchanges and subsequently distribute them as Universal Distribution into NEO participants. Optionally, states could create their own banks and use Chrons they purchase to finance state projects.
+
+3. To provide incentive for people from outside economies to purchase Chrons, in addition to the already mentioned option to do so on the exchanges, these folks could opt to also buy Merits. The reason is, that money earned in the capitalist economy represent a mixture of effort and impact rewards and thus people should be able to exchange for Chrons as well as Merits. The procedure would involve exchanging fiat money into Chrons first and then optionally buy Merits using the - at the time - current Chron to Merit ratio of the NEO economy. It can be expected, that there will always be much more Chrons generated in a given period that Merits, therefore also the ratio will be quite small. It might mean that for 10 000 Chrons it would be possible to get only couple of Merits. That should have double impact - allow rich fiat currency holders to receive some Merits for their money and at the same time not provide much incentives for NEO workers to try to buy Merits with their Chrons as Merits should be generally non-tradeable. The most important part is, that the more interest there is in Chrons, the more self-sufficient NEO will become and greater demand for Chrons should improve exchange rate thus even more accelerating transition from capitalist to the NEO economy....
 
 Appendix
 
 The second scenario is similar to the first one, if the buyer pays some amount according to his/her choosing. Buyers who make choice not to pay anything will be penalized either materially by having some portion of their Universal distribution withdrawn, and/or 
 
-but this choice will lower the amount of Universal distribution the buyer will receive from NEO (mecahnism to be described later). A score derived from the average price paid by buyers of pay-as-you-wish goods and the price paid by a particular buyer will be visible to all users in order to promote pro-social behavior.
+but this choice will lower the amount of Universal distribution the buyer will receive from NEO (mecahnism to be described later). A score derived from the average price paid by buyers of pay-as-you-wish assets and the price paid by a particular buyer will be visible to all users in order to promote pro-social behavior.
 
-The third scenario, where anonymous users are allowed access to goods will likely be used only during transition period from capitalist to the NEO economy. It is envisioned, that in this case goods creators will not receive any Merits, but will be paid for at least a portion of their costs from funds received from sources like government subsidies wishing to promote employment and from charitable donations who accummuated wealth in the capitalist economies. Rules for these transactions will have to be developed.
+The third scenario, where anonymous users are allowed access to assets will likely be used only during transition period from capitalist to the NEO economy. It is envisioned, that in this case assets creators will not receive any Merits, but will be paid for at least a portion of their costs from funds received from sources like government subsidies wishing to promote employment and from charitable donations who accummuated wealth in the capitalist economies. Rules for these transactions will have to be developed.
 
 
 
@@ -153,58 +146,8 @@ The above is an example from the digital domain. In the physical domain, an asse
 
 
 
+The capitalist remuneration mechanism leads to concentration of material wealth into hands of a small group of people, which in turns leads to deformations in economy (market manipulations, declining purchasing power by the majority of market participants...), political life (the role of big money in representative domocracies) and other areas (charity).
 
-2. Equality of effort.
-
-In the capitalist economy, multiple factors set context of negotiations between worker and employer that determine wage amount. For example, workers might get paid differently for the same type and amount of work at different times, or at different companies. Another problem is, that wage amount varies wildly across pay spectrum, with often hard to justify high reward size received by upper management at one end, and low pay - insufficient to cover basic living needs - at the other.
-
-In NEO, the amount of material reward a worker can earn in an hour does not depend on type of work. For example, an hour of computer programmer's work is rewarded materially the same as one hour of farm worker's manual labor. The reasons for this postulate come from results of behavioral economics research:
-
-a. Paying people more than a certain (country-specific) amount does not lead to more happiness[1].
-b. Increasing (monetary) reward does not increase preformance of creative workers - in fact it has the opposite effect[6].
-
-Lastly, the capitalist remuneration mechanism leads to concentration of material wealth into hands of a small group of people, which in turns leads to deformations in economy (market manipulations, declining purchasing power by the majority of market participants...), political life (the role of big money in representative domocracies) and other areas (charity).
-
-3. Cost of assets and price
-
-All goods and services traded today in the world economies are made by human labor, augmented by varying amount of machine labor. The ratio of the two places assets on a scale, where on the one end are artisan products made largerly with human labor, and on the other are mass-produced assets, like individual instances of digital media made by electronic copying. The position a particular asset occupies on this imaginary scale is important, as everyday experience suggests, that assets made with large portions of machine labor have lower prices, than similar assets created by unaided human work. The cause of this phenomenon can be traced to the role machine labor plays in the cost structure of assets.
-
-<picture assetCostStrucrure>
-
-The picture above shows the lenghts of time - indicated by the bars width - needed to create two assets. The one labeled "1", is an asset created without use of machines. The graphics No. 2 below shows the same kind of asset, made with the use of machine labor. It can be seen, that making it requires roughly a quarter of human labor used to make asset 1 and the total number of hours to make it is also shorter - about 50% of the time needed to create asset No. 1. Considering, that producing any two assets of the same kind requires the same amount of unaided human labor, allows us to claim, that machine labor is equivalent to a certain amount of human labor:
-
-Mhl = HL1 - HL2
-
-Mhl - human equivalent of machine labor
-HL1 - human labor needed to create an asset without use of machines
-HL2 - human labor needed to create an asset with use of machines
-
-To make buying and selling possible, a measure is needed, representing asset  exchange value (price). In NEO, is equal to the sum of hours of all workers who participated on asset creation - directly, or virtually:
-
-a. direct labor - the time, the workers spend making parts for, or performing final assembly of an asset,
-b. virtual labor - labor performed by machines. Machines are a class of assets that can make workers' labor more efficient, or perform work on their behalf. Examples of machines are tools, automata and robots[13] and their inseparable complement - the information (operating instructions, programs, know-how) guiding machine operation.
-
-A question of critical importance is - who owns the machine labor? In the capitalist economy, machine labor belongs to the machine owner, who uses it to set asset prices, in order to generate profit for her/himself. In NEO, the machine owner is rewarded only for the actual number of work hours he or she performs and therefore can not individually materially benefit from machine labor. The ultimate reason why workers in NEO buy machines is to gain not profit, but impact reward.
-
-These considerations are also reflected in the prices of assets, made widh machine labor. They are set to the cost of human labor, plus the cost of virtual human labor performed by machines. It can be shown, that the sum of these costs equals the total amount of labor human workers would have to perform, if they did not use any machines. The machine labor must be passed into an asset price in full, as throwing any portion of it away (lowering price) would unfairly benefit the asset buyer.
-
-The portion of sales they generate is distributed to all people through mechanism of Universal Distribution (see below), and that indirectly lowers asset prices. The end effect is that in NEO, beneficiary of machine labor is mankind as a whole, reflecting the fact that machines have been built using knowledge of generations of our ancestors, extending successively each other's effort.
-
-In practice, various pricing schemes can be imagined, that are conformant with the NEO postulates. For example:
-a. a fixed price, determined by the asset creator. This pricing strategy will be mostly used for assets containing large proportion of human labor (artisan products). 
-b. "pay as much as you wish". This pricing strategy might be used to sell mass-produced assets like articles on the web. A suggested price would be automatically provided, calculated by NEO algorithm from asset cost and the number of impressions made to date. Buyers would have choice not to pay anything, but if they should choose to do so, they would be always charged only for the relevant and amortised cost of human and machine labor, necessary to produce the impression.
-
-In any scenario, buyers will be presented with a list of assets they consumed over a given period (monthly) with suggested prices, calculated by the algorithm from sales data gathered over that period. Shown will be also the amount of Universal Distribution granted to them, as a credit. To pay, the buyers will be able to choose to manually assign payments, or they could let NEO algorithm distribute a specified amount of money between the individual purchases. In any case, buyers will have no choice but to apply the Distribution grant first and completely to pay for the "pay as much as you wish" purchases. If they will not do so, NEO algorithm will distribute the grant automatically and only the (positive) difference would transfer to the regular buyer account.
-
-NEO algorithm will use the proceeds of sales to pay the asset creators first for their work. The remaining part (for machine labor) will be transferred into Universal Distribution Fund. If sales should not cover the human labor portion of an asset cost, the workers would get paid for their work only partially.
-
-4. Universal Distribution.
-
-Most world economies today provide a varying degree of material support to people, who during certain time periods and for various reasons do not engage in activities producing tradeable goods or services. For example, to parents of small children, individuals incapacitated by illness, or to inventors, philosophers and theoretical scientists at times, when their work does not provide immediately appreciated value. Additionally, it can be expected, that accelerating technological advances (IT, automation, robotics) will have negative impact on ability of growing number of people to either find work, or earn wages above poverty level.
-
-To address these issues, various schemes were suggested[9][10], some even experimentally tested for periods of time, but none have been permanently adopted. The proposed model derives mechanism for distribution of wealth from an idea, that value produced by machine labor belongs to all people. We see this idea play out every day already in decreasing pricese of most products, especially the mass-produced ones. However, capitalist system "implements" this idea through untractable mechanisms, allowing signifficant amount of machine labor-generated value to be appropriated by a small group of individuals[11]. 
-
-Practical implementation of Universal Distribution...
 
 Nomenclature
 
@@ -242,23 +185,7 @@ Rovas[5] - the distributed database/application, responsible for storing work re
 
 Rovas application - The user-facing part of Rovas, allowing workers to create projects, records about work they have performed, or to see all assets they visited during a given period of time.
 
-Implementation
 
-Rules of the proposed model will be implemented as a set of computer algorithms deployed into a distributed computing platform (Rovas). Security, privacy and technical details regarding policies governing instalation of new algorithms or new versions of old algorithms, will be described in a different document.
-
-It is envisioned, that both new reward measures will exist only virtually, Chrons as digital currency stored in private accounts and Merits as numerical score, visible to the pubic. There will be no material objects (coins, bills) representing these measures that NEO participants could pass from one to another, but there might be technical solutions allowing physical representation of the Merit score, for example using augmented reality techniques within wearable devices, allowing users to see each other's Merit score.
-
-
-
-NEO and the existing (outside) economy
-
-Considering, that the proposed economic model will coexist with the outside economy for some time, some rules will need to be implemented, governing transfer of value between the outside economy and NEO.
-
-1. At some point after NEO becomes operational, Chrons will be made available on currency markets to allow conversions to local currencies to allow NEO participants acquire goods from the "outside" economies and vice-versa, outside companies to buy goods traded in Chrons. It is hard to predict the exchange rate, but given that Chron is going to be always equal to one hour of human labor, its price should relatively quickly rise to at least the world average of minimum hourly wage. Due to the fact that price of human labor will be higher in NEO than the same amount of labor in local currencies of most of the world's poorest countries, consequences of this move will be dramatic. 
-
-2. Governments and individual donors will be encouraged to donate money to the Neo common account. Such money will likely be used to buy Chrons in exchanges and subsequently distribute them as Universal Distribution into NEO participants. Optionally, states could create their own banks and use Chrons they purchase to finance state projects.
-
-3. To provide incentive for people from outside economies to purchase Chrons, in addition to the already mentioned option to do so on the exchanges, these folks could opt to also buy Merits. The reason is, that money earned in the capitalist economy represent a mixture of effort and impact rewards and thus people should be able to exchange for Chrons as well as Merits. The procedure would involve exchanging fiat money into Chrons first and then optionally buy Merits using the - at the time - current Chron to Merit ratio of the NEO economy. It can be expected, that there will always be much more Chrons generated in a given period that Merits, therefore also the ratio will be quite small. It might mean that for 10 000 Chrons it would be possible to get only couple of Merits. That should have double impact - allow rich fiat currency holders to receive some Merits for their money and at the same time not provide much incentives for NEO workers to try to buy Merits with their Chrons as Merits should be generally non-tradeable. The most important part is, that the more interest there is in Chrons, the more self-sufficient NEO will become and greater demand for Chrons should improve exchange rate thus even more accelerating transition from capitalist to the NEO economy.
 
 Notes:
 
@@ -291,3 +218,4 @@ Consumption and Financial Decisions" - http://www.federalreserve.gov/econresdata
 [20] it is envisioned that once authenticated into one Rovas application, user will not have to authenticate into any other unless previous access expires or is terminated.
 [21] National Research Council - "Organizational Linkages: Understanding the Productivity Paradox" (1994) http://www.nap.edu/openbook.php?record_id=2135&page=112
 [22] Rational choice theory - http://en.wikipedia.org/wiki/Rational_choice_theory
+[23] David T. Lykken, "The genetics of genius" - http://cogprints.org/611/1/genius.html
