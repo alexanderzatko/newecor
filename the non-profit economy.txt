@@ -2,15 +2,15 @@ The non-profit economy
 
 Introduction
 
-This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and growing global presence of non-profit volunteer work. These indicate, that a revision of the existing remuneration mechanism, that takes these finding into account, has potential to resolve some of the most pressing problems of the capitalist economic system.
+This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and global presence of non-profit volunteer work. These indicate, that a revision of the existing remuneration mechanism, that takes these finding into account, has potential to resolve some of the most pressing problems of the capitalist economic system.
 
 There are two observations in particular that served as inspiration for the new model:
 
-1. Behavioral economics research shows, that happiness rises with increasing income only to a certain level ($75,000 in the USA)[1].
+1. Behavioral economics research shows, that emotional happiness rises with increasing income only to a certain country-specific level ($75,000 in the USA)[1].
 
 2. Every year, about one billion people from around the world work for free, to produce socially beneficial output. In the process they generate value, that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
 
-From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in NEO, work reward consists of two separate types:
+From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here explicitly rewards pro-social aspect of work, while establishing a natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in NEO, work reward consists of two separate types:
 
 1. effort - for the number of hours spent by a worker to create a good or service (asset).
 2. impact - for the (positive) difference between price of an asset and effort exerted to create it.
@@ -24,31 +24,31 @@ It is envisioned, that NEO rules will be implemented as a set of algorithms, run
 
 Discussion
 
-Deflationary tendencies in the most developed economies, together with increasing pace of human labor elimination by advances in technology, signal arrival of new phase in the history of mankind, known as post-scarcity world. In that era, the effort to provide support for our physical needs will be largerly eliminated and with it also the need for (material) remuneration. The transition from capitalism into post-scarcity era presents several challenges.
+Deflationary tendencies in the most developed economies, together with increasing pace of human labor elimination by advances in technology signal arrival of new phase in the history of mankind, known as post-scarcity world. In that era, the effort to provide support for our physical needs will be eliminated and with it also the need for (material) remuneration. The transition from capitalism into the new era presents several challenges.
 
 1. Peer effects
 
-Research shows, that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide for improving their own social standing [18]. Most often, such efforts take form of learning new skills, which brings along overall improvements in social capital. Loss of this motivation mechanism would therefore be detrimental to cultural progress of individuals and the society in general.
+Research shows, that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide for improving their own social standing [18]. Most often, such efforts take form of learning new skills, which brings along overall improvements in social capital. Loss of this motivation mechanism - inevitable in the materially equal post-scarcity world - would therefore be detrimental to cultural progress of individuals and the society in general.
 
-Coincidentally, the same technological advances that make transition to the post-scarcity world possible, also lead to creation of the internet and on-line social networks. Soon after they reached certain size, new value scales emerged, used to express various characteristics of the network members. For example, reputation score generated by users is an expression of expertise level on the stackexchange.com and service reddit.com rewards users with karma points, that signify popularity of posts. In the on-line world, these measures serve as a new signaling mechanism. Such ratings can be made visible in the physical world using wearable technology and augmented reality applications, allowing their wearers/users to access ratings of various characteristics of other individuals as they are observed, creating a new kind of motivation scale, equivalent to the consumption visibility gradient.
+Coincidentally, the same technological advances that make transition to the post-scarcity world possible also lead to creation of the internet and on-line social networks. Soon after they reached certain size, new value scales emerged, used to express various characteristics of the network members. For example, reputation score generated by users is an expression of expertise level on the stackexchange.com. Similarly, the news service reddit.com rewards users with karma points, that signify popularity of posts they make. In the on-line world, these measures serve as a foundation of a new kind of motivation scale. Such ratings can be made visible in the physical world using wearable technology and augmented reality applications, allowing their wearers/users to learn about various characteristics of other individuals as they are observed, creating a functional equivalent to the consumption visibility gradient.
 
 2. Economic inequality
 
-A major obstacle to overcome on the path to post-scarcity economy is finding a solution for the problem of income inequality. Fore one, income inequality results in concentration of wealth, causing decrease of purchasing power for the majority of consumers. That leads to economic stagnation and other economic and social problems [14]. Additionally, existence of material differences between people is contradicting the basic premise of the new era - material equality.
+A major obstacle to overcome on the path to post-scarcity world is finding solution for the problem of income inequality. Fore one, it leads to concentration of wealth, causing decrease of purchasing power for the majority of consumers, causing economic stagnation and other economic and social problems [14], blocking movement towards post-scarcity world. Additionally, existence of material differences between people is contradicting the basic premise of the new era - material equality.
 
-Solutions for addressing income inequality proposed to date are generally considered ineffective or politically unacceptable (for example raising taxtes on wealthy). The results of behavior science research and other related evidence [1][2][6] reveals, that a more systemic solution can be found, rooted in a revision of the capitalist remuneration. In particular, the evidence suggest, that workers expect to be rewarded for their work in two different ways:
+Solutions for addressing income inequality proposed to date have either not found the necessary support among economists, or are politically unacceptable (for example raising taxtes on wealthy). The results of behavior science research and other related evidence [1][2][6] however reveal, that a more systemic solution can be found, rooted in revision of the capitalist remuneration. In particular, the evidence can be interpreted, that workers expect to be rewarded for their work in two different ways:
 
 A. For their "effort" - the time/energy invested into work. Similar to the wage of capitalist reward mechanism, "effort" reward can be used to satisfy the "material" needs and wants of workers (food, shelter, clothing, travel, entertainment...).
 
-B. Once their material needs are addressed, workers try to maximize "impact" reward, reflected in desirability of assets they (co)create. Impact reward is the driving force behind the open source movement or volunteering in general. 
+B. Workers also try to maximize "impact" of their work, reflected in desirability of assets they (co)create. This reward type is what motivates people to work on all kinds of pro-bono projects, including community work, or open source program development. It is also likely the dominant motivation factor to generate profit, especially in cases when workers' income already reached the emotional well-being maximum as identified in [1].
 
-The capitalist remuneration system does not distinguish between these two needs, and rewards workers with a single - material - reward. When impact reward far exceeds the effort reward - as is the case with remuneration of company executives, hedge fund managers, exceptionally good athletes or famous actors -  resources are wasted on rewards, that could be granted in non-material form. In capitalism, the way the visibility consumption gradient is constructed therefore inevitably leads to income inequalities. Introducing a new remuneration mechanism, where impact reward takes "non-material" form, offers the possibility of eliminating the primary cause of income inequality.
+The capitalist remuneration system does not distinguish between these two needs, and rewards workers with a single - material - reward. This feature of capitalist system is likely the basis for income inequality, further exacerbated by the wealth-compounding mechanism described by Piketty [3]. Introducing a new remuneration mechanism, where impact reward takes "non-material" form, therefore offers a possibility to eliminate the primary cause of income and by implication also wealth inequalities.
 
 3. Profit and reward
 
-As was shown above, replacing the single-component remuneration mechanism of capitalist system with a new one, consisting of separate rewards for "effort" and "impact" could both - eliminate income inequality and at the same time maintain the useful "motivation" gradient. This brings up a problem of how the proceeds from sale of assets should be split between the two new rewards. In the capitalist economic model, the sale price of an asset, as well as workers' reward are determined by the market, making the task to construct a simple, general rule for allocating rewards difficult. To find a solution, simplified model can be studied, where work time is used as a carrier of value:
+As was shown above, replacing the single-component remuneration mechanism of capitalist system with a new one, consisting of distinct rewards for "effort" and "impact" could both - eliminate income inequality and at the same time maintain the useful "motivation" gradient. This brings up a problem of how revenue generated by labor should be divided between the two reward types. In the capitalist economic system, the sale price of an asset, as well as workers' reward are determined by the market, making the task to construct a simple, general rule for allocating rewards difficult. To find a solution, a simplified model can be studied instead, where work time is used as a carrier of value:
 
-In an imaginary tribe, berry picker "A" can pick 1 liter of berries in 1 hour with her bare hands. The value of 1 liter of berries, expressed in the currency of the tribe is 1 H (equal to 1 hour of labor). Another - a more inventive - member of the tribe "B" creates a wooden comb, that increases productivity 10-folds to 10 litres per hour. Now the worker B has a surpluss of berries and needs to sell them. If the market demand is high, she can charge 1H for 1 liter. If there are many sellers of berries, she can lower the price, and sell them faster. In either case, she will generate profit, attributable to the use of her harvesting invention. Profit is calculated by adding the time needed to make the comb to the one hour of actual harvesting and substracting the resulting number from the sales proceeds:
+In an imaginary tribe, berry picker "A" can pick 1 liter of berries in 1 hour with her bare hands. The value of 1 liter of berries, expressed in the currency of the tribe is 1 H (equal to 1 hour of labor). Another - a more inventive - member of the tribe "B" creates a wooden comb, that increases productivity 10-fold, to 10 litres per hour. Now the worker B has a surpluss of berries and needs to sell them. If the market demand is high, she can charge 1H for 1 liter. If there are many sellers of berries, she can lower the price, and sell them faster. In either case, she will generate profit, attributable to the use of her harvesting invention. Profit is calculated by adding the time needed to make the comb to the one hour of actual harvesting and substracting the resulting number from the sales proceeds:
 
 P = R - (Ct + Ht)
 
@@ -57,40 +57,52 @@ R	revenue
 Ct	time spend creating the comb
 Ht	time spent harvesting
 
-In actual numbers, her profit is P = 10 - (3 + 1)  = 6H (if we assume it took 3 hours to create the comb). In the future, profit will be of course higher for selling the collected berries, because the cost of harvesting comb has been already paid when the first batch of berries was sold.
+In actual numbers, her profit is P = 10 - (3 + 1)  = 6H (if we assume it took 3 hours to create the comb). In the future, profit will be of course higher for selling the collected berries, because the cost of the harvesting comb has been already paid when the first batch of berries was sold.
 
-In the capitalist system, any benefits resulting from talent and inventions of all types (including business processes) are considered a rightfull property of the gifted owner. This is one of the fundamental assumptions of the capitalist economic system. However, a strong evidence exists, that the most highly rewarded component of any novel or exceptional asset - creativity (and especially its extreme form - genius) - is a statistical phenomenon, occurring in human population randomly [23]. In other words, the unique insight that lead our inventor to create the invention is not the result of her effort and rewarding her materially for the profit it generates is therefore incorrect. This conclusion leads to a solution to the problem of how to divide reveunue among the two types of rewards:
+In the capitalist system, any benefits resulting from worker talent and inventiveness are considered a rightfull property of the gifted owner. This is one of the fundamental assumptions of the capitalist economic system. However, a strong evidence exists, that the human abilities necessary for production of any novel or exceptional asset, like creativity (and especially its extreme form - genius), are a statistical phenomenon, occurring in human population randomly [23]. In other words, the unique insight that lead our inventor to create the invention is not the result of her effort and rewarding her materially for the profit it generates is therefore incorrect. This conclusion leads to a solution to the problem of how to divide reveunue among the two types of rewards:
 
 1. workers should be materially rewarded only for their time/energy exerted, not for profit generated by their work,
 2. a worker who created profit-generating asset should receive non-material reward, equivalent in size to the profit amount.
+3. the reward for profit belongs to the entity that is the source of the exceptional abilities of individuals - the totality of individuals called mankind.
 
 Description of NEO
 
-The findings made in the discussion section indicate, that creation of a new economic model should be possible, that keeps the best features of the capitalist system, while eliminating most of its problems.
+In this section an economic model - NEO - is described, that implements the discussed ideas. This new model can be viewed as a refinement of the capitalist economic model. The main differences are:
 
+1. no physical currency - all transactions are virtual,
+2. existence of two types of rewards - for effort (material) and for impact (non-material),
+3. workers are materially rewarded only for the actual time spent working, regardless of the work type. For profit resulting from their output, workers receive non-material reward,
+4. (matewrial) profit from sales is not property of the worker who created it. Instead, it is used to fund Universal distribution payments issued to all people. The recipients must be NEO participants to access the benefits, as there is no physical currency to distribute them (see point #1)
 
-It is envisioned, that both new reward measures will exist only virtually, Chrons as digital currency stored in private accounts and Merits as numerical score, visible to the pubic. There will be no material objects (coins, bills) representing these measures that NEO participants could pass from one to another, but there might be technical solutions allowing physical representation of the Merit score, for example using augmented reality techniques within wearable devices, allowing users to see each other's Merit score.
+1. The most visible difference between NEO and the capitalst economy is non-existence of physial money in NEO. Common value transactions like purchases of goods or payments for services are initiated from portable personal computers, (semi)permanently connected to the internet. These devices, together with stationary computing resources form a secure and robust computing platform, running computer algorithms, called "Rovas" [5]. These are responsible for all computing tasks of the NEO economy, like user authentication, processing, or storing data. A precursor of the technology can be found in the Safe network [24], or Ethereum [25].
 
+2. There are two new reward types in NEO and two corresponding types of measures. The carrier of "material" value in NEO is a digital currency, called "Chron" [26]. It equals to one hour of human labor. Monetary policy (creating and destroying Chrons, setting inflation rate, e.t.c.) will be described elsewhere, but in general, Chrons will be issued when new value is created in NEO.
 
-For this purpose, NEO introduces a non-material reward type called "Merit," granted to workers for profit generated by selling assets they create. The Merit score is calculated and maintained by a NEO-resident computer program "Rovas", running on every device used to manage economic transactions in NEO.
+The non-material reward, granted to workers for profit from assets they produce is called "Merit". The Merit score is calculated (and stored) in "Rovas". One Merit is numerically equal to one Chron.
 
-Rovas in it's distributed database will also record the actual time workers spent working, information about the assets the workers produced, as well as details about sales. Material rewards workers earn are paid with digital currency called "Chron" with one Chron equal to one hour of work. 
+3. Just as is the case in the capitalist economy, also in NEO workers will be motivated to maximize profit, in order to:
+a. get paid for their work and for any costs incurred while working,
+b. increase their Merit score, which is issued only if work leads to creation of profit-generating good or service.
 
-Both rewards are calculated and granted by algorithm ("Rovas"), from data provided by the workers and sales information from users of the produced assets. Value of one Chron is equal to one hour of labor
+Equality of effort can be illustrated by an example: A physician is paid exactly the same amout of Chrons for one hour of work as a seasonal farm worker. However, the physician can claim portion of education costs as an expense, as from the economic point of view, training of any kind is considered a productivity-increasing tool. For generating profit, the physician will receive Merits in the amount equal to the profit.
 
-The following example illustrates the basic concepts and functions of the model.
+4. Wealth generated by profit is periodically and evenly distributed to all NEO participants as a Universal distribution. NEO participantion is going to be open to all people and will likely require physical presence at certified institutions to prevent multiple Rovas identities for a single person.
 
-Example: An entrepreneur creating a web application.
+The following example illustrates the basic concepts and functions of NEO.
 
-An entrepreneur starts work by creating a new project in Rovas, providing information like name of the project, its description, e.t.c.. Upon submitting, Rovas will generate unique project ID and associates it with the entrepreneur's ID.
+Example 1: An entrepreneur creating a web application.
 
-As she works on the project, the entrepreneur keeps recording her work time. If third party tools are needed to complete the project, she will purchase them and record their Rovas asset IDs (a kind of project ID). Tools without ID do not have to be recorded - they have either been purchased outside of NEO and therefore are not paid with Chrons or the entrepreneur decided not to report such asset use.
+An entrepreneur starts work by creating a new project in Rovas, providing information like name of the project, its description, e.t.c.. Upon submitting, Rovas will generate unique project ID and associates it with the entrepreneur's ID. As she works on the project, the entrepreneur keeps recording her work time. If third party tools are needed to complete the project, she will purchase them and record their Rovas asset IDs (a kind of project ID). Tools without ID do not have to be recorded - they have either been purchased outside of NEO and therefore are not paid with Chrons or the entrepreneur decided not to report such asset use. A special type of assets that she might want to report are expenses paid to acquire any special skills, for example school tuition, because knowledge has the same productivity-enhancing effect as a specialised tool.
 
-In order to measure utility, the entrepreneur will embed a special Rovas-connecting code into the web application, in order to process payments received from users, or record information about their usage. Lastly, the entrepreneur or another worker charged with selling the web application will have to choose a suitable monetizing strategy. Any of many strategies common in the capitalist economies can be used.
+In order to record sales, the entrepreneur will embed a code into the web application, connecting it into Rovas. This will allow automatic processing of payments received from users, or record information about usage of the web application. Lastly, the entrepreneur or another worker charged with selling the web application will have to choose a suitable monetizing strategy. Any of the strategies common in the capitalist economies can be used.
 
-In a scenario where access is allowed only to authenticated users who pay a set price, web application user authenticates into Rovas[20] and confirms the payment. A transaction, containing ID of the user, is sent into Rovas, together with project ID. The Chrons from user's account (managed by Rovas) are transferred into NEO common account and user is granted access into application. 
-Rovas will add together all payments received from all buyers and substract them from all costs. If the result is positive (profit was reached), our entrepreneur as well as all other workers involved in the production are rewarded with Merits for portion of the generated profits. The workers participating on making, marketing and selling the web application must negotiate ahead of time, how Merits will be allocated between them and submit this information into Rovas.
+For example, in a scenario where access is allowed only to authenticated users who pay a set price, the buyer authenticates into Rovas[20] and confirms payment. The web application will send a transaction into Rovas, containing ID of the user, together with project ID. The Chrons from user's account (managed by Rovas) are transferred into NEO common account and user is granted access into application. 
+
+Rovas will add together all payments received from all buyers and substract them from all costs. If the result is positive (profit was reached), our entrepreneur as well as all other workers involved in the asset lifecycle (conception, design... sales, delivery) are rewarded with Merits for portion of the generated profits. The workers participating on making, marketing and selling the web application must negotiate ahead of time, how Merits will be allocated between them and submit this information into Rovas. If they omit to do so, all impact reward will be assigned to the project owner.
 All workers who participated on production will start receive (Chron) payments as soon as first web application users (buyers) start paying for access. After all production costs are paid, profit is stored in NEO common account and earmarked for Universal distribution.
+
+Example 2: Traditional service
+
 
 
 Expected benefits
@@ -194,7 +206,7 @@ Notes:
 2. A physiological limit exists for the number of hours during which an individual can sustainably perform work and the algorithm "running" NEO will not allow workers to report more worked hours than this limit.
 
 
-[1] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being
+[1] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being - http://www.pnas.org/content/107/38/16489.full.pdf#page=1&view=FitH
 [2] Lester M. Salamon, S. Wojciech Sokolowski, Megan A. Haddock: Measuring the economic value of volunteer work globally: concepts, estimates, and a roadmap to the future
 [3] Piketty, Capital in the Twenty-First Century
 [4] Thomas B. Edsall - Just Right Inequality http://www.nytimes.com/2014/03/05/opinion/edsall-just-right-inequality.html
@@ -219,3 +231,6 @@ Consumption and Financial Decisions" - http://www.federalreserve.gov/econresdata
 [21] National Research Council - "Organizational Linkages: Understanding the Productivity Paradox" (1994) http://www.nap.edu/openbook.php?record_id=2135&page=112
 [22] Rational choice theory - http://en.wikipedia.org/wiki/Rational_choice_theory
 [23] David T. Lykken, "The genetics of genius" - http://cogprints.org/611/1/genius.html
+[24] MaidSafe - http://maidsafe.net/
+[25] Ethereum - https://www.ethereum.org/
+[26] A more precise unit for effort would be the energy exerted while performing work, but time is a more familiar and easier to measure quality. This substitution is made with a belief, that the majority of world population shares an intuitive understanding of how much energy an average hour of labor represents.
