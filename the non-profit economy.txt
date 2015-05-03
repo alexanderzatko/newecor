@@ -2,18 +2,18 @@ The non-profit economy
 
 Introduction
 
-This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and global presence of non-profit volunteer work. These indicate, that a new remuneration mechanism, that takes these finding into account, has potential to resolve some of the most pressing problems of the capitalist economic system.
+This paper describes framework for a new economic model (NEO), built upon findings about relationship between income and happiness and global presence of non-profit volunteer work. These indicate, that an economic system with a new remuneration mechanism, that takes these finding into account, has potential to resolve some of the most pressing problems of the capitalist economic system.
 
 There are two observations in particular that served as inspiration for the new model:
 
-1. Behavioral economics research shows, that emotional happiness rises with increasing income only to a certain country-specific level ($75,000 in the USA)[1].
+1. Behavioral economics research shows, that emotional happiness rises with increasing income only to a certain country-specific level ($75,000 in the USA)[1]. Further income increases either do not contribute to growth of happiness or have the opposite effect.
 
-2. Every year, about one billion people from around the world work for free, to produce socially beneficial output. In the process they generate value, that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
+2. Every year, more than billion people from around the world work for free, to produce socially beneficial output. In the process they generate value, that would place a hypothetical country inhabited by volunteers 7th on a list of the most GDP-producing economies[2].
 
-From these findings an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these facts, the economic model proposed here rewards pro-social aspect of work by a non-material score, while establishing a natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in NEO, work reward consists of two separate types:
+From these and other findings of behavioral science an inference can be made, that once their basic material needs are satisfied, people loose interest to work for material reward, if that can not buy recognition from society. A related observation is, that people will work without material compensation, if their work is used and appreciated by other people. Based on these ideas, the economic model proposed here rewards pro-social aspect of work by a non-material score, while establishing a natural limit on the size of material compensation a worker can receive. Thus - in contrast to the remuneration mechanism of capitalist economic system (wage) - in NEO, work reward consists of two separate types:
 
-1. effort - for the number of hours spent by workers to create a good or a service (asset). This reward is similar to wage, as it can be traded for goods or services.
-2. impact - a numerical score, equal to the total sales revenue from an asset made by the rewarded worker. This reward is reflection of individual worker abilities, therefore can't be traded for goods or services.
+1. effort - for the number of hours spent by workers to create a good or a service (asset). This reward can be exchanged for goods and services.
+2. impact - a numerical score, equal to the total sales revenue from an asset made by the rewarded worker. This reward is a reflection of individual worker abilities, therefore can't be traded for goods or services.
 
 The proposed model further postulates:
 a. workers are materially rewarded only for effort and not for impact,
@@ -30,40 +30,70 @@ Deflationary tendencies in the most developed economies, together with increasin
 
 Research shows, that peer effects, combined with wage amount differences result in emergence of differentiated consumption (consumption visibility gradient), that members of society use as a guide for improving their own social standing [18]. Most often, such efforts take the form of learning new skills, causing broad improvements in social capital. Loss of this motivation mechanism - inevitable in the materially equal world - would therefore be detrimental to cultural progress of individuals and the society in general.
 
-Coincidentally, the same technological advances that are making transition to the material equality possible, also lead to creation of the internet and on-line social networks. Soon after social networks reached certain size, new value scales emerged, used to express various characteristics of the network members. For example, reputation score generated by users is an expression of expertise level on the stackexchange.com. Similarly, the news service reddit.com rewards users with karma points, that signify popularity of posts they make. In the on-line world, such ratings generate new kinds of motivation gradients. They can be made visible also in the physical world, using wearable technology, artificial intelligence and augmented reality applications. Using such technology their wearers/users will be able to learn about various characteristics of other individuals as they are observed, creating a functional equivalent to the consumption visibility gradient.
+Coincidentally, the same technological advances that are making transition to the material equality possible, also lead to creation of the internet and on-line social networks. Soon after social networks reached certain size, new value scales emerged, used to express various personal characteristics of the network members. For example, reputation score generated by users is an expression of expertise level on the stackexchange.com. Similarly, the news service reddit.com rewards users with karma points, that signify popularity of posts they make. In the on-line world, such ratings generate new kinds of motivation gradients. In the near future, wearable technology and artificial intelligence-powered augmented reality applications, will make this virtual signaling visible in the physical world as well. Users of such technology will be able to see (numerical or symbolic) rank of other individuals as they are observed, creating a functional equivalent of the consumption visibility gradient.
 
 2. Economic inequality
 
-The World Economic Forum identified growing income inequality as one of the most pressing problems facing the world economy today, affecting not only the world economy, but social and political order as well [14]. In the economic sphere, income inequality and saving rate inequality lead to concentration of wealth, causing levels of wealth inequality not seen since the beginnig of the last century. For example, in the US in 2012 the top 0.1% owned 20% of the country wealth [29]. Concentration of wealth is the main cause of the world-wide economic stagnation posing a barrier on the path toward world of material equality. Solutions for addressing this problem proposed to date have not found sufficient support among economists, or are politically unacceptable. However, results from human behavior research suggest, that several assumptions about worker motivation the capitalist reward system is built upon are incorrect. A new remuneration mechanism, respecting the research results, offers the possibility of a more robust solution to the income inequality problem.
+The World Economic Forum identified growing income inequality as one of the most pressing problems facing the world economy today, affecting not only the world economy, but social order as well [14]. In the economic sphere, income inequality and saving rate inequality lead to concentration of wealth, causing levels of wealth inequality not seen since the beginnig of the last century. For example, in the US in 2012 the top 0.1% owned 20% of the country wealth [29]. Solutions to this problem proposed to date have not found sufficient support among economists, or are politically unacceptable. However, results from human behavior research suggest, that a remuneration mechanism incorporating new knowledge about worker motivation might lead to elimination of income inequality. 
 
-The main findings relevant to this discussion are:
-The capitalist remuneration model recognizes only exchange value of monetary reward, does not consider its source important and assumes work motivation to rise proportionally to the reward amount.
-The research [30] shows, that monetary reward has two components - the exchange component that can be traded for goods and services and signaling component reflecting the worker competence. The source of reward is also important. Only reward received for worker's labor leads to desire to work more and harder. Money received from other sources like inheritance or stocks value gains do not increase motivation. A related study about source importance [32] suggest, that workers prefer to be rewarded for their labor due to the signaling property of this reward as it indicates their competence. The measure is important not only to the worker but also to the other members of society as a source of motivation for sel-improvement.
+The reward system of the capitalist economy is built upon certain assumptions, concerning the effects of reward on worker motivation: 
+a. the salient property of monetary reward affecting motivation is its exchange value (which allows reward to be traded for goods and services),
+b. the source of reward (own labor, investments gains...) is not important, only its size.
+However, recent behavioral studies find these assumptions incorrect. The study [30] shows, that in addition to the exchange function, monetary reward has also a second - "signaling" - function, if the reward source is labor of the rewarded worker and that only this later function motivates the worker to work harder. Rewards originating from other sources, like inheritance or lottery winnings do not have the motivation effect. Another study about reward source importance [32] suggests, that workers prefer to be rewarded for their labor due to the competence signaling property of that reward. The feedback about competence is important for guiding our innate quest for self-determination [33], providing an explanation of its motivational effects.
 
-These results and results of the study concerning income amount and emotional happiness [1] lead to a conclusion, that motivation to increase the exchange component of reward has its limit. Once reached, workers prefer to maximize the amunt of the signaling reward component. Considering that it is a measure of worker competence, there is no reason why this reward could not have the form of a publicly visible numerical score, decoupled from the exchange component. The examples from the volunteering world show, that workers indeed are willing to produce real economic value [2] pro bono, if their work is rewarded by symbolic, but measurable way. A purely symbolic reward for utility of labor would eliminate the likely primary source of income inequality - that the competence reward is granted in a form, that can be exchanged for goods and services. This fact, combined with the positive feedback of reward received for their labor, leads well paid workers to seek an ever increasing amount of compensation.
-
-A revised remuneration mechanism should be possible to design, where the competence value component of reward is expressed as a numeric score, independent of the exchange value component value. Such a construct would address the likely primary source of income inequality.
-
+The new model of worker motivation presents a likely answer to the question about the origin of income inequality. In capitalist remuneration, the competence function of reward is inseparable from the exchange function and therefore any attempt to reward competence, necessarily grants the recipient with the exchange reward as well. However, the pool of available resources for the exchange reward is finite and the desire to maximize the competence reward is unbounded. Rewarding high performers according to their perceived impact thus results in a "zero sum game" where these individuals receive the bulk of the resources available in the economy [31]. Separating the two rewards presents an intriguing possibility for eliminating income inequality, as such a construct would allow setting the (non-tradeable) competence signaling reward as high as necessary, without affecting the amount of the exchange reward.
 
 3. Profit and reward
 
-Building an economic model that accommodates the new knowledge about human economic behavior requires a new method for allocating asset sale revenues among two new reward types. One - similar to the capitalist wage - t
+Economies with separated exchange and competence signaling remuneration mechanisms can be found among several existing non-capitalist systems, that have evolved alongside the capitalist economy. These systems have been market-tested and studied for dozens of years and therefore are a valuable source of information for design of a replacement of the capitalist remuneration mechanism.
+
+The $1,348.1 billion volunteer "economy" [2] is an example, where workers are rewarded for their labor with pure competence-signaling reward. The great diversity of volunteer activities also lead to emergence of several forms of the reward, that nevertheless always represents utility of the work output. For example, in the open source application development, the reward might be the number of application installations, while in more traditional activities like community development work, volunteers are often rewarded by expression of gratitude of the service recipients. In the capitalist economy, utility is represented by revenues from sales of the work output. As this value is also easily measurable, it is a suitable choice for the competence-signaling reward.
+
+Example of an economy with reward having only the exchange function is Timebanking. In this system, one hour of work of any kind performed on behalf of another person earns one time credit, exchangeable for an hour of another worker's work. For example, one hour of a doctor's work is considered equal in value to one hour of gardener's work. The model of worker motivation built upon results of behavior research however predicts, that due to the absence of the competence reward, economies of this kind should not in general be viable in the long-term. A recent Timebanking study [35] confirms this prediction. It found an over-time decreasing participation of timebank members, reluctance of higly-skilled members to trade their work for time credits and other issues, leading to an overall udeveloped marketplace.
+
+Regardless of the observed problems, the idea of labor being "... the real measure of the exchangeable value of all commodities..." as proclaimed by Adam Smith [36] continues to attract people. It is estimated, that there are currently hundreds of Timebanking organizations across the world, counting estimated 160 000 people as members [34]. 
+
+From the analysis of the two economic systems discussed above follows, that the new sought-after remuneration system should include two rewards determined in the following way:
+a. competence signaling reward, proportional to the rewarder worker's contribution to the market value of assets (the revenue from the assets sale) he or she created or helped to create,
+b. exchange reward equal to the number of worked hours.
+
+A necessary condition is that the medium of exchange the workers are rewarded and the assets are priced in are expressed in time credit-like currency.
 
 
 
- into a new requires finding suitable way to distribute value produced by the economy. In capitalism, this task is left to the market forces. These are in turn governed by a legal framework that defines property rights. that by mechanisms evolved
+The market value of labor is the worker-negotiated wage. The worker has an incentive to maximize its amount as it is a reflection of 
+
+with an exchange reward based on the number of labor hours, would not be complete with question of profit ownership left unresolved.
+
+, who should be the recipient of the difference between the revenues from sales of an asset and the cost of labor used to produce the asset.
+
+
+a. the asset price is expressed in the units of time.
+b. the worker will receive the exchange reward in the amount equal to the number of worked hours.
+
+
+
+A remuneration mechanism combining the fundamentally sound idea of time-based work effort equality with 
+
+identical on the surface to the capitalist system 
+
+
+These examples show, that a combination of a non-tradeable reward, reflecting worker competence with a reward for the number of worked hours having exchange value, might prove successful in the marketplace. A critical aspect of adoptibility of such a remuneration mechanism woud be the 
+
+The idea of equality of work effort however has its merits, if other factors affecting the value of work output are considered. Everyday experience shows, that two workers will always need different amounts of time to complete an identical task, with their productivity depending on factors like the work intensity, skills and domain knowledge e.t.c. The 
+
+From the remuneration point of view, the most important task is to decide which factors are the results of the workers' effort and which are accidental. A second question is, who should receive reward for the benefits contributabe to the accidental factors.
+
+
+The personal characteristics, together with differences in the intensity of the work effort and luck form the most important factors affecting worker productivity. Another - and from the remuneration point of view more important - point of view is, which factors are contributable to the worker effort and which are accidental.
+
+From the remuneration point of view, two most important task is to decide which factors are the results of the workers' effort and which are accidental. A second question is, who should receive reward for the benefits contributabe to the accidental factors.
+
+The work intensity can be - at least in theory - directly measured, as it is equal to the energy worker needs to exert, to complete the task. In real life however, most people work with similar intensity, as human physical abilities are dictated by the normal distribution. Intensity of effort is therefore rarely an important contributor to the difference in the task completion.
+
+
 
 property rights -> appropriation of profit
-
- 
-
-
-As shown above, replacing the remuneration mechanism of capitalist system with a new one, where impact reward has non-material form, could both - eliminate income inequality and at the same time maintain the useful motivation gradient. 
-The new remuneration mechanism needs to include two reward types: 
-a. material - similar to wage of the capitalist system,
-b. a new reward type, measuring impact of work output.
-This brings up a problem of how the amounts of the two rewards should be determined. 
-
 
 
 In capitalism, the sale price of an asset, as well as workers' remuneration are set dynamically by market forces. 
@@ -221,7 +251,6 @@ The capitalist remuneration mechanism leads to concentration of material wealth 
 
 
 
-
 [1] Daniel Kahneman, Angus Deaton: High income improves evaluation of life but not emotional well-being - http://www.pnas.org/content/107/38/16489.full.pdf#page=1&view=FitH
 [2] Lester M. Salamon, S. Wojciech Sokolowski, Megan A. Haddock: Measuring the economic value of volunteer work globally: concepts, estimates, and a roadmap to the future
 [3] Piketty, Capital in the Twenty-First Century
@@ -261,3 +290,10 @@ http://www-2.rotman.utoronto.ca/facbios/file/DeVoe,%20Pfeffer,%20and%20Lee,%20IL
 http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0020728
 [32] George Loewenstein, Drazen Issacharoff - "Source dependence in the Valuation of Objects"
 http://www.cmu.edu/dietrich/sds/docs/loewenstein/SourceDependence.pdf
+[33] Edward L. Deci, Richard M. Ryan - "Intrinsic Motivation and Self-Determination in Human Behavior"
+https://books.google.com/books?id=p96Wmn-ER4QC
+[34] Edgar Cahn - "Time Banking: An Idea Whose Time Has Come?"
+http://www.yesmagazine.org/new-economy/time-banking-an-idea-whose-time-has-come
+[35] Patrick C. Shih, Victoria Bellotti, Kyungsik Han, John M. Carroll - "Unequal Time for Unequal Value: Implications of Differing Motivations for Participation in Timebanking"
+http://www.researchgate.net/publication/269519106_Unequal_time_for_unequal_value_Design_implications_of_differing_motivations_for_participation_in_timebanking
+[36] Adam Smith - "The Wealth of Nations" (1776)
