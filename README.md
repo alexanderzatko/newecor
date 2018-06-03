@@ -1,4 +1,4 @@
 newecor
 =======
 
-Writings related to the New Economic Order
+Writings related to the Merit economy and NEO https://merit.world/
